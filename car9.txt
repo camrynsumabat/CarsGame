@@ -1,0 +1,1197 @@
+"40|1 0 2 2 1 1|2 5 2 1 2 2|3 3 0 1 3 3|4 5 1 2 1 4|5 2 3 2 1 5|6 0 3 2 1 6|7 5 5 2 1 7|8 1 4 1 3 8|9 4 0 1 3 9",
+// "ArBdErGlGlBdErCdCdErIdIdDlDlDlDlCuCuIuIuElElBuBuBuBuErCdCdErGrCdArGrIdIdIdArAr"
+
+"29|1 1 2 2 1 1|2 3 4 3 1 2|3 5 2 1 2 3|4 4 1 1 3 4|5 4 5 2 1 5|6 2 4 1 2 6|7 6 2 1 3 7|8 1 3 3 1 8|9 5 0 1 2 9",
+// "ArDuElFdBlCdCdCdBrFuGdHrHrFuElElElFdFdBlBlHlHlDdDdDdArAr"
+
+"18|1 1 2 2 1 1|2 6 1 1 3 2|3 5 0 1 3 3|4 2 6 2 1 4|5 5 4 2 1 5|6 3 3 1 2 6|7 4 1 1 2 7|8 4 3 1 2 8|9 2 0 3 1 9",
+// "ArCdDlFdFdHdHdElBdBdElCdCdIlGuArAr"
+
+"19|1 0 2 2 1 1|2 5 1 1 2 2|3 3 0 1 3 3|4 1 4 3 1 4|5 5 0 2 1 5|6 2 2 1 2 6|7 1 5 3 1 7|8 0 4 1 3 8|9 3 3 2 1 9",
+// "BdBdBdFuFuArHuHuGlHuDlIrCdCdCdArArAr"
+
+"29|1 0 2 2 1 1|2 4 0 1 3 2|3 2 2 1 2 3|4 2 4 1 2 4|5 3 3 3 1 5|6 5 0 1 3 6|7 4 5 2 1 7|8 4 4 2 1 8|9 3 4 1 2 9",
+// "CuCuArArDuErIuGlGlGlGlDdDdIdElElElBdFdIdHlFdFdHlBdBdArAr"
+
+"15|1 0 2 2 1 1|2 2 1 1 2 2|3 5 1 1 2 3|4 4 0 3 1 4|5 3 2 1 2 5|6 6 1 1 2 6|7 4 2 1 2 7|8 4 4 1 2 8|9 4 6 3 1 9",
+// "BdBdArDlDlCuDlEdArFuGuGuArAr"
+
+"18|1 1 2 2 1 1|2 3 0 1 3 2|3 3 5 3 1 3|4 6 1 1 2 4|5 5 2 1 2 5|6 1 4 2 1 6|7 5 0 2 1 7|8 3 4 3 1 8|9 6 3 1 2 9",
+// "BdClClClEuGlDuGlEuIdIdHrBdBdArArAr"
+
+"32|1 1 2 2 1 1|2 5 1 1 3 2|3 4 2 1 2 3|4 3 1 1 3 4|5 0 4 1 2 5|6 2 5 3 1 6|7 1 4 1 2 7|8 6 2 1 3 8|9 2 4 3 1 9",
+// "EuEuGuFlFlHuIrIrDdDdArGuGuGuAlDuDuIlHdHdIlBdBdIlCdIlDdDdArArAr"
+
+"17|1 0 2 2 1 1|2 6 2 1 2 2|3 2 0 1 3 3|4 3 1 1 2 4|5 6 4 1 2 5|6 5 2 1 3 6|7 1 4 2 1 7|8 0 4 1 2 8|9 2 5 3 1 9",
+// "BuBuCdDuGrGrCdIrCdArArArCuIlFdAr"
+
+"22|1 0 2 2 1 1|2 3 4 2 1 2|3 3 0 1 3 3|4 3 3 2 1 4|5 5 2 1 2 5|6 5 4 1 3 6|7 2 4 1 2 7|8 3 5 2 1 8|9 4 1 3 1 9",
+// "ArGuHlHlHlGdDlDlCdGdBlBlCdCdArArIlIlEuEuAr"
+
+"34|1 0 2 2 1 1|2 0 0 3 1 2|3 2 4 1 2 3|4 4 5 2 1 4|5 4 4 3 1 5|6 5 1 1 3 6|7 3 0 1 3 7|8 0 4 1 2 8|9 1 3 1 2 9",
+// "ArCuDlDlDlGdBrBrGdGdArHuDlCdCdHuIuIuIuAlGuGuElElElElFdFdGdGdArArAr"
+
+"22|1 0 2 2 1 1|2 4 0 1 3 2|3 2 2 1 2 3|4 3 1 1 2 4|5 0 4 3 1 5|6 4 5 2 1 6|7 0 1 3 1 7|8 5 2 1 2 8|9 3 4 2 1 9",
+// "BdDdFlFlGrHdHdHdIrDdIrBdBdGrGrCuCuArArArAr"
+
+"17|1 0 2 2 1 1|2 4 2 1 2 2|3 3 0 1 3 3|4 2 3 2 1 4|5 4 4 1 2 5|6 0 3 2 1 6|7 4 0 3 1 7|8 5 3 1 3 8|9 4 6 2 1 9",
+// "ArBuDrIlHdDrCdCdCdArGlGlGlBuArAr"
+
+"20|1 0 2 2 1 1|2 3 0 2 1 2|3 4 1 1 2 3|4 3 2 1 2 4|5 3 4 2 1 5|6 6 0 1 3 6|7 5 1 1 3 7|8 5 4 2 1 8|9 1 3 1 2 9",
+// "ArBrDuDuArElFdBrCuArHlFdFdIuElHlGdGdAr"
+
+"24|1 0 2 2 1 1|2 5 0 1 3 2|3 2 1 1 3 3|4 3 1 1 2 4|5 4 5 3 1 5|6 2 5 2 1 6|7 1 4 3 1 7|8 5 3 2 1 8|9 4 2 1 2 9",
+// "DuFlElFlGrGrCdCdArArIuHlHlBdIuArCuCuElGlBdBdAr"
+
+"31|1 2 2 2 1 1|2 5 1 1 3 2|3 4 1 1 3 3|4 3 4 2 1 4|5 4 5 3 1 5|6 1 4 1 3 6|7 5 4 2 1 7|8 3 5 1 2 8|9 2 3 1 2 9",
+// "AlAlFuIuDlGlIuIuArArFuFuDlDlHuHuElElElElHdHdGlBdBdGlCdCdArAr"
+
+"16|1 1 2 2 1 1|2 1 5 3 1 2|3 3 1 1 3 3|4 0 5 1 2 4|5 6 2 1 3 5|6 0 4 3 1 6|7 5 2 1 2 7|8 5 4 1 2 8|9 4 1 1 2 9",
+// "BrCdGuGuHuBrBrCdArIuArArCuBlEd"
+
+"26|1 0 2 2 1 1|2 4 4 3 1 2|3 5 1 1 3 3|4 2 3 1 2 4|5 6 2 1 2 5|6 3 3 1 2 6|7 5 5 2 1 7|8 3 5 2 1 8|9 4 0 1 3 9",
+// "DuDuDuArFuBlBlBlBlCdEdFdArHlGlHlGlCdHlGlIdIdIdArAr"
+
+"68|1 2 2 2 1 1|2 2 3 3 1 2|3 4 0 1 3 3|4 2 4 1 3 4|5 5 1 1 3 5|6 4 5 2 1 6|7 0 5 1 2 7|8 1 1 2 1 8|9 5 4 2 1 9",
+// "AlAlFlHlIlIlEdEdEdBrDuDuDuIlIlIlDdDdDdBlBlCdCdHrHrHrHrHrCuCuBrBrDuDuDuFlFlIrGuGuFlIrIrDdDdArGuGuGuAlDuDuIlIlIlDdDdArArDdBlBlCdCdCdArAr"
+
+"23|1 1 2 2 1 1|2 3 2 1 3 2|3 5 2 1 2 3|4 6 2 1 2 4|5 5 0 1 2 5|6 4 4 3 1 6|7 0 3 1 3 7|8 1 4 2 1 8|9 4 5 3 1 9",
+// "BuDuDuFlGuGuHlFlCdIlIlCdCdFrFrBdIlIlBdArArAr"
+
+"35|1 0 2 2 1 1|2 4 1 1 3 2|3 5 2 1 3 3|4 2 0 1 3 4|5 2 3 2 1 5|6 1 4 2 1 6|7 2 5 2 1 7|8 0 4 1 2 8|9 3 0 2 1 9",
+// "CdFrFrGlHuGlIrIrBuErDdDdDdArHuHuHuAlDuDuFlFlFlDdDdArArDdElBdBdBdArAr"
+
+"40|1 0 2 2 1 1|2 4 0 1 3 2|3 3 3 3 1 3|4 1 3 1 2 4|5 2 3 1 2 5|6 4 5 2 1 6|7 4 4 2 1 7|8 6 0 1 3 8|9 1 1 3 1 9",
+// "DdDdEdClClBdEdFrGlGlBdBdBdCrCrGlGlEuEuEuHdHdIrIrEuClClBuBuEuArArFlFlFlBdArArHd"
+
+"70|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 4 4 1 3 4|5 5 5 2 1 5|6 2 1 1 3 6|7 1 4 1 2 7|8 3 3 3 1 8|9 0 1 2 1 9",
+// "FuGdHlHlDuDuDuClClClClClDdDdDdHrHrFdFdFdArArArFuFuCrCrGuGuGuClClFdFdAlIrIrGuGuAlAlFuIrFuFuHlBdBdHlDuDuElElBdBdElDdDdElElHrHrFdFdFdArArArAr"
+
+"34|1 0 2 2 1 1|2 1 5 3 1 2|3 2 0 1 3 3|4 5 2 1 3 4|5 4 5 1 2 5|6 6 1 1 3 6|7 3 1 1 2 7|8 1 3 3 1 8|9 2 4 3 1 9",
+// "DuDuFdFdGuIlEuEuBrBrEuEuEuHrHrCdIrIrCdCdArArArCuBlCuCuHlDdIlDdDdAr"
+
+"24|1 0 2 2 1 1|2 1 4 3 1 2|3 2 0 1 3 3|4 2 3 2 1 4|5 4 4 1 2 5|6 5 2 1 2 6|7 2 5 2 1 7|8 3 0 1 3 8|9 0 5 2 1 9",
+// "DlDlCdEuEuBrBrBrCdEuEuFuFuGrCdArGrHdHdHdArArAr"
+
+"33|1 0 2 2 1 1|2 5 0 1 3 2|3 2 1 1 3 3|4 2 5 2 1 4|5 4 4 3 1 5|6 4 2 1 2 6|7 3 0 2 1 7|8 4 5 1 2 8|9 0 4 1 3 9",
+// "BdElElElFuGlFuHuHuDrDrDrHdHdErErCdCdArArArCuCuElBdElHuHuDlDlBdAr"
+
+"49|1 0 2 2 1 1|2 3 0 1 3 2|3 2 3 3 1 3|4 2 4 3 1 4|5 5 5 2 1 5|6 1 5 1 2 6|7 2 5 1 2 7|8 4 5 1 2 8|9 5 2 1 3 9",
+// "FuFuIuDrDrGuIuCrCrBdBdBdBdClGuGuGuClGuArArFuFuClClBuFuAlBuBuDlDlDlDlBdHuHuElElElElBdArArIdIdIdAr"
+
+"22|1 0 2 2 1 1|2 2 4 2 1 2|3 3 0 1 3 3|4 2 2 1 2 4|5 4 2 1 2 5|6 4 4 3 1 6|7 5 1 1 2 7|8 5 0 2 1 8|9 6 1 1 3 9",
+// "BlBlCdCdCdDdArArEuHlHlGuHlEuArArCuCuFlIdId"
+
+"18|1 0 2 2 1 1|2 6 1 1 3 2|3 2 0 1 3 3|4 1 4 2 1 4|5 3 1 1 2 5|6 1 5 2 1 6|7 0 4 1 2 7|8 2 3 3 1 8|9 5 2 1 2 9",
+// "BdBdDrDrEuFrFrIdIdHrCdCdCdArArArAr"
+
+"24|1 2 2 2 1 1|2 4 2 1 2 2|3 5 1 1 3 3|4 4 4 2 1 4|5 5 5 2 1 5|6 3 4 1 2 6|7 4 5 1 2 7|8 1 4 2 1 8|9 4 0 3 1 9",
+// "AlBuFuFuDlCdFuFuArHlDlGuGuElElCdElGdBdGdBdArAr"
+
+"21|1 0 2 2 1 1|2 3 5 2 1 2|3 5 0 1 3 3|4 5 5 2 1 4|5 6 1 1 2 5|6 4 1 1 2 6|7 1 4 1 2 7|8 5 3 2 1 8|9 1 3 2 1 9",
+// "ArArBlDlEuFuArHlIrGuBlDlGuGuIlHlCdCdCdAr"
+
+"24|1 1 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 3 3 1 2 4|5 5 0 1 3 5|6 0 4 1 3 6|7 2 5 2 1 7|8 6 0 1 3 8|9 5 5 2 1 9",
+// "DuClClBdClDdArEdEdFuFuGlGlHdHdIlHdIlEdIlBdArAr"
+
+"27|1 0 2 2 1 1|2 4 4 1 2 2|3 6 0 1 3 3|4 5 5 2 1 4|5 4 3 3 1 5|6 5 0 1 3 6|7 3 4 1 2 7|8 5 4 2 1 8|9 3 1 2 1 9",
+// "ArArArBdElCdElElElFdGdHlCdHlFdHlBuBuDlCdHlGuGuDlFdAr"
+
+"19|1 0 2 2 1 1|2 2 0 1 3 2|3 4 4 3 1 3|4 5 2 1 2 4|5 1 4 2 1 5|6 4 1 3 1 6|7 6 2 1 2 7|8 3 0 1 3 8|9 0 4 1 2 9",
+// "BdHdHdFlGuGuHdIdElBdBdArArArFlDuDuAr"
+
+"30|1 1 2 2 1 1|2 1 3 1 2 2|3 4 3 3 1 3|4 4 0 1 3 4|5 6 0 1 3 5|6 4 4 3 1 6|7 4 5 2 1 7|8 2 5 1 2 8|9 3 5 1 2 9",
+// "ArBuBuHuHuIuIuGlGlGlGlHdHdIdClClClDdEdIdFlEdEdFlFlDdDdArAr"
+
+"48|1 1 2 2 1 1|2 2 5 3 1 2|3 3 0 1 3 3|4 4 1 1 3 4|5 1 4 1 2 5|6 6 2 1 3 6|7 3 4 2 1 7|8 0 1 2 1 8|9 1 3 2 1 9",
+// "DuEdFdFdGlGlHrIrIrIrCdCdHrIrDdDdHrHrCuGrEuEuBlBlHrDuGrGrCdCdArEuEuEuAlCuCuGlGlDdDdGlCdCdArArAr"
+
+"29|1 1 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 4 0 1 3 4|5 3 2 1 2 5|6 4 4 3 1 6|7 3 5 1 2 7|8 4 3 2 1 8|9 2 4 1 2 9",
+// "AlBdClEuEuFlBdBdBdHrDdIuIuFlFlDdFlGuGuClClDdIuIuArArArAr"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 4 2 1 3 3|4 3 5 2 1 4|5 2 2 1 3 5|6 6 2 1 2 6|7 5 2 1 2 7|8 6 5 1 2 8|9 0 5 1 2 9",
+// "BdBdDrBdEdArArFuFuGdHuHuDrCdArAr"
+
+"19|1 0 2 2 1 1|2 1 4 2 1 2|3 5 2 1 3 3|4 3 4 2 1 4|5 2 2 1 2 5|6 4 0 1 3 6|7 0 3 1 2 7|8 0 1 3 1 8|9 0 5 2 1 9",
+// "CdFdHrIrGdGdBlDlFdFdHrHrEuEuArArArAr"
+
+"36|1 1 2 2 1 1|2 4 0 1 3 2|3 2 3 1 2 3|4 3 2 1 3 4|5 4 4 2 1 5|6 1 3 1 2 6|7 2 5 1 2 7|8 5 0 1 3 8|9 3 5 3 1 9",
+// "AlBdCuCuCuArHdIrDdArFuFuFuAlDuDuElElBdElDdElGuGuHdIlIlHdIlBdIlDdArArAr"
+
+"17|1 0 2 2 1 1|2 6 2 1 2 2|3 3 0 1 3 3|4 2 3 3 1 4|5 5 2 1 2 5|6 1 3 1 2 6|7 3 4 2 1 7|8 5 0 1 2 8|9 2 1 1 2 9",
+// "BdBdEdEdDrDrCdEdGrCdCdIuArArArAr"
+
+"45|1 1 2 2 1 1|2 5 0 1 3 2|3 1 3 2 1 3|4 3 4 3 1 4|5 3 0 1 3 5|6 4 5 3 1 6|7 1 5 1 2 7|8 6 0 1 3 8|9 2 5 1 2 9",
+// "AlCrCrCrDrEdEdEdGuGuHdIuIuIuIuIuArArGuGuGuAlEuEuDlDlDlDlEdFlFlFlFlEdArArEdClBdBdBdArHdHd"
+
+"28|1 2 2 2 1 1|2 5 4 2 1 2|3 5 0 1 3 3|4 3 4 1 3 4|5 6 1 1 2 5|6 4 3 1 2 6|7 2 3 1 2 7|8 4 5 2 1 8|9 3 1 2 1 9",
+// "AlCdDuDuEuFuBlHlHlHlHlGdGdIlIlDuBlBlBlCdCdDdDdArFdArAr"
+
+"57|1 0 2 2 1 1|2 6 1 1 3 2|3 4 1 1 3 3|4 4 5 2 1 4|5 2 2 1 3 5|6 4 4 2 1 6|7 0 3 1 2 7|8 2 1 2 1 8|9 1 4 1 2 9",
+// "BdDrFlGdGdHlHlEuFlCdCdIdFlFlEdEdArArArEuEuFrFrGuGuGuIuIuIuFlFlEdEdAlCuDlBdDlHrGuGuHrIuIuAlAlEuDlCdDlDlEdArArArAr"
+
+"18|1 1 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 3 6 2 1 4|5 4 4 1 2 5|6 3 2 1 2 6|7 6 1 1 3 7|8 3 4 1 2 8|9 4 1 1 2 9",
+// "BdDrDrEdClFuFuArGdGdHdClBdBdIuArAr"
+
+"29|1 0 2 2 1 1|2 3 4 2 1 2|3 6 0 1 3 3|4 2 3 2 1 4|5 5 4 2 1 5|6 2 4 1 3 6|7 4 0 1 2 7|8 1 1 3 1 8|9 5 1 1 2 9",
+// "CdDlDlFuFuGdGdHrIdHrFuBlBlBlFdFdArArGdArGdGdElCdCdElIdAr"
+
+"51|1 0 2 2 1 1|2 4 5 2 1 2|3 4 0 1 3 3|4 5 4 2 1 4|5 5 1 1 3 5|6 2 3 1 3 6|7 0 4 1 2 7|8 1 1 2 1 8|9 3 5 1 2 9",
+// "BrCdDlDlEdFuGdHlFuDlCdCdDlDlFdFdArArArFuFuDrGuGuGuDlFdFdAlAlCuBlHrGuGuAlFuIuIuBlBlBlBlCdEdFdArArArAr"
+
+"21|1 0 2 2 1 1|2 6 1 1 3 2|3 5 0 1 3 3|4 2 1 1 2 4|5 3 2 1 2 5|6 4 3 2 1 6|7 5 5 2 1 7|8 3 1 2 1 8|9 3 5 2 1 9",
+// "BdDdDdArHlHlEuEuArArFlCdCdIlGlBdIlGlCdAr"
+
+"23|1 3 2 2 1 1|2 5 4 2 1 2|3 5 0 1 3 3|4 4 3 3 1 4|5 2 2 1 3 5|6 3 4 2 1 6|7 1 4 1 2 7|8 4 5 3 1 8|9 3 5 1 2 9",
+// "EuEuFlBlGuGuFlIuIuHlHlHlHlIdDlDlCdIdBlCdCdAr"
+
+"38|1 0 2 2 1 1|2 4 2 1 3 2|3 3 5 3 1 3|4 1 5 1 2 4|5 2 3 2 1 5|6 5 2 1 2 6|7 2 1 1 2 7|8 0 3 2 1 8|9 3 0 1 3 9",
+// "BuBuCrDuErFuErErBdBdFuGuArHrIdIdIdArIdHrDuDuDuDuAlHlIuIuClClClBdClIdArArAr"
+
+"18|1 0 2 2 1 1|2 3 2 1 2 2|3 2 0 1 3 3|4 4 2 1 2 4|5 5 2 1 2 5|6 5 4 2 1 6|7 1 3 2 1 7|8 5 0 2 1 8|9 3 4 2 1 9",
+// "EuGlCdHlHlEuIlDdIlBdIlCdCdArArArAr"
+
+"24|1 0 2 2 1 1|2 4 0 1 3 2|3 3 3 2 1 3|4 5 1 1 3 4|5 3 5 2 1 5|6 2 4 1 2 6|7 2 2 1 2 7|8 1 5 1 2 8|9 3 4 3 1 9",
+// "GuFuElGuArArHuHuElElFdClBdFdHuIlDdDdIlBdBdArAr"
+
+"53|1 0 2 2 1 1|2 5 0 1 3 2|3 2 1 1 3 3|4 0 3 1 2 4|5 1 4 1 2 5|6 2 4 2 1 6|7 4 1 1 3 7|8 0 1 2 1 8|9 4 5 2 1 9",
+// "BdBdDdDdEdFlFlCdCdArArGdIrGdArCuCuFrDuDuDuFrEuEuEuFlFlCdCdAlGuHrDuDuHrEuEuAlAlCuIlIlBdIlGdIlIlCdArArArAr"
+
+"16|1 0 2 2 1 1|2 2 4 2 1 2|3 2 0 1 3 3|4 6 2 1 2 4|5 6 4 1 2 5|6 1 3 2 1 6|7 4 2 1 2 7|8 5 1 1 2 8|9 1 5 2 1 9",
+// "BrDuDuFlCdCdGuGuHuIlCdArArArAr"
+
+"39|1 0 2 2 1 1|2 4 1 1 3 2|3 3 0 1 3 3|4 3 4 3 1 4|5 2 5 2 1 5|6 1 3 1 2 6|7 1 5 1 2 7|8 5 5 1 2 8|9 2 3 2 1 9",
+// "ArBuDlErHuHuErErHuDrDrHuHuIrIrCdCdCdArFuFuFuAlCuCuDlDlDlDlCdCdArIrBdBdBdArAr"
+
+"47|1 0 2 2 1 1|2 2 4 2 1 2|3 4 0 1 3 3|4 3 5 2 1 4|5 3 1 1 2 5|6 2 0 1 3 6|7 6 4 1 3 7|8 0 1 2 1 8|9 1 5 1 2 9",
+// "BlBlCdCdDlEdFdFdHrHrHrFuBrBrHrEuEuHrCuBrFdIuIuDlDlFdArArIuIuIuAlAlFuFuBlBlBlCdCdFdFdArArArAr"
+
+"31|1 0 2 2 1 1|2 2 4 2 1 2|3 1 5 3 1 3|4 4 4 1 2 4|5 5 3 1 3 5|6 0 4 2 1 6|7 4 1 1 2 7|8 6 0 1 3 8|9 2 0 1 3 9",
+// "DdBrEuEuBrBrDuDuCrCrGuHdIdIdIdArArArIuClClDdDdBlBlEdEdArHdHd"
+
+"40|1 1 2 2 1 1|2 3 5 3 1 2|3 4 1 1 3 3|4 2 5 1 2 4|5 5 0 1 3 5|6 3 2 1 2 6|7 1 4 3 1 7|8 0 3 3 1 8|9 3 0 1 2 9",
+// "AlBrCuGrGrDuGrFdFdFdGlHrHrHrDuDuDuDuArArGlGlGlFuHlEdEdHlCdCdHlFuBlBlBlCdArEdAr"
+
+"46|1 1 2 2 1 1|2 3 1 1 3 2|3 6 2 1 3 3|4 4 0 1 3 4|5 1 3 1 2 5|6 5 5 2 1 6|7 3 4 2 1 7|8 0 1 2 1 8|9 4 3 2 1 9",
+// "EdEdFlCdCdFlFlGlGlBdHrHrIrDdDdHrHrBuGrEuEuFlHrDuGrGrBdBdArEuEuEuAlBuBuGlGlDdDdGlBdBdArArAr"
+
+"31|1 0 2 2 1 1|2 5 1 1 3 2|3 2 0 1 3 3|4 1 3 3 1 4|5 4 5 3 1 5|6 2 5 2 1 6|7 5 0 2 1 7|8 6 1 1 3 8|9 4 2 1 2 9",
+// "FlElFlGlGlBuHdHdIuDrDrCdCdCdArArGlGlGlIuArCuCuCuDlBdBdElBdAr"
+
+"22|1 0 2 2 1 1|2 2 3 1 3 2|3 3 3 2 1 3|4 4 0 1 3 4|5 2 0 2 1 5|6 3 1 1 2 6|7 6 1 1 3 7|8 1 6 2 1 8|9 3 4 2 1 9",
+// "BuBuCrElFuGdGdGdCrDdIlDdDdIlIlBdBdArArArAr"
+
+"47|1 2 2 2 1 1|2 2 4 1 3 2|3 3 5 2 1 3|4 4 0 1 3 4|5 0 5 1 2 5|6 0 4 2 1 6|7 1 1 2 1 7|8 1 5 1 2 8|9 5 4 1 3 9",
+// "BuDdDdGrGrIuIuCrCrDdArBuBuFrEuEuEuEuEuFrHuHuHuFlFlBdBdAlDuClClHuHuAlAlBuClClClBdArArDdArIdAr"
+
+"22|1 0 2 2 1 1|2 2 0 1 3 2|3 4 2 1 3 3|4 4 5 2 1 4|5 2 4 2 1 5|6 0 4 1 2 6|7 3 1 1 3 7|8 2 5 2 1 8|9 5 2 1 2 9",
+// "BdCuDrErBdErErCdCdFuGdHlGdHlBdArArArIuIuAr"
+
+"28|1 0 2 2 1 1|2 4 1 1 3 2|3 5 0 1 3 3|4 4 5 2 1 4|5 6 2 1 2 5|6 4 4 2 1 6|7 2 4 1 3 7|8 3 0 1 3 8|9 1 3 2 1 9",
+// "CdDlEdFlCdCdHdIlGuGuDlDlDlGuFlBdBdFlFlGdGdArHdHdArArAr"
+
+"29|1 0 2 2 1 1|2 3 4 3 1 2|3 5 1 1 3 3|4 3 2 1 2 4|5 5 5 2 1 5|6 3 5 1 2 6|7 1 4 2 1 7|8 6 2 1 3 8|9 2 0 1 3 9",
+// "DuDuElGlHuBrFuFuElIdIdIdArArArIuElElFdFdBlHdHdIuBlCdCdAr"
+
+"28|1 1 2 2 1 1|2 5 5 2 1 2|3 3 5 2 1 3|4 2 4 1 3 4|5 3 3 1 2 5|6 0 3 3 1 6|7 4 3 1 2 7|8 2 0 2 1 8|9 5 1 1 3 9",
+// "EuEuFrGuGuFrGuHlEuArArHlIuFrDuDuClBlClBlDuDuFlIdIdIdAr"
+
+"24|1 1 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 4 1 1 2 4|5 2 0 3 1 5|6 3 2 1 2 6|7 5 4 2 1 7|8 3 4 1 2 8|9 4 4 1 2 9",
+// "BdElDuElFuFuArArHdIdGlGlBdGlGlHuHuIuIuClClBdAr"
+
+"22|1 0 2 2 1 1|2 3 1 1 2 2|3 5 0 1 3 3|4 5 5 2 1 4|5 4 4 2 1 5|6 3 0 2 1 6|7 3 4 1 2 7|8 3 3 3 1 8|9 2 1 1 2 9",
+// "DlGdElElElGuHlCdCdFrBuHlHlGuDlCdIuArArArAr"
+
+"23|1 0 2 2 1 1|2 2 1 1 2 2|3 5 5 2 1 3|4 4 3 1 2 4|5 6 0 1 3 5|6 4 5 1 2 6|7 3 0 3 1 7|8 1 0 2 1 8|9 3 5 1 2 9",
+// "BdBdArArDuDuEdEdFuFuClEdIuIuClClFdDdFdDdArAr"
+
+"28|1 0 2 2 1 1|2 5 4 2 1 2|3 2 2 1 3 3|4 6 1 1 3 4|5 3 4 2 1 5|6 1 5 3 1 6|7 3 1 1 3 7|8 4 5 1 2 8|9 1 3 1 2 9",
+// "CuElHuHuFrFrFrHuBlDdHuHuIdIdElElCdCdArGdGdArArArGuFlDd"
+
+"50|1 0 2 2 1 1|2 5 5 2 1 2|3 2 4 2 1 3|4 2 0 1 3 4|5 1 4 1 2 5|6 4 3 1 3 6|7 4 1 1 2 7|8 1 3 2 1 8|9 6 0 1 3 9",
+// "EdClClGuHlDdDdDdArArArDuDuCrCrDuEuHrHrEuEuClClEuEuHlHlDdDdDdAlAlAlDuFuBlBlBlBlBlDdArArFdArArIdIdId"
+
+"18|1 3 2 2 1 1|2 5 0 1 3 2|3 2 4 1 3 3|4 3 4 3 1 4|5 4 3 3 1 5|6 3 5 3 1 6|7 6 1 1 2 7|8 2 3 2 1 8|9 0 2 1 3 9",
+// "GuHlElIdIdHlCuCuCuCuDlElBdBdFlBdAr"
+
+"17|1 2 2 2 1 1|2 5 0 1 3 2|3 2 4 3 1 3|4 0 4 1 2 4|5 5 4 2 1 5|6 5 5 2 1 6|7 0 6 2 1 7|8 6 1 1 2 8|9 5 3 2 1 9",
+// "ArClDuDuClElElFlFlHuIlIlBdBdBdAr"
+
+"21|1 1 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 1 4 3 1 4|5 0 3 1 2 5|6 4 5 3 1 6|7 4 3 1 2 7|8 3 5 1 2 8|9 0 0 1 3 9",
+// "EdEdDlGuClGuGuHuHuFlFlHuClBdBdHuHuArArAr"
+
+"31|1 1 2 2 1 1|2 5 5 2 1 2|3 3 4 1 3 3|4 5 0 1 3 4|5 1 5 1 2 5|6 1 3 1 2 6|7 3 3 2 1 7|8 1 1 3 1 8|9 2 4 1 3 9",
+// "ArBlFuEuGrCuHrFuEuFuAlAlCuBlIuIuBlBlBlCdCdGlDdDdDdIdArArArAr"
+
+"27|1 1 2 2 1 1|2 4 1 1 3 2|3 3 5 3 1 3|4 5 2 1 3 4|5 6 1 1 2 5|6 3 2 1 2 6|7 2 5 1 2 7|8 0 4 3 1 8|9 1 3 2 1 9",
+// "AlDuEuFuFuHrHrHrGuIlGuClClGuGuGuArArHlDdDdHlBdBdArAr"
+
+"41|1 0 2 2 1 1|2 3 0 1 3 2|3 5 5 2 1 3|4 3 5 2 1 4|5 0 5 1 2 5|6 0 4 2 1 6|7 3 4 2 1 7|8 2 4 1 3 8|9 0 1 2 1 9",
+// "BdGrBdGrHuHuDlDlIrIrIrHuFrEuEuDlIrBuFrFrHdHdArEuEuEuAlHuHuFlFlBdBdFlHdHdArArArAr"
+
+"29|1 1 2 2 1 1|2 4 4 3 1 2|3 4 0 1 3 3|4 6 1 1 3 4|5 3 5 2 1 5|6 2 4 1 2 6|7 5 0 1 3 7|8 5 5 2 1 8|9 3 2 1 2 9",
+// "AlBlCdDdFuElElElFuBlBlBlCdFuFuArGdGdHlDdHlGdHlCdIdArArAr"
+
+"28|1 1 2 2 1 1|2 3 3 1 3 2|3 5 5 2 1 3|4 5 0 1 3 4|5 6 2 1 2 5|6 2 4 1 2 6|7 4 3 2 1 7|8 1 4 1 2 8|9 1 3 2 1 9",
+// "ArBdClEdIrHuHuHuHuAlIlBuBuClIlFuClClBdArArBdGlDdDdDdAr"
+
+"30|1 2 2 2 1 1|2 6 1 1 3 2|3 4 4 1 3 3|4 5 5 2 1 4|5 2 4 1 2 5|6 3 5 1 2 6|7 5 4 2 1 7|8 3 3 2 1 8|9 1 4 1 3 9",
+// "EdHlCuCuCuDlGlBdBdGlGlCdIuIuIuGlFuGlEuIuHlFuDlHlEuDlCdArAr"
+
+"22|1 1 2 2 1 1|2 4 0 1 3 2|3 3 0 1 3 3|4 2 5 2 1 4|5 2 4 2 1 5|6 1 3 1 3 6|7 4 3 2 1 7|8 2 3 2 1 8|9 6 3 1 2 9",
+// "DrDrDrErErFdHlCdCdCdArIuErIuGrBdBdBdArArIu"
+
+"52|1 0 2 2 1 1|2 3 1 1 3 2|3 5 5 2 1 3|4 1 4 1 2 4|5 0 3 2 1 5|6 2 0 1 3 6|7 2 4 2 1 7|8 0 5 1 2 8|9 5 1 1 3 9",
+// "ClFdGrFdFdArFdErGrBdBdArBdErDuDuDuDuAlElBuBuBuClGlHuHuHuHuElFuHuAlFuClClClFuGlGlBdBdGlFdFdArArArIdIdAr"
+
+"49|1 0 2 2 1 1|2 6 0 1 3 2|3 2 1 1 3 3|4 4 2 1 3 4|5 4 5 2 1 5|6 3 4 1 3 6|7 1 5 1 2 7|8 0 4 2 1 8|9 3 1 2 1 9",
+// "BdBdBdFuFuElElHrIrFuHrGuGuElElIrDuHrCdCdArHrFdFdArGuGuGuAlAlCuCuFuFuHlHlDdDdHlFdFdHlCdCdArArArAr"
+
+"25|1 0 2 2 1 1|2 3 0 1 3 2|3 6 2 1 3 3|4 5 2 1 2 4|5 2 0 1 3 5|6 3 4 2 1 6|7 5 0 1 2 7|8 0 5 3 1 8|9 3 3 2 1 9",
+// "DdEdFlFlFlEdHrHrHrEdArEdHrIlIlBdBdBdArArArBuHlCd"
+
+"16|1 1 2 2 1 1|2 2 5 3 1 2|3 2 3 2 1 3|4 3 0 1 3 4|5 4 2 1 2 5|6 6 2 1 2 6|7 5 1 1 2 7|8 0 3 2 1 8|9 2 4 2 1 9",
+// "BrBrEuCrCrDdEuFdGuIlDdDdArArAr"
+
+"28|1 0 2 2 1 1|2 4 2 1 3 2|3 6 0 1 3 3|4 2 2 1 2 4|5 5 4 2 1 5|6 5 5 2 1 6|7 3 5 1 2 7|8 5 3 2 1 8|9 2 4 2 1 9",
+// "BuDuDuArArElFlIlGuGuFlFlFlGdGdElIlElBdBdArArBdHlCdCdCd"
+
+"18|1 0 2 2 1 1|2 4 1 1 3 2|3 3 0 2 1 3|4 5 1 1 2 4|5 3 1 1 2 5|6 4 5 3 1 6|7 6 2 1 2 7|8 4 4 2 1 8|9 3 4 1 2 9",
+// "ArClClDuEuArGuGuHrBdIuFlFlFlBdArAr"
+
+"21|1 0 2 2 1 1|2 5 0 1 3 2|3 3 5 3 1 3|4 2 4 1 2 4|5 4 2 1 2 5|6 3 2 1 2 6|7 5 4 2 1 7|8 5 3 2 1 8|9 3 4 2 1 9",
+// "ArDuClEuEuFuFuArArDuHlHlBdIlGlIlGlBdBdAr"
+
+"28|1 0 2 2 1 1|2 5 2 1 2 2|3 5 4 1 3 3|4 3 1 1 2 4|5 2 1 1 3 5|6 0 5 3 1 6|7 3 3 1 2 7|8 4 1 3 1 8|9 3 0 2 1 9",
+// "EdGdDdHlHlBuBuCuCuHlHlDuGuFrFrFrEdArIlIlDuArArEuFlCdAr"
+
+"18|1 0 2 2 1 1|2 3 2 1 2 2|3 6 1 1 2 3|4 2 4 2 1 4|5 2 1 1 3 5|6 1 5 2 1 6|7 0 3 1 3 7|8 3 5 1 2 8|9 3 0 3 1 9",
+// "BuCdCdDrDrEdHuHuFrFrEdArIrBuArArAr"
+
+"50|1 1 2 2 1 1|2 3 1 1 2 2|3 4 4 3 1 3|4 2 3 1 2 4|5 6 0 1 3 5|6 4 5 3 1 6|7 1 3 1 3 7|8 4 0 1 3 8|9 1 1 2 1 9",
+// "BdBdArBdBdClDdDdClEdEdGuHdIrGuClHdIrIrIrHuCrCrDuDuGdGdAlAlDuClDuDuArArGuGuClClBuBuFlEdFlFlHdHdArAr"
+
+"27|1 0 2 2 1 1|2 4 2 1 3 2|3 6 0 1 3 3|4 5 3 2 1 4|5 3 4 1 3 5|6 5 5 2 1 6|7 2 3 1 3 7|8 5 0 1 3 8|9 0 4 1 2 9",
+// "EuEuFlFlGuFlBdBdDlCdCdCdFlEdEdDlHdHdHdIuFlGdArArArAr"
+
+"16|1 0 2 2 1 1|2 4 1 1 2 2|3 2 1 1 2 3|4 3 0 3 1 4|5 6 2 1 2 5|6 4 3 1 2 6|7 5 1 1 3 7|8 3 1 1 2 8|9 6 4 1 2 9",
+// "CdCdArDlDlBuDlEuEuGdGdHuArArAr"
+
+"14|1 1 2 2 1 1|2 4 4 1 2 2|3 4 6 3 1 3|4 4 2 1 2 4|5 4 0 1 2 5|6 6 2 1 3 6|7 3 2 1 2 7|8 2 4 2 1 8|9 5 1 1 3 9",
+// "ClClClBdDdFdGuGuArArIdIdAr"
+
+"22|1 1 2 2 1 1|2 5 0 1 3 2|3 3 4 1 2 3|4 4 1 1 2 4|5 5 3 2 1 5|6 6 1 1 2 6|7 3 3 2 1 7|8 5 5 2 1 8|9 4 5 1 2 9",
+// "ArDuArFuGlGlCuIuIuHlHlHlHlCdIdElElBdBdBdAr"
+
+"16|1 1 2 2 1 1|2 3 4 3 1 2|3 3 5 3 1 3|4 3 1 1 2 4|5 1 4 2 1 5|6 5 1 1 3 6|7 6 1 1 2 7|8 2 5 1 2 8|9 2 0 3 1 9",
+// "ElGuHuHuClIlIlDuArArHuBlFdFdAr"
+
+"20|1 0 2 2 1 1|2 3 3 2 1 2|3 6 1 1 3 3|4 5 5 2 1 4|5 4 4 1 2 5|6 5 1 1 2 6|7 0 3 3 1 7|8 5 4 2 1 8|9 4 0 1 2 9",
+// "ArArArBrCuBrEuDlDlDlEdBlCdEdFuArHlCdCd"
+
+"15|1 0 2 2 1 1|2 3 3 2 1 2|3 5 3 2 1 3|4 6 0 1 3 4|5 4 1 1 2 5|6 4 0 2 1 6|7 2 3 1 3 7|8 1 6 2 1 8|9 5 5 2 1 9",
+// "ArArHlGdBlClDdDdFrEuArArIlDd"
+
+"19|1 0 2 2 1 1|2 3 0 1 3 2|3 2 3 2 1 3|4 1 3 1 2 4|5 5 1 1 2 5|6 4 1 1 3 6|7 1 5 3 1 7|8 6 1 1 2 8|9 2 4 2 1 9",
+// "ArEuGlHuIrIrIrFdFdFdCrCrBdBdBdArArAr"
+
+"23|1 1 2 2 1 1|2 5 0 2 1 2|3 5 5 1 2 3|4 3 0 1 3 4|5 3 5 2 1 5|6 2 4 2 1 6|7 1 4 1 3 7|8 4 0 1 2 8|9 5 1 2 1 9",
+// "CuCuCuDdErFrFrDdDdArFrHdBlBlHdHdArIlIlCuCuAr"
+
+"21|1 0 2 2 1 1|2 0 5 2 1 2|3 3 0 1 3 3|4 2 5 2 1 4|5 5 2 1 2 5|6 2 3 3 1 6|7 0 3 1 2 7|8 3 4 3 1 8|9 5 5 1 2 9",
+// "ArDrEuEuFlGuGuFlCdHlHlHlCdIuIuDrCdArArAr"
+
+"45|1 0 2 2 1 1|2 3 4 1 3 2|3 5 1 1 3 3|4 4 5 2 1 4|5 2 1 1 3 5|6 0 4 1 2 6|7 5 4 2 1 7|8 0 3 2 1 8|9 1 4 1 2 9",
+// "EdEdArArEdGlHrFuFuFuFuHrIuIuIuHlBuHlEuIuAlAlBuBuDlEuDlDlDlEuGlCdCdGlGlBdBdGlEdEdArArArAr"
+
+"18|1 0 2 2 1 1|2 4 2 1 2 2|3 6 0 1 3 3|4 2 2 1 2 4|5 5 1 1 2 5|6 1 4 2 1 6|7 5 4 2 1 7|8 3 4 2 1 8|9 3 0 3 1 9",
+// "BuCdFlDdArArIlEuIlBuArArDuHlGlCdCd"
+
+"23|1 3 2 2 1 1|2 4 5 3 1 2|3 3 5 1 2 3|4 5 1 1 3 4|5 5 4 2 1 5|6 1 4 2 1 6|7 0 5 2 1 7|8 2 5 1 2 8|9 3 3 2 1 9",
+// "AlAlCuElFlHuIlIlCuBlCuCuCuArArElDdIlHuBlDdAr"
+
+"28|1 0 2 2 1 1|2 5 0 1 3 2|3 3 5 1 2 3|4 5 4 2 1 4|5 6 0 1 3 5|6 3 2 1 2 6|7 3 4 2 1 7|8 4 5 3 1 8|9 1 5 1 2 9",
+// "ArBdEdFuFuArArGlDlEdIuIuIuGlCuCuHlEdHlHlHlCdCdDlBdBdAr"
+
+"28|1 2 2 2 1 1|2 5 3 2 1 2|3 5 5 2 1 3|4 5 0 1 3 4|5 2 4 2 1 5|6 4 1 1 3 6|7 2 5 1 2 7|8 5 4 2 1 8|9 0 5 1 2 9",
+// "AlAlClClElElGuGuClGuGuGuArArHlHlHlFdFdArFdBlBlDdDdDdAr"
+
+"30|1 0 2 2 1 1|2 5 5 2 1 2|3 6 1 1 3 3|4 2 0 1 3 4|5 1 5 2 1 5|6 1 4 2 1 6|7 0 3 1 2 7|8 4 4 2 1 8|9 3 1 1 3 9",
+// "BlDdElFrHrFrDdDdArGuGuGuAlDuDuFlFlFlDdDdArHlCdCdIdIdArArAr"
+
+"16|1 0 2 2 1 1|2 4 1 1 3 2|3 2 5 3 1 3|4 5 4 1 2 4|5 5 2 1 2 5|6 3 4 2 1 6|7 2 3 1 2 7|8 6 3 1 2 8|9 1 5 1 2 9",
+// "DdEdGuFlBdGuGuArArIuIuClBdArAr"
+
+"37|1 0 2 2 1 1|2 2 4 1 2 2|3 5 0 1 3 3|4 5 5 2 1 4|5 3 5 1 2 5|6 2 3 3 1 6|7 4 4 1 3 7|8 2 0 1 2 8|9 5 4 2 1 9",
+// "ArArEuFlGuGuDlGuGuFrFrBuFrEuDlDlDlDlBdBdEdEdFlFlCdFlGdIlIlCdCdIlGdGdArAr"
+
+"20|1 0 2 2 1 1|2 4 2 1 2 2|3 5 0 1 3 3|4 5 3 2 1 4|5 4 4 3 1 5|6 1 4 2 1 6|7 3 3 1 2 7|8 3 1 2 1 8|9 0 3 1 3 9",
+// "ArArGdGdElHlBuBuArDlDlCdIuIuFlElCdCdAr"
+
+"28|1 0 2 2 1 1|2 5 0 1 3 2|3 4 3 3 1 3|4 4 5 3 1 4|5 3 5 1 2 5|6 5 4 2 1 6|7 2 4 2 1 7|8 6 0 1 3 8|9 2 5 1 2 9",
+// "ArFlGlEuEuDlEuEuClEuArArFlGlHdHdHdIuIuDlIuIuClBdBdBdAr"
+
+"36|1 0 2 2 1 1|2 3 3 1 2 2|3 0 5 3 1 3|4 2 2 1 3 4|5 3 1 1 2 5|6 5 5 1 2 6|7 4 3 3 1 7|8 5 0 2 1 8|9 4 5 1 2 9",
+// "BdDuDuFuGlGlFuFuFuGlHlHlFuIuIuIuIuGrGrDdDdGrBuCrCrCrDdArHlHlEuArIuArAr"
+
+"24|1 1 2 2 1 1|2 5 4 2 1 2|3 3 2 1 2 3|4 5 1 1 2 4|5 6 0 1 3 5|6 4 0 1 3 6|7 5 5 2 1 7|8 3 4 1 2 8|9 2 0 2 1 9",
+// "BlCuDuEdEdFdGlEdHdBlBlBlFdHuHuGlGlFdIlCuArArAr"
+
+"55|1 0 2 2 1 1|2 3 5 2 1 2|3 3 1 1 3 3|4 3 4 2 1 4|5 1 5 1 2 5|6 0 3 2 1 6|7 2 3 1 3 7|8 5 4 1 3 8|9 4 3 2 1 9",
+// "ArCuEuGdFrIlHuHuBrHuDrHuIrCdCdCdArCdFrEuEuEuEuAlAlFlCuCuBlCuDlFlGuGuBlBlBlGuDlDlCdCdCdDlGdGdArArArIlHdHdHdAr"
+
+"26|1 1 2 2 1 1|2 4 4 3 1 2|3 5 1 1 3 3|4 1 3 1 2 4|5 4 0 1 3 5|6 3 4 1 2 6|7 4 5 2 1 7|8 6 0 1 3 8|9 2 4 1 2 9",
+// "ArDuEdFuGlHdIuGlGlFdFdBlGlHdHdIdIdBlBlCdCdEdEdArAr"
+
+"21|1 2 2 2 1 1|2 4 5 3 1 2|3 5 1 1 3 3|4 6 2 1 2 4|5 4 2 1 2 5|6 2 4 1 2 6|7 3 4 1 2 7|8 2 3 2 1 8|9 4 4 3 1 9",
+// "EuEuArGdHlHlFuFuIlDdIlCdIlIlGuGuBlBlCdAr"
+
+"19|1 0 2 2 1 1|2 5 3 1 3 2|3 2 4 3 1 3|4 2 0 1 2 4|5 2 2 1 2 5|6 4 2 1 2 6|7 3 1 2 1 7|8 1 6 3 1 8|9 1 4 1 2 9",
+// "BuBuCrEdArArEdHrHrEdClBdBdIdClFdArAr"
+
+"60|1 0 2 2 1 1|2 3 0 1 3 2|3 5 2 1 3 3|4 3 5 2 1 4|5 4 2 1 3 5|6 1 4 1 2 6|7 0 3 2 1 7|8 2 3 2 1 8|9 4 1 3 1 9",
+// "ArCdCdDlEdEdHrGrHrBdBdIlIlIlIlBuBuHlCuCuCuCuHrBdBdHrEuEuDrDrBdArBdGrFuFuIrIrFuFuAlGlBuBuDlDlDlBdArBdEdArEdHlHlCdCdCdAr"
+
+"43|1 0 2 2 1 1|2 2 4 2 1 2|3 3 1 1 3 3|4 2 1 1 3 4|5 1 5 2 1 5|6 5 1 1 3 6|7 4 2 1 3 7|8 0 5 1 2 8|9 0 1 2 1 9",
+// "BlBlCdDdFdFdIrIrIrDuBrHuHuElIrCuBrIrGuBrDdDdArHuHuHuAlDuDuBlBlBlCdCdDdDdArArGdGdArAr"
+
+"15|1 0 2 2 1 1|2 3 2 1 2 2|3 4 4 2 1 3|4 5 2 1 2 4|5 3 4 1 2 5|6 4 1 2 1 6|7 3 0 1 2 7|8 1 4 2 1 8|9 4 6 2 1 9",
+// "ArIlIlIlEdClDdDdDdCrBdArArAr"
+
+"34|1 0 2 2 1 1|2 2 0 1 3 2|3 0 4 3 1 3|4 4 2 1 2 4|5 4 4 1 2 5|6 3 1 2 1 6|7 2 3 2 1 7|8 5 4 1 3 8|9 1 0 1 2 9",
+// "CrEdCrGlGlBdHuHuHuCrBdBdArArBdFlDuDuArGrGrGrBuBuIdIdFlFlBuClHdHdAr"
+
+"23|1 1 2 2 1 1|2 3 2 1 3 2|3 5 2 1 3 3|4 4 4 1 2 4|5 6 2 1 2 5|6 4 1 1 2 6|7 1 5 1 2 7|8 1 3 1 2 8|9 2 5 2 1 9",
+// "DuEdFuIrIrBdArHuGuHuGuHuAlBuIlCdIlIlBdArArAr"
+
+"16|1 1 2 2 1 1|2 3 1 1 3 2|3 5 2 1 2 3|4 4 1 1 2 4|5 4 0 2 1 5|6 6 2 1 2 6|7 0 4 2 1 7|8 2 4 3 1 8|9 2 0 2 1 9",
+// "CdCdCdErDuFdFdFdHrHrBdBdArArAr"
+
+"27|1 0 2 2 1 1|2 5 0 1 2 2|3 5 2 1 2 3|4 5 4 2 1 4|5 3 4 2 1 5|6 5 5 2 1 6|7 2 3 1 2 7|8 4 5 1 2 8|9 3 0 1 3 9",
+// "GuElElElGdArHuHuFlFlFlFlHdHdDlDlCdCdCdDrIdIdIdArArAr"
+
+"27|1 0 2 2 1 1|2 4 5 3 1 2|3 5 0 1 3 3|4 3 3 2 1 4|5 3 5 1 2 5|6 5 3 2 1 6|7 2 5 1 2 7|8 1 3 1 2 8|9 0 5 2 1 9",
+// "ArArDlEuFlGuHuHuDlDlEuBlGuBlHuAlEuEuEuArArFlCdCdCdAr"
+
+"27|1 0 2 2 1 1|2 2 0 1 3 2|3 4 1 1 2 3|4 3 1 1 3 4|5 3 5 2 1 5|6 1 3 2 1 6|7 0 4 3 1 7|8 4 0 3 1 8|9 6 3 1 3 9",
+// "ErFlBdGrGrGrBdBdArHlHlHlCuIuIuGrDdDdArArArDuDuGlIdId"
+
+"21|1 0 2 2 1 1|2 0 5 3 1 2|3 2 2 1 3 3|4 4 5 1 2 4|5 4 3 1 2 5|6 6 1 1 2 6|7 4 1 2 1 7|8 3 0 3 1 8|9 3 1 1 2 9",
+// "BrEuDuFdFdGrEuDuBrBrCdArHlHlEuHlIuArArAr"
+
+"30|1 0 2 2 1 1|2 2 2 1 3 2|3 4 4 3 1 3|4 4 2 1 2 4|5 5 1 1 3 5|6 6 2 1 2 6|7 5 5 2 1 7|8 4 0 1 2 8|9 3 5 1 2 9",
+// "BuClClClDdDdDdCrCrBdBdArArArBuBuClClClDuDuEdFdGlIuIuGlEdAr"
+
+"24|1 0 2 2 1 1|2 2 0 1 3 2|3 2 5 3 1 3|4 5 4 1 3 4|5 5 1 1 2 5|6 1 4 2 1 6|7 5 3 2 1 7|8 3 3 2 1 8|9 6 0 1 3 9",
+// "EuFlHlGlHlGlDuDuCrHlBdBdBdArArArBuClDdArIdIdId"
+
+"17|1 0 2 2 1 1|2 6 0 1 3 2|3 4 2 1 2 3|4 3 2 1 2 4|5 4 4 3 1 5|6 4 0 2 1 6|7 5 3 2 1 7|8 2 2 1 2 8|9 3 1 2 1 9",
+// "DdHdArArIlCuGlBdFrCuArArDuElBdBd"
+
+"28|1 4 2 2 1 1|2 5 5 2 1 2|3 4 3 1 3 3|4 3 4 1 2 4|5 6 1 1 3 5|6 2 2 2 1 6|7 1 1 1 3 7|8 5 4 2 1 8|9 2 3 1 2 9",
+// "DuGdGdFlDuDuDuAlFlIuIuIuAlCuBlBlBlCuHlEdEdHlHlCdCdArAr"
+
+"37|1 0 2 2 1 1|2 5 0 1 3 2|3 4 5 3 1 3|4 3 3 1 3 4|5 1 5 1 2 5|6 1 3 2 1 6|7 4 1 1 3 7|8 2 5 1 2 8|9 5 4 2 1 9",
+// "ArArBdDdEuFrEuEuEuEuAlFlDuDuClDuFlIlIlBdIlGdIlDdIlHuHuClBdClClDdArGdArAr"
+
+"22|1 1 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 4 4 2 1 4|5 2 4 2 1 5|6 6 1 1 2 6|7 4 5 3 1 7|8 3 5 1 2 8|9 3 2 1 2 9",
+// "ClElFuHuIuHuGlGlGlGlHdClBdHdDlBdBdIuArArAr"
+
+"46|1 0 2 2 1 1|2 5 0 1 3 2|3 3 1 1 3 3|4 5 5 2 1 4|5 5 3 2 1 5|6 1 5 1 2 6|7 2 1 1 3 7|8 4 3 1 2 8|9 1 4 2 1 9",
+// "DlDlDlHdElHdIrFuFuDlDlIrGdGdArIrCdCdArFuFuFuAlAlCuCuGuGuIlIlIlCdCdCdElBdBdBdIlGdGdArArArAr"
+
+"23|1 0 2 2 1 1|2 2 0 1 3 2|3 6 1 1 2 3|4 5 1 1 2 4|5 3 2 1 2 5|6 5 0 2 1 6|7 4 1 1 2 7|8 0 3 3 1 8|9 0 4 3 1 9",
+// "CdCdDdDdDdDdEuEuGuHrHrHrBdIrIrIrBdBdArArArAr"
+
+"26|1 2 2 2 1 1|2 5 0 1 3 2|3 4 1 1 3 3|4 3 5 3 1 4|5 5 3 2 1 5|6 3 3 1 2 6|7 1 4 1 2 7|8 1 3 2 1 8|9 2 5 1 2 9",
+// "AlCdFuFuFuArHrGuGuGuHlHlIuIuDlDlCdArCdElElBdBdBdAr"
+
+"23|1 0 2 2 1 1|2 5 5 2 1 2|3 4 4 1 2 3|4 5 0 1 3 4|5 3 5 1 2 5|6 2 3 2 1 6|7 5 3 2 1 7|8 4 2 1 2 8|9 0 5 2 1 9",
+// "ArEuFlEuEuEuEuArFlHuGlGlDdDdGlCuBlBlDdHuArAr"
+
+"44|1 0 2 2 1 1|2 5 1 1 3 2|3 3 1 1 3 3|4 2 4 2 1 4|5 2 1 1 3 5|6 5 5 2 1 6|7 4 5 1 2 7|8 0 3 1 2 8|9 1 5 1 2 9",
+// "DrDrCdCdEdEdArArHuHuHuIuIuIuIuIuAlAlCuCuDlBdEuEuDlDlCdDlEdGuGuFlFlBdFlFlCdFlEdArArArAr"
+
+"37|1 0 2 2 1 1|2 3 5 2 1 2|3 4 1 1 3 3|4 2 0 1 3 4|5 3 4 2 1 5|6 6 4 1 3 6|7 0 5 1 2 7|8 1 3 1 2 8|9 2 3 2 1 9",
+// "BlBlCuGuGuBlIrDdDdDdArArGuGuGuHuHuHuAlAlDuDuElElElDdDdArArDdIlCdCdCdArAr"
+
+"33|1 0 2 2 1 1|2 2 1 1 3 2|3 4 4 1 2 3|4 0 5 3 1 4|5 4 3 2 1 5|6 5 5 1 2 6|7 3 1 1 3 7|8 5 4 2 1 8|9 6 5 1 2 9",
+// "BdDrErCuCuCuCuDrElGuElHlHlFuFuDrBdArFuFuErFuGdHrGdIuIuDrGdArArAr"
+
+"38|1 0 2 2 1 1|2 3 0 1 3 2|3 3 4 2 1 3|4 4 2 1 2 4|5 6 0 1 3 5|6 2 5 3 1 6|7 1 4 1 2 7|8 5 1 1 3 8|9 1 3 2 1 9",
+// "ArBdCrBdEdEdFrFrBdArBdIrGuGuGuGuAlIlBuBuBuClClClBdDdFlEdFlFlFlBdArArHdHdAr"
+
+"32|1 0 2 2 1 1|2 3 0 1 3 2|3 2 4 2 1 3|4 4 3 1 2 4|5 3 5 3 1 5|6 6 4 1 3 6|7 4 0 1 2 7|8 2 0 1 3 8|9 1 4 1 3 9",
+// "BdDuCrCrBdFuFuErBdFuCrDdHdHdHdArArArArBuElHuElIuIuElDdDdClFdFd"
+
+"25|1 1 2 2 1 1|2 5 0 1 3 2|3 4 4 2 1 3|4 4 0 1 3 4|5 2 4 1 2 5|6 3 3 1 2 6|7 6 0 1 3 7|8 0 6 3 1 8|9 4 3 3 1 9",
+// "ArFdHrHrHrEdHrFdClClIlGdGdGdIlBdBdBdIlDdDdDdArAr"
+
+"16|1 1 2 2 1 1|2 2 5 3 1 2|3 3 0 1 3 3|4 1 4 3 1 4|5 0 3 1 2 5|6 1 3 3 1 6|7 6 1 1 2 7|8 4 1 1 2 8|9 5 0 2 1 9",
+// "BrBrEdEdDlFlCdCdCdArGdGdHuArAr"
+
+"24|1 0 2 2 1 1|2 3 3 2 1 2|3 3 5 3 1 3|4 2 4 2 1 4|5 4 0 1 3 5|6 1 5 1 2 6|7 2 5 1 2 7|8 2 2 1 2 8|9 0 1 3 1 9",
+// "BrBrDrDrDrEdEdFuFuGuIrIrIrHuGuClClEdHuArArArAr"
+
+"40|1 0 2 2 1 1|2 4 1 1 3 2|3 3 0 1 3 3|4 4 5 3 1 4|5 4 4 2 1 5|6 2 4 1 2 6|7 6 0 1 3 7|8 1 5 1 2 8|9 0 3 2 1 9",
+// "CdCdCdCdFuFuFuFuArArGdGdHuIrIrHuHuHuHuAlIlCuCuCuDlDlDlDlElElBdBdElCdCdArArArGd"
+
+"31|1 0 2 2 1 1|2 5 2 1 2 2|3 3 4 2 1 3|4 3 0 1 3 4|5 1 4 1 2 5|6 2 5 2 1 6|7 5 1 2 1 7|8 2 3 2 1 8|9 0 3 2 1 9",
+// "ArBdBdClEdClFrGlHrHrDdDdGlGlGlDuDuHlBuBuBuBuFrHrDdDdDdArArAr"
+
+"29|1 1 2 2 1 1|2 6 2 1 3 2|3 4 3 2 1 3|4 4 0 1 3 4|5 2 5 1 2 5|6 2 4 2 1 6|7 3 5 1 2 7|8 0 4 2 1 8|9 4 5 3 1 9",
+// "AlFrEuEuEuEuEuArArFrGuGuIlBdBdCrDdIlIlIlGdGdFlFlDdDdArAr"
+
+"42|1 2 2 2 1 1|2 1 3 1 3 2|3 4 0 1 3 3|4 3 5 2 1 4|5 2 3 1 2 5|6 6 4 1 3 6|7 4 3 3 1 7|8 3 4 2 1 8|9 1 0 1 3 9",
+// "BdDrEdGlFuFuDrFuGlGlCdHrHrCdCdArCdGrGrEuEuEuEuAlGlGlCuCuCuDlDlDlHlFdFdHlHlCdCdArAr"
+
+"31|1 0 2 2 1 1|2 3 0 1 3 2|3 6 1 1 3 3|4 4 4 3 1 4|5 2 5 2 1 5|6 4 1 1 3 6|7 0 3 1 3 7|8 2 2 1 2 8|9 1 4 1 2 9",
+// "BdBdHuHuArGuGuIuElBdArIuIuIuAlBuBuDlCdCdDlDlDlBdBdArFdFdArAr"
+
+"29|1 0 2 2 1 1|2 3 4 2 1 2|3 4 0 1 3 3|4 3 5 3 1 4|5 2 4 1 2 5|6 1 4 1 3 6|7 0 3 2 1 7|8 2 2 1 2 8|9 5 0 1 3 9",
+// "CdEdBlCdHuGrGrFuHuArArFuFuBlBlEuFuGlGlEuDlDlCdArIdIdIdAr"
+
+"23|1 0 2 2 1 1|2 3 4 1 2 2|3 5 0 1 3 3|4 5 4 2 1 4|5 3 6 2 1 5|6 2 2 1 3 6|7 4 2 1 2 7|8 4 0 1 2 8|9 4 5 3 1 9",
+// "BuBuBuBuCdElFdArArGdArFuIlIlIlGdGdDlDlCdCdAr"
+
+"39|1 0 2 2 1 1|2 5 2 1 2 2|3 3 0 1 3 3|4 4 0 1 3 4|5 4 4 3 1 5|6 3 5 3 1 6|7 2 4 1 2 7|8 1 5 1 2 8|9 1 3 2 1 9",
+// "BuBuHuIrHuIrGuFlFlFlGuGuGuArIrCdCdCdArHuHuHuAlCuCuElElElElCdCdArIrDdDdDdArAr"
+
+"32|1 1 2 2 1 1|2 2 5 3 1 2|3 5 0 1 3 3|4 4 1 1 3 4|5 4 4 2 1 5|6 2 3 1 2 6|7 0 4 1 3 7|8 2 0 1 2 8|9 0 1 2 1 9",
+// "AlBrCdElCdFdFdElDdElGuHdHdIrIrIrHuHuArArGuGuElFuFuBlBlCdDdArAr"
+
+"21|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 0 3 1 4|5 3 5 3 1 5|6 2 1 1 2 6|7 4 1 1 2 7|8 0 0 3 1 8|9 2 5 1 2 9",
+// "ClClBdClClClFdFdArArGdGdArFuFuIuIuElBdAr"
+
+"33|1 0 2 2 1 1|2 3 1 1 3 2|3 4 0 1 3 3|4 3 5 2 1 4|5 5 5 1 2 5|6 1 5 1 2 6|7 2 4 3 1 7|8 1 3 1 2 8|9 0 0 3 1 9",
+// "ArCdEuEuDrDrEuGrGrBdBdArHuHuIrIrHuAlBuBuGlGlEdGlCdCdGlBdBdArArAr"
+
+"18|1 1 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 4 1 1 2 4|5 3 0 1 3 5|6 3 4 2 1 6|7 5 2 1 2 7|8 4 0 2 1 8|9 2 5 3 1 9",
+// "BdBdDdEdFlDdFlEdGdIlClBdIlEdArArAr"
+
+"42|1 0 2 2 1 1|2 3 0 1 3 2|3 0 0 3 1 3|4 5 1 1 3 4|5 4 5 3 1 5|6 3 4 3 1 6|7 2 5 1 2 7|8 1 4 1 2 8|9 0 3 2 1 9",
+// "BdCrCrCrFrBdBdBdGuGuGuGuGuArArIrIrHuHuHuHuAlIlBuBuBuElElElElFlFlDdDdFlFlBdBdArArAr"
+
+"36|1 0 2 2 1 1|2 3 2 1 3 2|3 5 0 1 3 3|4 5 5 2 1 4|5 4 4 3 1 5|6 1 3 1 2 6|7 4 1 1 3 7|8 2 5 1 2 8|9 2 3 1 2 9",
+// "BdCdDlIuHuIuHuIuArArFuFuFuAlBuBuDlDlDlDlElHdHdElCdCdElElBdBdArGdGdArAr"
+
+"23|1 0 2 2 1 1|2 1 3 3 1 2|3 2 0 1 3 3|4 6 1 1 2 4|5 1 5 2 1 5|6 4 0 1 3 6|7 3 6 2 1 7|8 0 4 1 3 8|9 5 3 1 2 9",
+// "BrDuErErIdBrCdCdCdArArCdBlBlFdFdIuErErFdArAr"
+
+"44|1 1 2 2 1 1|2 3 0 1 3 2|3 5 3 2 1 3|4 4 1 1 3 4|5 2 5 3 1 5|6 1 3 1 2 6|7 2 3 2 1 7|8 5 0 1 3 8|9 2 4 3 1 9",
+// "ErErFdGlBdIrIrBdBdArBdGrFuFuFuFuAlGlBuBuBuElElElElIlIlIlDdDdDdClIlBdBdArArBdClHdHdHdAr"
+
+"43|1 1 2 2 1 1|2 1 5 1 2 2|3 3 2 1 3 3|4 0 3 2 1 4|5 5 1 1 3 5|6 0 4 3 1 6|7 6 3 1 2 7|8 4 0 1 3 8|9 2 5 2 1 9",
+// "CuDrFrFrBuFrGdGdFrCdHdIrIrCdArCdDrBuBuBuBuAlDlCuCuCuFlFlEdFlFlCdHdIlEdIlHdIlCdArArAr"
+
+"26|1 2 2 2 1 1|2 4 0 1 3 2|3 6 0 1 3 3|4 5 4 2 1 4|5 5 5 2 1 5|6 1 4 2 1 6|7 3 4 1 2 7|8 5 3 2 1 8|9 5 0 1 3 9",
+// "BdDlElFlGuElElElGdGdDlDlBdBdArBdHlCdCdCdHlIdIdIdAr"
+
+"31|1 1 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 4 5 2 1 4|5 3 4 2 1 5|6 5 4 2 1 6|7 3 5 1 2 7|8 2 3 1 2 8|9 4 3 3 1 9",
+// "AlHuElElElFlGuGuDlDlDlGdGdFlFlHuHuArArIlBdBdBdIlIlCdCdCdArAr"
+
+"18|1 1 2 2 1 1|2 4 4 3 1 2|3 6 1 1 2 3|4 4 1 1 3 4|5 5 1 1 2 5|6 5 0 2 1 6|7 3 2 1 2 7|8 2 3 1 2 8|9 3 4 1 2 9",
+// "CdEdGuGuArHdHdIdBlBlBlCdDdDdArEdAr"
+
+"44|1 1 2 2 1 1|2 3 5 3 1 2|3 1 5 1 2 3|4 5 0 1 3 4|5 1 4 2 1 5|6 2 5 1 2 6|7 3 0 1 3 7|8 2 3 2 1 8|9 4 2 1 3 9",
+// "BrDdErCuHlGdIuErErGdGdArGdHrCuCuCuCuAlHlGuGuBlGuElDdElElElFuGdHlFuBlBlBlDdGdArIdIdArAr"
+
+"27|1 0 2 2 1 1|2 5 2 1 2 2|3 4 2 1 2 3|4 1 5 2 1 4|5 2 1 1 3 5|6 2 4 2 1 6|7 5 4 1 3 7|8 4 0 1 2 8|9 0 3 1 3 9",
+// "BuBuCdDrDrGuGuDrDrCdCdFrEdEdArArArEuEuFlCuCuDlDlGdAr"
+
+"23|1 0 2 2 1 1|2 4 2 1 2 2|3 4 4 1 3 3|4 5 3 2 1 4|5 6 0 1 3 5|6 3 1 3 1 6|7 5 5 2 1 7|8 1 5 2 1 8|9 0 4 1 3 9",
+// "ArArFlFlBuBuCuCuGlGlIuIuHlGlCdArArCdDlEdEdEd"
+
+"37|1 0 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 2 1 1 3 4|5 5 4 2 1 5|6 4 5 2 1 6|7 1 4 1 2 7|8 5 1 1 2 8|9 3 3 1 2 9",
+// "BdCdDdDdArArElBdBdFlGuGuGuGuAlAlDuDuFlFlFlHuIdIdElElCdCdElElDdDdArArArAr"
+
+"47|1 0 2 2 1 1|2 2 3 3 1 2|3 1 5 1 2 3|4 3 0 1 3 4|5 3 5 2 1 5|6 0 3 2 1 6|7 2 1 1 2 7|8 5 2 1 3 8|9 0 4 2 1 9",
+// "ErGuArHuHuBrBrDdFrIrIrCuIrIrDdDdArDdFrCuCuCuCuAlFlDuDuDuElElElFlIlIlIlDdDdArArDdBlBlHdHdHdAr"
+
+"23|1 3 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 2 5 2 1 4|5 4 4 1 3 5|6 5 3 2 1 6|7 1 5 1 2 7|8 2 3 3 1 8|9 0 4 1 2 9",
+// "AlGuGuDlGuGuHlEuEuClClIuDlClEdArArEdFlBdBdBd"
+
+"17|1 0 2 2 1 1|2 4 0 2 1 2|3 3 0 1 3 3|4 4 2 1 2 4|5 5 1 1 2 5|6 1 3 3 1 6|7 3 4 3 1 7|8 6 1 1 2 8|9 3 5 2 1 9",
+// "ArDuFlCdBlBlDuEuGrCdHuIrCdArArAr"
+
+"20|1 0 2 2 1 1|2 2 2 1 2 2|3 2 4 1 2 3|4 6 0 1 3 4|5 3 0 1 3 5|6 5 2 1 2 6|7 5 4 1 2 7|8 3 4 2 1 8|9 3 5 2 1 9",
+// "BuBuArCdDdDdDdEdFuFuGuHlHlEdIrEdArArAr"
+
+"46|1 0 2 2 1 1|2 1 4 2 1 2|3 5 5 2 1 3|4 2 1 1 3 4|5 6 0 1 3 5|6 4 0 1 3 6|7 3 4 1 3 7|8 0 4 1 2 8|9 3 2 1 2 9",
+// "EdEdFdFdFdHdBlDdDdArIuGuIuArArDuDuBrHuHuHuBlDdDdAlAlFuClEdGuClHuHuAlDuClClClDdArFdGdArArAr"
+
+"22|1 1 2 2 1 1|2 3 4 3 1 2|3 3 0 1 3 3|4 5 1 1 2 4|5 2 5 3 1 5|6 4 2 1 2 6|7 6 2 1 3 7|8 5 0 2 1 8|9 0 4 2 1 9",
+// "CdElElFuGuBrCdCdArHlHlDuHlFuArArCuCuBlGdGd"
+
+"54|1 2 2 2 1 1|2 3 5 2 1 2|3 6 1 1 3 3|4 4 0 1 3 4|5 4 4 2 1 5|6 2 4 1 3 6|7 5 2 1 2 7|8 0 4 1 2 8|9 2 1 2 1 9",
+// "AlAlBrBrCdDdElFuFuGdHdIlIlFuElDdDdElElFdFdArArArFuFuErHuHuHuElFdFdAlAlDuBlBlCdIrHuHuAlFuBlBlBlDdFdArArArAr"
+
+"38|1 0 2 2 1 1|2 4 5 2 1 2|3 4 1 1 3 3|4 3 4 2 1 4|5 2 1 1 3 5|6 0 3 1 2 6|7 5 0 1 3 7|8 1 5 1 2 8|9 5 3 2 1 9",
+// "BlBlEdHuHuBlBlEdArArFuFuFuHuHuHuAlAlEuEuDlCdCdCdDlDlEdEdArArArIlIlGdGdGdAr"
+
+"14|1 3 2 2 1 1|2 6 1 1 3 2|3 5 4 2 1 3|4 4 3 1 2 4|5 3 5 1 2 5|6 4 0 1 2 6|7 4 5 2 1 7|8 5 2 1 2 8|9 1 4 3 1 9",
+// "HuHuArIlEuEuGlGlDdDdClBdBd"
+
+"25|1 0 2 2 1 1|2 6 0 1 3 2|3 5 1 1 2 3|4 5 5 2 1 4|5 3 2 1 3 5|6 4 4 1 2 6|7 2 2 1 2 7|8 0 4 3 1 8|9 2 0 1 2 9",
+// "BdBdCuEuFdHrHrHrGdArGdGdHlHlFuFuDlBdHlEdEdArArAr"
+
+"30|1 0 2 2 1 1|2 4 2 1 2 2|3 2 0 1 3 3|4 5 1 1 3 4|5 1 5 3 1 5|6 5 4 2 1 6|7 2 3 2 1 7|8 4 5 1 2 8|9 0 3 2 1 9",
+// "BuBuDuGrCdCdGrGrHuHuErErCdArArArCuElElHdGlGlDdHdFlFlDdDdAr"
+
+"20|1 1 2 2 1 1|2 3 0 1 3 2|3 1 4 3 1 3|4 2 3 3 1 4|5 5 1 1 3 5|6 0 3 1 2 6|7 3 5 2 1 7|8 4 0 1 3 8|9 6 2 1 3 9",
+// "DlEdEdFdDlBdFdClBdGlGlBdArHdHdHdArArId"
+
+"32|1 0 2 2 1 1|2 2 2 1 2 2|3 4 0 1 3 3|4 6 0 1 3 4|5 1 4 1 3 5|6 5 5 2 1 6|7 0 3 2 1 7|8 1 1 2 1 8|9 2 4 3 1 9",
+// "DdDdFlDdFlHrIrBdArArBdGrGrEuEuEuGrBuFlFlFlBdBdGlCdIlIlCdCdArAr"
+
+"21|1 0 2 2 1 1|2 3 0 2 1 2|3 2 2 1 2 3|4 4 2 1 2 4|5 2 4 3 1 5|6 5 0 1 3 6|7 5 4 2 1 7|8 1 0 2 1 8|9 5 5 2 1 9",
+// "CuDuElElFdBrBrDuGlGlFdHlCuArArArIlIlFdAr"
+
+"51|1 0 2 2 1 1|2 2 3 1 3 2|3 5 1 1 3 3|4 1 1 2 1 4|5 5 4 2 1 5|6 0 3 1 2 6|7 0 6 3 1 7|8 4 3 1 3 8|9 5 5 2 1 9",
+// "BuDlBuFdGrFdHuHuElElCdElElElBdBdArArHdHdArBuBuErFuFuFuElBdBdAlAlDrFuFuAlBuHuIlIlCdIlHdIlIlBdArArArAr"
+
+"34|1 2 2 2 1 1|2 3 3 3 1 2|3 4 0 1 3 3|4 2 3 1 3 4|5 6 0 1 3 5|6 3 4 2 1 6|7 5 5 2 1 7|8 1 1 1 2 8|9 3 5 1 2 9",
+// "BrGlHuAlAlDuDuFlFlFlDdIuIuGlGlGlGlDdArArDdIdBlBlBlCdCdCdArArEdEdEd"
+
+"37|1 0 2 2 1 1|2 5 2 1 2 2|3 2 0 1 3 3|4 5 4 2 1 4|5 0 5 1 2 5|6 1 4 2 1 6|7 5 0 1 2 7|8 4 2 1 3 8|9 3 5 2 1 9",
+// "CdEuEuFrHuFrCdCdArEuEuEuAlCuCuFlDlFlDlBdBdBdDrDrFlCdHdIlHdIlIlCdArArArAr"
+
+"21|1 0 2 2 1 1|2 3 1 1 3 2|3 5 1 1 2 3|4 2 4 3 1 4|5 2 0 1 3 5|6 5 0 2 1 6|7 1 5 2 1 7|8 4 2 1 2 8|9 6 3 1 2 9",
+// "CdCdCdCdDrEdEdGlEdArHuHuIdIdDrBdBdArArAr"
+
+"45|1 0 2 2 1 1|2 2 2 1 2 2|3 5 0 1 3 3|4 5 5 2 1 4|5 0 4 3 1 5|6 4 4 1 2 6|7 3 4 1 3 7|8 1 5 1 2 8|9 4 3 2 1 9",
+// "BuBuArGuGuGuErIrFuDlDlDlFdFdErErErGdHuHuDlGdArHuHuHuAlGuGuElElElElGdGdArArGdIlIlCdCdCdAr"
+
+"30|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 3 1 1 2 4|5 2 5 1 2 5|6 4 4 3 1 6|7 0 3 3 1 7|8 1 0 3 1 8|9 6 0 1 3 9",
+// "EuFlGrGrGrEuClClEuEuFlFlGlGlBdBdBdHrHrEuArIdHrDuArArArIdId"
+
+"43|1 0 2 2 1 1|2 4 3 2 1 2|3 5 0 1 3 3|4 4 5 2 1 4|5 3 4 1 2 5|6 4 0 1 3 6|7 2 0 1 3 7|8 1 5 1 2 8|9 1 4 2 1 9",
+// "EdGdIrHuHuIrGdGdArArHuHuHuAlAlGuGuIlIlEuEuDlDlDlDlEdBlCdCdCdIlGdGdArArGdBlFdFdFdArAr"
+
+"24|1 0 2 2 1 1|2 6 1 1 2 2|3 4 0 1 3 3|4 4 4 2 1 4|5 2 4 1 3 5|6 0 5 2 1 6|7 6 5 1 2 7|8 2 3 2 1 8|9 3 5 2 1 9",
+// "BuCdDlGuGuHlHlEuEuEuDlCdDlDlEdEdArArIrIrCdArAr"
+
+"29|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 3 3|4 5 1 1 2 4|5 6 0 1 3 5|6 4 3 3 1 6|7 4 4 2 1 7|8 2 3 1 2 8|9 4 5 3 1 9",
+// "AlDuGlHuGlGlCdHuHuArIlIlIlIlCdArCdFlEdEdEdFlFlBdBdBdArAr"
+
+"27|1 0 2 2 1 1|2 3 1 1 3 2|3 4 0 2 1 3|4 6 0 1 3 4|5 5 1 1 2 5|6 1 5 3 1 6|7 2 1 1 3 7|8 4 5 1 2 8|9 4 3 2 1 9",
+// "BdClClEuGdHuIrHuFrFrFrBdGdArArHuHuHuArArBuFlIlDdDdDd"
+
+"41|1 1 2 2 1 1|2 5 5 2 1 2|3 5 1 1 3 3|4 3 1 1 3 4|5 1 4 1 2 5|6 2 4 3 1 6|7 6 3 1 2 7|8 0 3 2 1 8|9 2 5 1 2 9",
+// "BlFrGdGdFrDdDdArDdHrHrEuEuEuEuAlHlDuDuBlDuFlHlIuIuBlBlBlIdIdFlCdCdFlFlDdDdArArAr"
+
+"22|1 0 2 2 1 1|2 4 1 1 3 2|3 2 0 1 3 3|4 3 5 2 1 4|5 1 3 3 1 5|6 3 4 2 1 6|7 6 4 1 2 7|8 5 4 1 2 8|9 0 5 1 2 9",
+// "DlDlGdHdFrFrBdBdBdErErCdCdIuIuDlCdArArArAr"
+
+"49|1 0 2 2 1 1|2 4 1 1 3 2|3 1 5 1 2 3|4 0 3 3 1 4|5 3 5 3 1 5|6 0 4 3 1 6|7 3 1 1 3 7|8 6 4 1 2 8|9 2 5 1 2 9",
+// "BuFrFrCuFrGuDrDrCuDrDrGdHdFrGdIuIuElElElGdIuIuIuArArCuCuCuAlGuGuFlFlFlFlGdGdArGdDlDlDlBdBdBdArAr"
+
+"23|1 0 2 2 1 1|2 2 1 1 3 2|3 4 5 1 2 3|4 0 4 3 1 4|5 2 5 2 1 5|6 0 5 2 1 6|7 4 0 2 1 7|8 5 2 1 2 8|9 6 0 1 3 9",
+// "CuCuCuCuDrDrDrBdErBdArArGlGlCuArHuHuArIdIdId"
+
+"17|1 0 2 2 1 1|2 4 2 1 2 2|3 3 4 2 1 3|4 3 1 1 3 4|5 3 5 2 1 5|6 6 1 1 2 6|7 0 4 3 1 7|8 5 5 1 2 8|9 1 5 1 2 9",
+// "ArBuBuFuHuHuErHuCrDdDdArArHuHuAr"
+
+"63|1 1 2 2 1 1|2 3 0 1 3 2|3 6 1 1 3 3|4 5 5 2 1 4|5 5 4 2 1 5|6 1 3 1 2 6|7 0 1 2 1 7|8 4 2 1 3 8|9 2 3 1 3 9",
+// "AlBdFdFdHuElCdElIuIuElElBdBdElHdHdIdIdArArArArBuBuIuIuErErFuFuFuElBdBdAlElIdGrGrFuFuIdAlAlAlBuHuDlCdDlIuDlDlBdDlHdIdArArArAr"
+
+"13|1 0 2 2 1 1|2 2 1 2 1 2|3 4 1 3 1 3|4 3 2 1 2 4|5 5 2 1 2 5|6 4 4 2 1 6|7 2 4 2 1 7|8 6 2 1 2 8|9 6 4 1 2 9",
+// "ArBlDuDuArArGlFlEdArIdHd"
+
+"27|1 0 2 2 1 1|2 4 3 2 1 2|3 4 0 1 3 3|4 4 4 3 1 4|5 1 4 1 2 5|6 5 0 1 3 6|7 1 3 3 1 7|8 3 5 3 1 8|9 3 1 1 2 9",
+// "ArBrDlDlGrEuHlHlIuArEuDlEuGlCdCdCdArCdBlGlBlFdFdFdAr"
+
+"27|1 0 2 2 1 1|2 4 5 1 2 2|3 5 5 2 1 3|4 4 2 1 2 4|5 5 2 1 3 5|6 4 1 3 1 6|7 4 0 3 1 7|8 3 0 1 2 8|9 3 2 1 2 9",
+// "ArBuIdHdGlGlGlGlIdHdFlFlFlDuBuClDuFlHuHuArArIuClEdAr"
+
+"25|1 0 2 2 1 1|2 6 2 1 2 2|3 4 0 1 3 3|4 2 3 3 1 4|5 2 5 3 1 5|6 3 1 1 2 6|7 3 4 2 1 7|8 1 3 1 2 8|9 1 1 2 1 9",
+// "ArBuBuDrDrElElFdGrFdArFdDlDlGrHuIrHuDlCdCdCdArAr"
+
+"37|1 0 2 2 1 1|2 5 4 2 1 2|3 6 0 1 3 3|4 5 1 1 3 4|5 3 4 1 3 5|6 1 3 1 2 6|7 2 2 1 3 7|8 0 5 2 1 8|9 3 3 2 1 9",
+// "BlCdCdCdDuGdArArFuFuFuAlAlGuGuIrEuEuEuBlBlBlBlEdEdEdGdGdArArArIlDdDdDdAr"
+
+"33|1 0 2 2 1 1|2 3 0 1 3 2|3 2 1 1 3 3|4 1 4 2 1 4|5 3 4 2 1 5|6 0 3 1 2 6|7 0 5 1 2 7|8 6 2 1 3 8|9 3 5 3 1 9",
+// "BdErDrHuErDrCdCdArFuFuFuAlCuCuDlDlBdDlCdCdArElHdIrBdArArArBuIlHd"
+
+"27|1 0 2 2 1 1|2 5 3 1 2 2|3 3 4 2 1 3|4 0 4 3 1 4|5 3 3 2 1 5|6 2 2 1 2 6|7 0 1 3 1 7|8 5 1 1 2 8|9 4 0 1 2 9",
+// "BdBdCrCrErErGrIdIdGrIdIdElElHdGrFuFuArArArIdClClHdAr"
+
+"22|1 0 2 2 1 1|2 3 0 1 3 2|3 3 5 2 1 3|4 4 2 1 2 4|5 5 5 1 2 5|6 4 4 2 1 6|7 1 4 1 3 7|8 5 1 2 1 8|9 6 2 1 3 9",
+// "ArBdFlEuEuCrEuFrBdBdArHlHlEuEuHlDuDuArArId"
+
+"24|1 0 2 2 1 1|2 2 5 2 1 2|3 3 0 1 3 3|4 4 2 1 3 4|5 2 2 1 3 5|6 4 5 2 1 6|7 6 5 1 2 7|8 5 4 2 1 8|9 5 2 1 2 9",
+// "BlBlCdCdCdDuEdArArHlGuGuFrGuGuGuHrDdDdArIuIuAr"
+
+"23|1 0 2 2 1 1|2 5 0 1 3 2|3 4 1 1 2 3|4 5 5 2 1 4|5 2 1 1 2 5|6 3 3 3 1 6|7 3 5 2 1 7|8 2 4 1 3 8|9 6 0 1 3 9",
+// "CuEuArArArHuHuGlDlGlDlGlHdHdFlBdBdBdArIdIdId"
+
+"44|1 1 2 2 1 1|2 2 5 3 1 2|3 4 0 1 3 3|4 3 3 3 1 4|5 3 4 2 1 5|6 2 3 1 2 6|7 1 3 1 2 7|8 0 1 2 1 8|9 6 0 1 3 9",
+// "AlBrFdDlFdElGdDlCdCdHrHrHrHrIdIdHrCuCuDrDrErFuFuBlFuElFuDlFuArArGuBlGuGuDlCdCdCdArArId"
+
+"28|1 0 2 2 1 1|2 5 0 1 3 2|3 3 5 2 1 3|4 4 0 1 3 4|5 2 1 1 2 5|6 5 5 2 1 6|7 2 5 1 2 7|8 4 3 2 1 8|9 4 4 2 1 9",
+// "EuArArHrDdIlIlDdIlIlGuGuClClClFlFlFlDdArDdHlHlBdBdBdAr"
+
+"38|1 3 2 2 1 1|2 4 5 3 1 2|3 3 4 1 3 3|4 5 0 1 3 4|5 1 4 1 2 5|6 2 5 1 2 6|7 1 3 3 1 7|8 6 1 1 3 8|9 4 4 3 1 9",
+// "FuGrEuEuEuEuGrFuFuFuFuAlAlGlDdGlGlCuCuBlBlBlBlCuIlHdHdIlDdDdIlIlCdCdArArAr"
+
+"23|1 1 2 2 1 1|2 1 4 1 3 2|3 4 1 1 3 3|4 5 2 1 2 4|5 2 5 3 1 5|6 0 3 2 1 6|7 2 3 2 1 7|8 6 2 1 2 8|9 4 0 3 1 9",
+// "ArDdDdHdHdIlIlIlCuGrFrGrFrBuBuElGrCdCdCdArAr"
+
+"55|1 0 2 2 1 1|2 4 4 3 1 2|3 4 0 1 3 3|4 1 3 1 2 4|5 3 0 1 3 5|6 2 5 3 1 6|7 2 3 1 2 7|8 0 1 2 1 8|9 0 3 1 2 9",
+// "ArBlCdDdDdEdHrIuIuIuAlGuBlBlBlCdEdHrHrGuGuArHrEuBrHrCuBrBrBrDuDuEdFlFlEdArDuDuDuAlEuEuBlBlBlBlCdCdEdEdArArAr"
+
+"22|1 0 2 2 1 1|2 3 5 3 1 2|3 1 4 2 1 3|4 5 0 1 3 4|5 4 4 3 1 5|6 1 5 2 1 6|7 2 0 1 3 7|8 6 1 1 2 8|9 2 3 3 1 9",
+// "ClElFlHuIrGdGdGdArArArGuBlGuElGuIlDdDdDdAr"
+
+"52|1 0 2 2 1 1|2 3 5 2 1 2|3 3 0 1 3 3|4 4 0 1 3 4|5 2 4 2 1 5|6 6 0 1 3 6|7 1 5 1 2 7|8 0 3 3 1 8|9 2 0 1 3 9",
+// "BlErErGuHrHrGuBlBlHrHrCdCdCdIdIdIdArArGuGuGuAlAlCuCuElIuIuElElCdCdCdElHlFdFdFdIdIdArArIdHlHlDdDdDdArAr"
+
+"29|1 2 2 2 1 1|2 3 5 2 1 2|3 5 0 1 3 3|4 4 0 1 3 4|5 2 4 1 3 5|6 1 1 1 2 6|7 0 1 1 2 7|8 1 0 3 1 8|9 1 3 3 1 9",
+// "GuIrFdFdAlAlIrEuEuBlBlBlEdArArEdFuFuIlCdCdCdIlDdDdDdArAr"
+
+"33|1 0 2 2 1 1|2 3 4 2 1 2|3 5 4 2 1 3|4 4 0 1 3 4|5 4 5 2 1 5|6 2 4 1 2 6|7 5 0 1 3 7|8 1 3 3 1 8|9 3 5 1 2 9",
+// "HrHrFuFuBlBlBlClFuFuArArHlGdHlDdHlIuIuElElElIdIdClClDdDdArGdGdAr"
+
+"20|1 0 2 2 1 1|2 6 1 1 3 2|3 2 2 1 2 3|4 3 1 1 3 4|5 3 4 2 1 5|6 2 4 1 3 6|7 5 4 1 2 7|8 2 0 3 1 8|9 4 1 1 2 9",
+// "CuGdErDdDdErHrCuArArIdIdArArIdIdElBdBd"
+
+"27|1 1 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 3 5 2 1 4|5 2 4 1 2 5|6 4 1 1 3 6|7 0 5 1 2 7|8 5 1 1 2 8|9 4 4 3 1 9",
+// "AlBdEuDlClDlClEuEuEuArArGuGuDlClHuIlBdBdIlIlFdFdArAr"
+
+"42|1 0 2 2 1 1|2 3 0 1 3 2|3 2 4 1 2 3|4 5 1 1 3 4|5 4 4 3 1 5|6 1 5 1 2 6|7 5 5 2 1 7|8 4 0 1 3 8|9 3 3 2 1 9",
+// "ArCuDuFuFuGlGlGlGlGlCdCdIrBdBdBdArFuFuFuAlBuBuElElElElBdBdArBdIlDdDdDdIlHdHdHdArAr"
+
+"19|1 0 2 2 1 1|2 6 2 1 2 2|3 3 5 2 1 3|4 3 4 2 1 4|5 2 3 1 3 5|6 4 1 1 3 6|7 5 2 1 2 7|8 5 5 1 2 8|9 6 0 1 2 9",
+// "BdBdBdDrDrEuClClClEdArArFdFdArGuGuAr"
+
+"20|1 0 2 2 1 1|2 2 4 1 2 2|3 4 1 1 3 3|4 5 3 1 3 4|5 3 4 2 1 5|6 3 5 2 1 6|7 2 2 1 2 7|8 0 0 3 1 8|9 6 2 1 2 9",
+// "BdElCdElElBuGuBuFlCdHrHrHrGuArArArArId"
+
+"25|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 2 2 1 2 4|5 4 0 1 3 5|6 3 4 2 1 6|7 3 2 1 2 7|8 4 3 2 1 8|9 1 0 3 1 9",
+// "DdArDdDdFlClFlClFlClGuHlBdBdBdHlEdEdEdIlGuArArAr"
+
+"23|1 0 2 2 1 1|2 4 1 1 3 2|3 2 1 1 2 3|4 3 5 3 1 4|5 4 4 2 1 5|6 1 5 1 2 6|7 5 0 1 3 7|8 1 4 2 1 8|9 0 3 2 1 9",
+// "CuArArDlGdHrFuIrIrFuDlFuHlElGdGdHlElBdBdArAr"
+
+"18|1 1 2 2 1 1|2 4 0 2 1 2|3 5 1 1 2 3|4 3 3 2 1 4|5 3 0 1 3 5|6 5 3 2 1 6|7 1 3 1 2 7|8 2 4 2 1 8|9 0 5 3 1 9",
+// "DlHrHrIrIrGdDlEdBlCuEdIrIrEdArArAr"
+
+"27|1 0 2 2 1 1|2 3 3 2 1 2|3 6 0 1 3 3|4 2 4 2 1 4|5 4 4 3 1 5|6 0 3 1 2 6|7 2 0 1 3 7|8 5 3 2 1 8|9 5 0 1 3 9",
+// "BlBlDlElFdBlFdDlGdGdGdArArArGuGuElHlCdCdCdHlIdIdIdAr"
+
+"23|1 0 2 2 1 1|2 2 0 1 3 2|3 6 2 1 2 3|4 1 4 2 1 4|5 0 3 1 3 5|6 2 5 3 1 6|7 5 5 1 2 7|8 4 1 1 2 8|9 4 3 1 2 9",
+// "BdCuCuDrGuGuFrGuGuGuHuIuDrBdBdArArDrDrIdArAr"
+
+"41|1 0 2 2 1 1|2 5 1 1 3 2|3 3 3 1 3 3|4 2 0 1 3 4|5 4 1 1 3 5|6 5 5 2 1 6|7 0 4 1 2 7|8 1 3 1 2 8|9 5 4 2 1 9",
+// "DdDdDdArArFlGuGuGuGuHuHuHuAlAlCuCuDuDuFlFlFlFlIlIlBdBdIlEdEdIlCdCdIlDdDdArArArAr"
+
+"31|1 0 2 2 1 1|2 4 5 1 2 2|3 1 5 3 1 3|4 3 4 2 1 4|5 4 1 1 2 5|6 1 4 2 1 6|7 0 3 1 2 7|8 0 5 1 2 8|9 2 0 1 3 9",
+// "DrDrBuBuCrCrEuBuFrFrIdIdIdArGuGuGuAlIuIuFlBdFlFlIdIdArArArAr"
+
+"17|1 0 2 2 1 1|2 6 4 1 2 2|3 4 5 2 1 3|4 3 0 1 3 4|5 4 2 1 3 5|6 6 1 1 2 6|7 2 1 1 3 7|8 5 0 2 1 8|9 5 1 1 2 9",
+// "BuCrDdDdDdEdGdGdArArArHlFuHlIuAr"
+
+"20|1 3 2 2 1 1|2 0 5 2 1 2|3 3 4 1 2 3|4 5 0 1 3 4|5 4 4 2 1 5|6 4 5 2 1 6|7 4 3 3 1 7|8 1 2 1 3 8|9 0 0 2 1 9",
+// "CdElElGlGlDdDdHuElCuIrIrHuGlGlCuFlDdAr"
+
+"36|1 1 2 2 1 1|2 5 4 2 1 2|3 3 4 1 2 3|4 2 4 1 3 4|5 6 0 1 3 5|6 5 0 1 3 6|7 4 3 1 3 7|8 0 2 1 2 8|9 1 3 3 1 9",
+// "CdEdGuGuBlBlEdEdGuHuHuAlIrIrDuDuDuBlBlBlDdDdArArDdIlFdFdFdIlGdGdGdArAr"
+
+"57|1 0 2 2 1 1|2 4 5 2 1 2|3 5 0 1 3 3|4 1 5 1 2 4|5 1 3 2 1 5|6 0 4 2 1 6|7 3 2 1 3 7|8 2 4 1 3 8|9 5 3 2 1 9",
+// "ElGuHuHuHuFrFrDuFrFrGdGdGdHdHdArArHdErErDuDuDuDuAlAlElElGuGuBlGuFlHuHuBlBlBlHuFlFlFlGdGdGdHdHdArArArIlIlCdCdCdAr"
+
+"39|1 0 2 2 1 1|2 4 2 1 3 2|3 6 2 1 3 3|4 4 5 3 1 4|5 1 4 1 2 5|6 2 5 1 2 6|7 1 3 3 1 7|8 5 2 1 3 8|9 3 4 1 3 9",
+// "BuBuFuGrEuHuHuGrFuFuFuFuArArEuEuEuAlGlGlBdBdGlHdHdIuIuDlCdDlDlBdDlHdIdArArAr"
+
+"15|1 0 2 2 1 1|2 2 2 1 2 2|3 5 1 1 3 3|4 4 2 1 2 4|5 3 1 1 2 5|6 6 2 1 3 6|7 4 4 2 1 7|8 4 0 2 1 8|9 2 4 1 2 9",
+// "BuBuArDuEuArFdGlCdCdHrDuArAr"
+
+"29|1 1 2 2 1 1|2 4 5 3 1 2|3 1 5 1 2 3|4 4 1 1 3 4|5 3 2 1 2 5|6 0 4 2 1 6|7 6 1 1 3 7|8 2 4 2 1 8|9 3 5 1 2 9",
+// "EuEuArGdHrFrHrFrCuCuCuFlFlIuIuBlBlBlBlGdIdIdHlHlDdDdArAr"
+
+"22|1 0 2 2 1 1|2 5 4 2 1 2|3 5 0 1 3 3|4 6 1 1 3 4|5 4 5 2 1 5|6 3 4 1 2 6|7 4 3 2 1 7|8 3 1 2 1 8|9 2 1 1 3 9",
+// "BlDdDdFuElElElElFdFdBlGlCdCdCdIdIdArArArAr"
+
+"25|1 0 2 2 1 1|2 5 5 1 2 2|3 2 1 1 3 3|4 2 5 3 1 4|5 3 1 1 3 5|6 4 0 3 1 6|7 4 4 2 1 7|8 2 4 2 1 8|9 6 2 1 3 9",
+// "FlFlHlGlBuBuBuBuBuDrDrGrEdEdHlCdCdArArArArEuDlId"
+
+"25|1 0 2 2 1 1|2 3 4 3 1 2|3 5 0 1 3 3|4 4 2 1 2 4|5 6 2 1 3 5|6 4 5 2 1 6|7 3 5 1 2 7|8 2 2 1 3 8|9 0 4 2 1 9",
+// "CdDuDuEuBrGuGuFlGuBlEdEdGuGuHdArArArHuHuBlCdCdAr"
+
+"21|1 1 2 2 1 1|2 2 5 2 1 2|3 0 5 2 1 3|4 5 2 1 2 4|5 3 0 1 3 5|6 3 3 2 1 6|7 4 0 3 1 7|8 5 5 1 2 8|9 4 4 3 1 9",
+// "BrDuFlFlEdGlGlDuIlIlHuHuBrIlIlEdEdArArAr"
+
+"21|1 3 2 2 1 1|2 2 3 2 1 2|3 5 0 1 3 3|4 4 4 3 1 4|5 4 3 3 1 5|6 1 3 1 2 6|7 4 5 2 1 7|8 3 4 1 2 8|9 1 0 1 2 9",
+// "AlAlFdBlBlHuGlHuDlDlHuElElCdCdCdHuArArAr"
+
+"21|1 0 2 2 1 1|2 2 5 2 1 2|3 3 1 1 2 3|4 4 5 3 1 4|5 6 1 1 3 5|6 1 4 1 2 6|7 0 3 2 1 7|8 2 1 1 2 8|9 3 3 3 1 9",
+// "CuEuGrHuArArArArIrGrFuBlDlFuFuGlIlEdEdEd"
+
+"26|1 0 2 2 1 1|2 0 4 3 1 2|3 2 0 1 3 3|4 0 3 3 1 4|5 3 1 1 3 5|6 5 1 1 2 6|7 6 4 1 2 7|8 5 3 1 2 8|9 4 5 2 1 9",
+// "BrBrFuGdIlHdHdBrBrEdIlIlEdEdDrDrDrCdCdIlCdArArArAr"
+
+"37|1 1 2 2 1 1|2 5 1 1 3 2|3 3 1 1 3 3|4 4 4 3 1 4|5 4 2 1 2 5|6 5 5 2 1 6|7 1 4 1 2 7|8 1 3 2 1 8|9 2 5 1 2 9",
+// "CdCdArCdFlHrGuGuGuGuAlHlCuCuCuDlFlHlIuIuFlFlFlIdIdDlBdBdDlDlCdCdArEdArAr"
+
+"26|1 0 2 2 1 1|2 3 0 1 3 2|3 4 5 2 1 3|4 4 1 1 2 4|5 2 2 1 2 5|6 3 4 2 1 6|7 2 4 1 2 7|8 0 1 3 1 8|9 5 1 1 3 9",
+// "BdClDdGdFlDdFlBdFlGuHrHrIdHrEuEuArGuClClBdArArIdAr"
+
+"21|1 0 2 2 1 1|2 4 0 1 3 2|3 4 5 2 1 3|4 6 5 1 2 4|5 4 4 3 1 5|6 2 5 2 1 6|7 6 2 1 2 7|8 2 3 1 2 8|9 3 2 1 2 9",
+// "BdElDuGuDuCrGuHuElElBdBdElHuHuArIdArArAr"
+
+"21|1 0 2 2 1 1|2 6 0 1 3 2|3 0 5 2 1 3|4 2 5 2 1 4|5 3 1 1 3 5|6 4 4 1 2 6|7 5 4 2 1 7|8 5 2 1 2 8|9 2 1 1 3 9",
+// "BdEdFuDrDrEdFuFuFuGlBdBdHuHuIdIdArArArAr"
+
+"28|1 0 2 2 1 1|2 0 5 3 1 2|3 2 1 1 3 3|4 5 1 1 2 4|5 3 4 2 1 5|6 3 0 1 3 6|7 6 4 1 3 7|8 5 4 1 2 8|9 4 3 2 1 9",
+// "BrBrDuElElElCdGuGuIlHuBrBrCdArCdIlIlFdFdFdArArArFuBlGd"
+
+"24|1 2 2 2 1 1|2 5 4 2 1 2|3 4 2 1 2 3|4 5 0 1 3 4|5 4 4 1 2 5|6 3 6 2 1 6|7 3 4 1 2 7|8 5 5 2 1 8|9 6 0 1 3 9",
+// "CuCuDdEuEuBlFrGdBlBlBlDdEdArGuGuHlHlDdArIdIdId"
+
+"56|1 1 2 2 1 1|2 6 2 1 3 2|3 4 1 1 3 3|4 3 5 2 1 4|5 2 3 1 3 5|6 4 4 2 1 6|7 1 3 1 2 7|8 0 4 1 2 8|9 0 1 2 1 9",
+// "AlBdEuDlEuFlFlCdGdGdFlHdFlEdIrIrIrEuFrFrGuGuDlHuHuDlIrIrCuFrEdEdArArGuGuGuAlHuHuHuAlEuEuFlCdCdFlFlEdEdArArArAr"
+
+"18|1 1 2 2 1 1|2 6 2 1 2 2|3 3 2 1 2 3|4 4 4 3 1 4|5 4 0 1 3 5|6 1 3 1 2 6|7 3 0 1 2 7|8 2 4 1 2 8|9 4 3 2 1 9",
+// "BuBuCdArCdCdDlFuHdDlDlIrEdEdEdArAr"
+
+"28|1 2 2 2 1 1|2 4 0 1 3 2|3 5 5 2 1 3|4 4 4 2 1 4|5 5 1 1 3 5|6 1 4 2 1 6|7 2 5 1 2 7|8 3 5 2 1 8|9 2 3 2 1 9",
+// "AlAlBdDlEdFlGuIlIlGuGuDlBdGuGuArArHlClHlClEdHlClBdArAr"
+
+"21|1 0 2 2 1 1|2 6 0 1 3 2|3 2 2 1 2 3|4 4 0 2 1 4|5 5 4 2 1 5|6 5 2 1 2 6|7 3 4 2 1 7|8 4 2 1 2 8|9 3 1 1 3 9",
+// "BdCuCuArDlFuFuGlGlHdHdHdElBdBdIdIdArArAr"
+
+"36|1 0 2 2 1 1|2 2 4 2 1 2|3 3 0 1 3 3|4 5 0 1 3 4|5 1 3 1 2 5|6 5 5 2 1 6|7 2 2 1 2 7|8 0 0 2 1 8|9 4 5 1 2 9",
+// "BrBrCdCdCdDdGuHrHrHrGuArArEuEuEuAlCuCuBlBlBlCdDdIuIuFlFlDdFlFlCdArArAr"
+
+"57|1 0 2 2 1 1|2 2 0 1 3 2|3 4 1 1 3 3|4 5 0 1 3 4|5 1 4 1 2 5|6 5 5 2 1 6|7 0 1 2 1 7|8 1 3 2 1 8|9 5 4 2 1 9",
+// "DdEdHlBdIlIlDdIlCdCdIlIlBdBdArArArBuGrGrGrBuBuHrHrIrIrEuEuEuEuEuHlHlBdIlIlBdBdAlAlAlBuCuFlFlDdFlCdFlFlBdArArArAr"
+
+"22|1 1 2 2 1 1|2 5 0 1 3 2|3 3 3 1 2 3|4 5 3 2 1 4|5 5 4 2 1 5|6 2 5 2 1 6|7 6 1 1 2 7|8 4 3 1 2 8|9 4 5 3 1 9",
+// "CuCuCuArFlFlGuHuElElHuDlDlBdBdHuArIlIlBdAr"
+
+"23|1 1 2 2 1 1|2 5 2 1 2 2|3 2 5 3 1 3|4 1 5 1 2 4|5 6 1 1 3 5|6 5 5 2 1 6|7 1 3 2 1 7|8 4 0 3 1 8|9 3 2 1 3 9",
+// "BuDuEdIuIuGrDuClClFlEdGrGrIdHlHlBuIdIdArArAr"
+
+"54|1 0 2 2 1 1|2 2 1 1 3 2|3 0 3 1 2 3|4 3 0 1 3 4|5 5 2 1 2 5|6 4 4 3 1 6|7 5 0 1 2 7|8 2 4 2 1 8|9 0 5 2 1 9",
+// "DdHlDdIrCdCdHlBdIrIrBdArIrDdArArBuBuHrCuCuCuCuCuHlBdBdAlAlAlBuBuDuDuFlFlEdIlEdEdFrBdFrDdIlIlDdIlBdArArArAr"
+
+"47|1 0 2 2 1 1|2 2 0 1 3 2|3 1 3 3 1 3|4 5 1 1 3 4|5 4 5 3 1 5|6 4 3 1 2 6|7 5 4 2 1 7|8 3 1 2 1 8|9 5 0 2 1 9",
+// "ElElElFdCrIlIlDuCrBdBdHlHlHlBuBuClClFuErErFuFuCrCrBdBdBdArArGlGlIlFuArBuBuElIlIlBuClDdDdDdAr"
+
+"16|1 1 2 2 1 1|2 6 1 1 2 2|3 3 0 1 3 3|4 5 1 1 2 4|5 2 5 2 1 5|6 4 0 3 1 6|7 3 3 2 1 7|8 5 3 2 1 8|9 2 3 1 2 9",
+// "ErErIdGlGlCdCdCdArArFlBuFlDuAr"
+
+"30|1 0 2 2 1 1|2 2 0 1 3 2|3 1 5 2 1 3|4 4 0 1 3 4|5 0 4 1 3 5|6 5 5 1 2 6|7 5 3 2 1 7|8 3 1 1 3 8|9 3 4 2 1 9",
+// "BdBdCrCrBdArFuGlHuGlFuCrCrFuFuFuGrGrDdHdIrHdHdArIrDdDdArAr"
+
+"27|1 0 2 2 1 1|2 2 2 1 2 2|3 0 1 3 1 3|4 4 2 1 3 4|5 1 3 1 2 5|6 2 4 2 1 6|7 2 5 3 1 7|8 4 1 3 1 8|9 0 3 1 2 9",
+// "EdEdFlGrIdIdFlBdArArBdBdFrFrEuEuEuFlFlBuBuGlGlDdArAr"
+
+"28|1 2 2 2 1 1|2 4 0 1 3 2|3 5 5 2 1 3|4 2 3 1 2 4|5 1 5 2 1 5|6 3 4 2 1 6|7 5 0 1 3 7|8 5 4 2 1 8|9 0 3 1 3 9",
+// "AlAlBdClClDuDuDuArArFlFlGdHlHlGdGdIuElClIuFlHlBdBdArAr"
+
+"35|1 0 2 2 1 1|2 1 4 2 1 2|3 2 1 1 3 3|4 6 0 1 3 4|5 4 4 1 2 5|6 1 5 2 1 6|7 0 4 1 3 7|8 4 3 3 1 8|9 4 0 1 2 9",
+// "BrCuFrHlDdDdHlHlEuFrFrFrEdEdBrHrHrCdCdCdArArArArCuCuBlCuEuHlHlEuFlDd"
+
+"48|1 1 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 4 5 3 1 4|5 6 1 1 3 5|6 2 4 1 2 6|7 1 5 1 2 7|8 3 3 1 3 8|9 1 1 2 1 9",
+// "EdFdHuHuClClBdClHdIrIrIrHuCrGuGuIrBuCrCrHdHdArGuGuGuAlHuDlEdHuClClBdClClFuFuDlDlBdDlHdHdArArAr"
+
+"26|1 0 2 2 1 1|2 0 3 1 2 2|3 1 4 3 1 3|4 3 0 1 3 4|5 5 2 1 2 5|6 4 0 1 3 6|7 1 5 3 1 7|8 2 3 3 1 8|9 0 5 1 2 9",
+// "ArBuBuBuEdEdHlFdFdFdFdHrHrHrDdIuIuGlIuClDdDdArArAr"
+
+"24|1 0 2 2 1 1|2 2 1 1 2 2|3 0 0 1 2 3|4 1 0 2 1 4|5 4 4 3 1 5|6 4 1 1 2 6|7 4 0 2 1 7|8 2 4 1 3 8|9 6 0 1 2 9",
+// "DrElIdGrDrBuArCdCdCdAlBdDlDlDlBuArArFuArArIdId"
+
+"52|1 0 2 2 1 1|2 4 0 1 3 2|3 4 4 3 1 3|4 2 3 1 2 4|5 3 3 1 3 5|6 1 3 1 2 6|7 2 1 2 1 7|8 1 5 2 1 8|9 4 5 2 1 9",
+// "BdDuEuGlEuClClHrFdFdClBdClEdGrGrDuDuArGrEuCrGrBuCrCrCrEdFuFuHlEdArFuFuFuAlEuEuClClClBdClEdEdArIrBdArAr"
+
+"19|1 0 2 2 1 1|2 4 2 1 2 2|3 2 5 3 1 3|4 2 2 1 3 4|5 5 4 1 3 5|6 3 2 1 2 6|7 6 2 1 2 7|8 5 2 1 2 8|9 5 1 2 1 9",
+// "BdFdGdIlIlHuEuHuEuCrDdArArArDuClEdAr"
+
+"25|1 1 2 2 1 1|2 4 2 1 3 2|3 3 2 1 2 3|4 5 0 1 3 4|5 3 5 3 1 5|6 2 5 1 2 6|7 5 3 2 1 7|8 4 6 3 1 8|9 2 3 1 2 9",
+// "AlCuCuHlIuFuHlHlIuFuElElBdBdGlGlDdDdDdIuArArArAr"
+
+"28|1 1 2 2 1 1|2 5 3 2 1 2|3 6 0 1 3 3|4 4 1 1 3 4|5 5 5 2 1 5|6 3 4 1 2 6|7 2 5 1 2 7|8 2 3 2 1 8|9 4 4 3 1 9",
+// "ArElGuHlFuElHlGuElElElFdFdGdGdIlIlIlDdDdArArDdBlCdCdCd"
+
+"56|1 0 2 2 1 1|2 3 1 1 3 2|3 6 1 1 3 3|4 4 2 1 3 4|5 3 5 2 1 5|6 1 4 1 2 6|7 5 4 2 1 7|8 4 1 2 1 8|9 0 3 2 1 9",
+// "ArBdErFdHlHlDuGlCdCdHlBuGlGlDdGlBdHrHrHrBuGrFuHrDuGrGrBdBdArBdIrIrFuFuFuFuAlIlBuBuBuElElElGlGlDdDdGlBdBdArArAr"
+
+"27|1 2 2 2 1 1|2 6 0 1 3 2|3 4 1 1 3 3|4 4 5 3 1 4|5 5 4 2 1 5|6 2 4 2 1 6|7 0 4 1 3 7|8 1 4 1 2 8|9 0 3 3 1 9",
+// "BdCuDlDlElBdBdIrGuGuGuIrHuDlHuFlElFlElHuIlCdCdCdArAr"
+
+"23|1 1 2 2 1 1|2 4 3 2 1 2|3 3 5 2 1 3|4 3 0 1 3 4|5 2 4 3 1 5|6 1 4 1 2 6|7 5 5 1 2 7|8 5 4 2 1 8|9 5 0 2 1 9",
+// "BlFdElElHlHlGuGuCrGuGuBrDdHrDdDdArArIlIlGuAr"
+
+"24|1 0 2 2 1 1|2 5 0 1 3 2|3 2 0 3 1 3|4 5 5 2 1 4|5 2 5 2 1 5|6 4 4 1 3 6|7 3 1 1 2 7|8 5 3 2 1 8|9 0 5 1 2 9",
+// "ArClClElFuFuDlDlGuArIuIuElDlFdArFdHlHlBdBdBdAr"
+
+"22|1 0 2 2 1 1|2 2 0 1 3 2|3 1 5 2 1 3|4 0 5 1 2 4|5 4 2 1 3 5|6 3 5 2 1 6|7 3 2 1 2 7|8 0 3 2 1 8|9 5 5 1 2 9",
+// "DuGdHrDuClIuIuFrFrEdEdGdHrHrBdBdBdArArArAr"
+
+"31|1 2 2 2 1 1|2 1 3 1 2 2|3 4 5 3 1 3|4 4 1 1 3 4|5 1 5 1 2 5|6 3 4 2 1 6|7 6 0 1 3 7|8 2 4 1 2 8|9 5 4 2 1 9",
+// "AlAlClGdHuClHuFlHuHuArArBuBuBuEuEuClEuFlFlIlGdGdIlIlDdDdArAr"
+
+"61|1 1 2 2 1 1|2 2 5 3 1 2|3 4 0 1 3 3|4 4 3 3 1 4|5 1 4 1 3 5|6 2 3 1 2 6|7 4 4 3 1 7|8 1 1 2 1 8|9 3 3 1 2 9",
+// "ArBrBrEuEuFdFdHrEuEuIdDlDlDlCdIdGlGlGlCdHrHrHrCuCuDrDrEdGrEdEdAlAlGrFuFuFuFuDlFuArArEuEuEuDlCdDlGlGlCdGlIuIuBlBlBlCdArAr"
+
+"27|1 0 2 2 1 1|2 2 0 1 3 2|3 1 4 1 2 3|4 2 5 2 1 4|5 4 2 1 3 5|6 4 5 2 1 6|7 2 4 2 1 7|8 6 5 1 2 8|9 5 3 2 1 9",
+// "BdCuDlDlEuEuGrBdBdArArGrHuIlHuFrHuGrHuHuIrEdEdEdArAr"
+
+"21|1 0 2 2 1 1|2 4 1 1 3 2|3 3 1 1 3 3|4 5 2 1 2 4|5 6 2 1 2 5|6 1 4 3 1 6|7 3 5 3 1 7|8 4 4 2 1 8|9 0 5 1 2 9",
+// "ArDuDuEuEuGlGlHrBdBdIuIuGlIuFlCdCdArArAr"
+
+"28|1 1 2 2 1 1|2 5 1 1 3 2|3 3 1 1 2 3|4 4 4 2 1 4|5 5 5 2 1 5|6 3 5 1 2 6|7 1 4 3 1 7|8 1 5 1 2 8|9 0 3 2 1 9",
+// "CuArArDrElGrHuIrIrHuHuGlDlGlFuHuIlFuElElElFdFdDlBdBdAr"
+
+"41|1 0 2 2 1 1|2 3 0 1 3 2|3 4 2 1 2 3|4 2 4 2 1 4|5 1 3 1 2 5|6 0 5 2 1 6|7 5 3 1 3 7|8 2 3 2 1 8|9 4 0 2 1 9",
+// "ArDrFrFrEdFrGuFrGuDrHlBdBdBdArBdHrEuEuEuEuAlHlBuBuBuDlDlCdDlBdFlFlFlBdArArGdGdAr"
+
+"42|1 1 2 2 1 1|2 3 1 1 3 2|3 5 1 1 3 3|4 1 5 1 2 4|5 0 3 2 1 5|6 0 0 3 1 6|7 3 5 2 1 7|8 0 4 2 1 8|9 2 4 1 2 9",
+// "ErFrFrGrIdHrHrDuHrHrBdBdArBdErDuDuDuDuAlElBuBuBuElGlHlCdCdHlHlBdHlIuIuGlGlBdArArAr"
+
+"25|1 0 2 2 1 1|2 4 5 3 1 2|3 4 0 1 3 3|4 2 5 1 2 4|5 1 4 1 2 5|6 3 4 1 2 6|7 5 2 1 3 7|8 0 3 2 1 8|9 2 3 1 2 9",
+// "CdCdIuDuIuHrHrEuIuArArEuEuHlFuBlHlDuBlBlCdArGdAr"
+
+"66|1 0 2 2 1 1|2 4 0 1 3 2|3 0 3 3 1 3|4 1 4 1 3 4|5 4 5 3 1 5|6 0 1 2 1 6|7 4 4 3 1 7|8 3 3 1 2 8|9 2 0 1 2 9",
+// "HdCrCrCrDuHdGlIdIdFrFrIdArArDuDuDuIdClClBdIdGlGlBdFrFrFrBuBuCrCrDdGrDdDdAlAlGrIuIuIuGlIuClIuArArDuDuDuClBdClGlBdGlHuHuElElElBdArAr"
+
+"24|1 1 2 2 1 1|2 4 5 1 2 2|3 5 5 2 1 3|4 6 0 1 3 4|5 5 1 1 3 5|6 4 2 1 2 6|7 3 0 3 1 7|8 5 4 2 1 8|9 2 4 3 1 9",
+// "ArDdFuGlGlFuArIlBuBuClClClBdBdHlDdDdIlHlEdEdAr"
+
+"19|1 0 2 2 1 1|2 5 2 1 2 2|3 2 2 1 2 3|4 3 0 1 3 4|5 1 4 2 1 5|6 4 2 1 2 6|7 5 4 2 1 7|8 4 1 2 1 8|9 6 1 1 3 9",
+// "CuCuArDdDdDdArFdArFdFdGlHlBuBuArIdId"
+
+"16|1 0 2 2 1 1|2 3 2 1 2 2|3 6 0 1 3 3|4 2 4 3 1 4|5 5 4 2 1 5|6 2 1 1 2 6|7 4 3 3 1 7|8 3 0 2 1 8|9 1 4 1 2 9",
+// "BuFuArGlCdHrBuArArArIdDlElCdCd"
+
+"34|1 0 2 2 1 1|2 3 4 2 1 2|3 2 5 2 1 3|4 4 0 1 3 4|5 5 4 2 1 5|6 5 5 2 1 6|7 2 0 1 3 7|8 1 3 3 1 8|9 1 5 1 2 9",
+// "HrHrGdGdIuIuClClGdArArIuIuIuAlAlGuGuBlBlBlGdGdArArGdHlHlDdDdDdArAr"
+
+"21|1 0 2 2 1 1|2 2 0 1 3 2|3 5 1 1 2 3|4 1 3 2 1 4|5 5 0 2 1 5|6 3 0 1 3 6|7 4 0 1 3 7|8 4 3 2 1 8|9 3 4 2 1 9",
+// "DlBdBdBdArFdHrGdElElCuIrFdFdArIrGdGdArAr"
+
+"39|1 1 2 2 1 1|2 4 1 1 3 2|3 3 0 1 3 3|4 1 5 3 1 4|5 5 1 1 3 5|6 2 3 2 1 6|7 1 3 1 2 7|8 2 4 2 1 8|9 4 0 2 1 9",
+// "DrDrDrGdFlCdHrHrCdCdArCdFrGuGuGuFlCuGuAlCuCuDlDlDlDlHlEdEdHlBdBdHlCdCdArArAr"
+
+"31|1 0 2 2 1 1|2 2 0 1 3 2|3 2 5 3 1 3|4 6 0 1 3 4|5 4 1 1 2 5|6 0 3 3 1 6|7 3 2 1 3 7|8 1 4 2 1 8|9 5 4 1 2 9",
+// "DdDdEuHlIuCrCrGdGdFrFrIuIuFrBdBdBdArArArBdFlFlFlGuIuArGuClDd"
+
+"55|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 3 4 1 3 4|5 4 4 1 3 5|6 5 5 2 1 6|7 1 4 1 2 7|8 3 1 2 1 8|9 2 3 2 1 9",
+// "GdHlHlIrIrDuDuDuIrEuEuEuClClClClDdDdArEdEdArArDuDuCrGuGuGuClDdDdAlAlEuFlHrGuGuAlDuFlFlEdEdFlDdArArArIlBdBdBd"
+
+"27|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 2 5 2 1 4|5 5 1 1 3 5|6 0 5 1 2 6|7 0 4 2 1 7|8 2 0 1 2 8|9 2 2 1 2 9",
+// "CrDlGrFuFuDlGrGrIdArArFuIdIdGlClGlClEdEdGlClBdBdArAr"
+
+"23|1 3 2 2 1 1|2 5 3 2 1 2|3 3 3 1 2 3|4 5 0 1 3 4|5 3 5 2 1 5|6 5 5 2 1 6|7 2 3 1 3 7|8 4 4 2 1 8|9 0 2 2 1 9",
+// "BlGuElElCdBlCdDdFlGuGuBlBlHlDdHlHlCuCuFlDdAr"
+
+"29|1 0 2 2 1 1|2 5 0 1 3 2|3 4 1 1 3 3|4 2 2 1 2 4|5 4 4 2 1 5|6 5 5 2 1 6|7 2 5 1 2 7|8 1 4 2 1 8|9 1 5 1 2 9",
+// "BdDuDuArArFlFlHrIuIuIuHlElBdBdHlGuGuFlFlFlGdGdElCdCdArAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 2 2|3 2 2 1 3 3|4 3 0 2 1 4|5 6 2 1 2 5|6 5 1 1 2 6|7 6 4 1 2 7|8 3 1 1 2 8|9 5 0 2 1 9",
+// "BdBdCdArFdFdGdEdHdHdArArAr"
+
+"60|1 0 2 2 1 1|2 3 4 2 1 2|3 3 0 1 3 3|4 4 0 1 3 4|5 6 3 1 3 5|6 4 5 2 1 6|7 1 3 1 2 7|8 1 1 2 1 8|9 2 2 1 3 9",
+// "CdDdFlFlGdGdHlIuBlBlBlCdDdIdHrHrHrHrCuHrDuIuBrBrBrBrCdGuGuFlCdFlIdIdArArGuGuGuAlAlCuCuBlIuIuBlBlBlCdCdDdDdIdIdArArArAr"
+
+"38|1 1 2 2 1 1|2 4 0 1 3 2|3 6 0 1 3 3|4 4 4 2 1 4|5 2 3 1 3 5|6 2 1 2 1 6|7 1 0 1 2 7|8 3 2 1 2 8|9 0 3 2 1 9",
+// "BdCdCdCdEdHdArGdHdHdDlIrIrGdFlFlGdAlAlGdGdIlIlEuEuEuDlBdBdDlDlEdEdArArArAr"
+
+"38|1 0 2 2 1 1|2 0 5 3 1 2|3 2 1 1 3 3|4 3 5 1 2 4|5 4 2 1 2 5|6 5 3 2 1 6|7 5 4 1 3 7|8 4 5 1 2 8|9 4 1 3 1 9",
+// "CdDuHuIlIlIlEuEuFlFlGuGuGuGuFrDuBrFrHuBrBrCdArArArCuBlBlBlDdHdFlFlGdGdGdAr"
+
+"38|1 0 2 2 1 1|2 4 2 1 3 2|3 3 0 2 1 3|4 4 5 3 1 4|5 1 5 1 2 5|6 0 3 3 1 6|7 6 0 1 3 7|8 2 5 1 2 8|9 5 2 1 3 9",
+// "BuClBuClClDlEuFrFrEuGdGdGdHuIuIuFrHuDlDlHuHuFlHuArArEuEuFlBdBdBdArIdIdIdAr"
+
+"20|1 0 2 2 1 1|2 5 4 2 1 2|3 6 0 1 3 3|4 4 0 1 2 4|5 5 1 1 2 5|6 2 2 1 2 6|7 4 5 1 2 7|8 3 4 2 1 8|9 5 5 2 1 9",
+// "CdEuFdArArArArFuHlBlCdHlBlHlBlGuGuIlCd"
+
+"53|1 0 2 2 1 1|2 3 2 1 3 2|3 0 3 3 1 3|4 2 0 1 3 4|5 4 2 1 2 5|6 5 2 1 2 6|7 1 5 3 1 7|8 5 1 2 1 8|9 3 0 1 2 9",
+// "EdEdFdFdGlBdBdCrCrCrCrDdDdHlIdIdHlHlHlHlDuDuIuClClClEuEuEuCrEuFuFuFuCrCrBuDdDdFuIuBuGrGrGrDdArGrBdArArAr"
+
+"24|1 0 2 2 1 1|2 2 0 1 3 2|3 2 4 2 1 3|4 3 0 1 3 4|5 5 1 1 2 5|6 2 5 3 1 6|7 4 2 1 2 7|8 6 0 1 3 8|9 2 3 2 1 9",
+// "ClClEuFrFrGdHdHdIlDdDdDdIlBdBdBdArArArArDuFlHd"
+
+"39|1 1 2 2 1 1|2 5 0 1 3 2|3 3 1 1 3 3|4 5 4 2 1 4|5 4 5 1 2 5|6 5 5 2 1 6|7 4 3 2 1 7|8 1 4 1 2 8|9 0 3 2 1 9",
+// "CdCdArCdDlGrIrIrHuHuHuHuAlIlCuCuCuDlDlDlCdEuEuFlFlFlEdFlCdArArCdGlGlBdBdBdAr"
+
+"35|1 0 2 2 1 1|2 3 5 2 1 2|3 2 3 1 3 3|4 4 0 1 3 4|5 1 5 1 2 5|6 6 2 1 3 6|7 0 4 1 2 7|8 0 0 2 1 8|9 4 4 2 1 9",
+// "ArArDdEuEuEuEuFdGuGuGuHrGuHrEuAlAlCuBlBlBlCuIlIlDdDdIlIlCdCdArArArAr"
+
+"29|1 1 2 2 1 1|2 4 1 1 3 2|3 2 4 1 2 3|4 5 0 1 3 4|5 5 3 2 1 5|6 4 5 3 1 6|7 1 5 1 2 7|8 0 4 2 1 8|9 3 5 1 2 9",
+// "ArBdCdHrHrGuGuGuHlHlCuCuIuIuFlFlFlBdArBdElFlIdElDdDdDdAr"
+
+"15|1 1 2 2 1 1|2 4 2 1 2 2|3 5 2 1 2 3|4 6 0 1 3 4|5 5 5 2 1 5|6 3 4 3 1 6|7 3 5 2 1 7|8 2 4 1 2 8|9 3 0 2 1 9",
+// "ArBuCuCuDdDdHuGlElDdIlBuArAr"
+
+"23|1 0 2 2 1 1|2 4 5 3 1 2|3 4 2 1 3 3|4 6 2 1 2 4|5 2 1 1 2 5|6 2 5 1 2 6|7 5 4 2 1 7|8 6 0 1 2 8|9 3 1 2 1 9",
+// "BlEdFuIlCuGlDdDdDdGrCdIrEuEuArArFuBlBlCdArAr"
+
+"18|1 0 2 2 1 1|2 6 0 1 3 2|3 2 0 2 1 3|4 2 1 1 2 4|5 4 1 1 2 5|6 2 4 2 1 6|7 5 1 1 2 7|8 5 4 2 1 8|9 4 0 2 1 9",
+// "BdClClDuArArEdEdArEdEdHlBdBdIlGuAr"
+
+"36|1 0 2 2 1 1|2 1 5 3 1 2|3 2 2 1 3 3|4 4 5 1 2 4|5 5 5 1 2 5|6 3 3 3 1 6|7 5 0 2 1 7|8 3 4 3 1 8|9 3 0 2 1 9",
+// "CuCuFlFlHlEuEuEuEuHlDuDuBrBrDuDuFrFrCdHrHrCdCdArArIlGlIlGlEuIlGlDuArAr"
+
+"26|1 0 2 2 1 1|2 3 0 1 3 2|3 5 2 1 2 3|4 5 4 2 1 4|5 2 2 1 2 5|6 5 0 1 2 6|7 5 5 2 1 7|8 3 4 2 1 8|9 2 4 1 2 9",
+// "BdEuEuArGlGlIdHlDlHlDlCdCdCdDrBdHlIuIuGlGlBdArArAr"
+
+"27|1 0 2 2 1 1|2 5 1 1 2 2|3 5 4 1 3 3|4 5 0 2 1 4|5 2 0 3 1 5|6 2 1 1 2 6|7 2 3 1 2 7|8 0 5 3 1 8|9 4 1 1 2 9",
+// "CuElDlElDlBuCuHrHrHrGdFdGdFdArArIdIdArFuFuGuGuHlCdAr"
+
+"25|1 3 2 2 1 1|2 2 4 2 1 2|3 4 4 2 1 3|4 3 5 1 2 4|5 5 0 1 3 5|6 5 5 2 1 6|7 4 5 1 2 7|8 4 3 2 1 8|9 1 3 1 2 9",
+// "CrGuHrGuFlIuBlDuDuFlFlFlDdDdGdGdClClHlHlEdEdEdAr"
+
+"17|1 0 2 2 1 1|2 2 4 1 2 2|3 4 0 1 3 3|4 3 4 2 1 4|5 0 0 3 1 5|6 2 1 1 2 6|7 4 3 2 1 7|8 6 2 1 2 8|9 3 2 1 2 9",
+// "BdDrDrFdFdArHuGrCdCdCdHuIdArArAr"
+
+"21|1 0 2 2 1 1|2 3 2 1 2 2|3 2 2 1 2 3|4 2 4 3 1 4|5 4 1 1 3 5|6 1 0 3 1 6|7 5 1 1 2 7|8 1 3 1 3 8|9 5 3 1 2 9",
+// "BuCuFrFrCuArFrBuArHuHuDlEdEdArIdGdIdGdAr"
+
+"37|1 0 2 2 1 1|2 1 5 2 1 2|3 2 0 1 3 3|4 0 4 3 1 4|5 3 3 1 2 5|6 5 3 1 3 6|7 4 1 2 1 7|8 0 3 3 1 8|9 3 5 2 1 9",
+// "BlFuGlFuFuIrEdEdDrDrDrHrHrHrCdCdCdArArArCuCuCuDlDlDlEuHlFdFdHlHlEuIlFdAr"
+
+"57|1 1 2 2 1 1|2 3 0 1 3 2|3 5 2 1 3 3|4 2 3 2 1 4|5 1 5 1 2 5|6 2 5 1 2 6|7 3 5 3 1 7|8 0 3 2 1 8|9 5 1 2 1 9",
+// "DrEuFuFuGlCdCdDrBdBdIlIlIlIlBuBuDlCuCuCuCuDrBdBdGrFdGrBdArBdHrHrEuEuIrEuEuAlHlBuBuGlHlFuGlGlGlBdArArBdDlCdCdCdAr"
+
+"22|1 0 2 2 1 1|2 4 1 1 2 2|3 4 5 2 1 3|4 2 0 1 3 4|5 6 0 1 3 5|6 2 5 2 1 6|7 1 4 1 3 7|8 3 2 1 2 8|9 0 3 3 1 9",
+// "BuCrEdEdFrHuHuIrIrIrDdDdDdArArArArDuFlClEd"
+
+"46|1 0 2 2 1 1|2 5 2 1 2 2|3 2 0 1 3 3|4 2 4 3 1 4|5 0 5 3 1 5|6 4 2 1 2 6|7 3 5 1 2 7|8 1 3 3 1 8|9 4 1 2 1 9",
+// "DlFdFdFdDrDrHrIlBuBuHrCdCdIlIlIlCuCuDlDlFuHlHlFuFuDrDrDrFuFuGuHrHrCdCdHrGuErErErCdArArArAr"
+
+"31|1 1 2 2 1 1|2 6 1 1 3 2|3 4 0 1 3 3|4 5 5 2 1 4|5 2 3 1 2 5|6 5 0 1 3 6|7 5 4 2 1 7|8 2 5 1 2 8|9 4 3 2 1 9",
+// "AlDlDlEuEuEuArArGlBdBdGlGlGlGlHuIlFdFdFdIlCdCdIlIlHuDlCdArAr"
+
+"23|1 0 2 2 1 1|2 6 2 1 2 2|3 2 1 1 3 3|4 6 4 1 3 4|5 3 2 1 2 5|6 4 2 1 3 6|7 0 5 1 2 7|8 3 5 2 1 8|9 0 3 1 2 9",
+// "BuBuCdCdArEdIuGuIuGuIuAlCuHlFdHlHlCdArArArAr"
+
+"16|1 0 2 2 1 1|2 4 4 1 2 2|3 2 1 1 2 3|4 3 0 1 3 4|5 2 4 2 1 5|6 1 3 1 2 6|7 5 1 1 2 7|8 4 0 2 1 8|9 4 2 1 2 9",
+// "BdCuArDdErErDdDdArErHlGuIdArAr"
+
+"27|1 1 2 2 1 1|2 5 1 1 3 2|3 4 2 1 3 3|4 5 4 2 1 4|5 3 1 2 1 5|6 2 0 1 2 6|7 2 3 2 1 7|8 2 4 2 1 8|9 6 0 1 3 9",
+// "AlFdGlGlFdElCuDlHlDlBdBdHlDlCdCdErFuFuArArArArIdIdId"
+
+"23|1 0 2 2 1 1|2 0 5 3 1 2|3 2 1 1 3 3|4 3 5 1 2 4|5 5 2 1 2 5|6 3 4 3 1 6|7 4 1 1 2 7|8 1 4 2 1 8|9 5 0 1 2 9",
+// "FrDuDuBrBrBrBrDdDdFlGuHlCdCdArArArCuCuFlEdAr"
+
+"27|1 3 2 2 1 1|2 5 5 2 1 2|3 5 0 1 3 3|4 5 3 2 1 4|5 5 4 2 1 5|6 0 5 2 1 6|7 4 5 1 2 7|8 2 3 3 1 8|9 3 5 1 2 9",
+// "AlAlElHlHlIuIuIuElElGuGuBlBlBlGdDlIuDlCdCdCdIuArArAr"
+
+"33|1 2 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 3 1 3 4|5 2 3 1 3 5|6 0 2 1 2 6|7 4 2 1 2 7|8 2 1 2 1 8|9 1 0 1 2 9",
+// "ClFdFdFdIdIdHlHlIdAlAlDuDuClBdBdEuEuClGdIdIdClClDdDdEdEdArArArAr"
+
+"24|1 0 2 2 1 1|2 3 1 1 3 2|3 6 2 1 3 3|4 2 5 3 1 4|5 2 1 1 2 5|6 0 0 3 1 6|7 0 4 3 1 7|8 5 0 2 1 8|9 5 1 1 2 9",
+// "CuDlDlEdGrGrGrEdArGrBdBdArArHlHlIuArBuBuGlCdCd"
+
+"42|1 0 2 2 1 1|2 2 1 1 3 2|3 5 1 1 3 3|4 3 1 1 3 4|5 3 5 2 1 5|6 1 4 2 1 6|7 0 0 3 1 7|8 1 5 1 2 8|9 4 1 1 2 9",
+// "ElFrFrBdFrDdGrGrHuHuElDdElBdArArHuHuHuAlAlBuBuDuDuFlCdCdFlFlDdDdFlBdBdArArIdIdArAr"
+
+"33|1 1 2 2 1 1|2 4 0 1 3 2|3 5 1 1 3 3|4 5 5 2 1 4|5 4 4 3 1 5|6 3 3 2 1 6|7 1 3 2 1 7|8 5 0 2 1 8|9 3 5 1 2 9",
+// "ArDlElElElElGlFlBdHlHlCuHlBuFrFrIuIuDlDlDlIdFlCdCdCdFlBdBdBdArAr"
+
+"21|1 0 2 2 1 1|2 6 2 1 2 2|3 5 1 1 3 3|4 5 5 2 1 4|5 2 1 1 2 5|6 4 4 3 1 6|7 3 3 1 2 7|8 3 1 2 1 8|9 3 5 1 2 9",
+// "DlEuArGuFlBdFlCdFlFlHrGuGuArArIuIuDlCdAr"
+
+"25|1 1 2 2 1 1|2 5 1 1 3 2|3 4 5 1 2 3|4 3 5 1 2 4|5 5 4 2 1 5|6 5 5 2 1 6|7 4 2 1 2 7|8 0 4 2 1 8|9 3 3 1 2 9",
+// "CuGuCuFlGuIuDuIuDuFlFlCdCdElFlDdDdElBdBdIuArArAr"
+
+"28|1 0 2 2 1 1|2 3 2 1 2 2|3 2 1 1 3 3|4 4 5 3 1 4|5 2 0 3 1 5|6 5 0 1 3 6|7 1 4 3 1 7|8 3 5 1 2 8|9 4 3 1 2 9",
+// "BuElElBuFdIuGrGrCdCdArArIuIuArCuCuGlFdGlGlHuHuDlDlFdAr"
+
+"29|1 0 2 2 1 1|2 3 1 1 2 2|3 2 0 1 3 3|4 5 2 1 2 4|5 2 4 3 1 5|6 5 4 1 2 6|7 4 0 3 1 7|8 0 5 3 1 8|9 0 0 2 1 9",
+// "BdCdDuFuGlGlDuFuErCdErBdHrHrHrCdArArArCuCuHrBdBdElElFdAr"
+
+"39|1 1 2 2 1 1|2 3 2 1 3 2|3 4 0 1 3 3|4 3 5 3 1 4|5 1 5 1 2 5|6 2 5 1 2 6|7 4 3 3 1 7|8 0 3 1 3 8|9 4 4 3 1 9",
+// "AlEuEuFuFuDlDlFuFuFuArHuDlBdArEuEuEuAlBuBuHuIlIlIlIlBdBdArBdGlGlGlCdCdCdArAr"
+
+"20|1 0 2 2 1 1|2 5 0 1 3 2|3 4 1 1 2 3|4 5 3 2 1 4|5 3 2 1 2 5|6 5 4 2 1 6|7 3 4 2 1 7|8 1 4 1 2 8|9 2 2 1 2 9",
+// "CuDlEuDlBdEuGlFlHdGlFlBdBdGlIdArArArAr"
+
+"47|1 1 2 2 1 1|2 3 0 1 3 2|3 3 5 2 1 3|4 2 4 2 1 4|5 5 4 1 3 5|6 0 3 3 1 6|7 2 6 3 1 7|8 1 5 1 2 8|9 3 3 2 1 9",
+// "DrEuEuCrEuDrEuGrGrHuIrBdBdBdArBdFrIrFrHuHuHuFlFlBuHuAlBuBuClClClDlDlDlBdBdArArBdIlIlEdEdEdAr"
+
+"50|1 0 2 2 1 1|2 6 2 1 3 2|3 4 0 1 3 3|4 4 4 2 1 4|5 2 2 1 3 5|6 0 5 1 2 6|7 5 5 2 1 7|8 0 1 2 1 8|9 3 4 1 3 9",
+// "CdEuIuIuIuDlDlCdCdDlDlEdEdArIdIdArArEuEuDrFuFuFuDlEdEdAlAlCuGlBdHrFuFuAlEuIuGlGlCdGlGlEdArIdArArAr"
+
+"32|1 0 2 2 1 1|2 4 1 1 2 2|3 3 4 1 2 3|4 5 5 2 1 4|5 4 4 1 3 5|6 6 1 1 3 6|7 4 0 3 1 7|8 1 0 1 2 8|9 2 0 1 3 9",
+// "CuEuFdGlIdGlIdIdArArHdGlBuEuDlDlFdHdHdAlAlIuDlDlDlEdIdArArArAr"
+
+"30|1 0 2 2 1 1|2 5 0 1 3 2|3 4 3 2 1 3|4 6 0 1 3 4|5 4 5 3 1 5|6 4 0 1 3 6|7 1 3 2 1 7|8 1 5 1 2 8|9 3 5 1 2 9",
+// "ArArDdDdGrHuHuHuHuGlGlIuIuElDdElElElIdClBdBdBdClFdFdFdArAr"
+
+"19|1 3 2 2 1 1|2 6 0 1 3 2|3 5 0 1 3 3|4 5 3 2 1 4|5 5 4 2 1 5|6 4 4 1 2 6|7 3 6 3 1 7|8 1 6 2 1 8|9 2 4 2 1 9",
+// "AlFuFuElFuDlBdBdBdDlCdFuArIlElCdCdAr"
+
+"27|1 1 2 2 1 1|2 3 2 1 2 2|3 4 4 3 1 3|4 5 1 1 3 4|5 1 4 2 1 5|6 3 0 1 2 6|7 4 5 2 1 7|8 2 5 1 2 8|9 1 5 1 2 9",
+// "BdArArBdBdErIuIuIuElBuBuElGlHuHuGlGlBdBdClHuClDdDdAr"
+
+"20|1 0 2 2 1 1|2 5 1 1 2 2|3 4 0 1 3 3|4 4 5 2 1 4|5 6 2 1 2 5|6 3 1 1 3 6|7 2 5 2 1 7|8 3 4 2 1 8|9 2 1 1 3 9",
+// "BuCdDrEdGlGlHlCdCdHlFdFdHlIdIdArArArAr"
+
+"17|1 0 2 2 1 1|2 6 2 1 2 2|3 5 4 2 1 3|4 2 0 1 3 4|5 2 3 2 1 5|6 4 0 2 1 6|7 4 4 1 3 7|8 5 2 1 2 8|9 3 1 1 2 9",
+// "BuBuErDdDdDdArFlFlFlHuHuIuArArAr"
+
+"21|1 2 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 4 3 2 1 4|5 6 0 1 3 5|6 4 5 1 2 6|7 4 4 2 1 7|8 2 3 1 3 8|9 2 1 2 1 9",
+// "ArDlBdEdEdGlBdHuIrHuGlFuHuDlFuClClBdArEd"
+
+"15|1 0 2 2 1 1|2 3 0 2 1 2|3 5 1 1 2 3|4 4 1 1 2 4|5 3 1 1 2 5|6 6 1 1 2 6|7 5 0 2 1 7|8 5 4 1 2 8|9 5 6 2 1 9",
+// "ArBlBlDdDdEdEdArArGlFuGlCuAr"
+
+"29|1 0 2 2 1 1|2 4 4 2 1 2|3 4 0 1 3 3|4 4 5 3 1 4|5 2 5 1 2 5|6 2 0 2 1 6|7 4 3 3 1 7|8 3 4 1 3 8|9 0 4 1 3 9",
+// "BrEuEuEuEuFlFlEuArHuHuDlDlDlIuIuDlHdArHdGlGlGlCdCdCdArAr"
+
+"36|1 0 2 2 1 1|2 1 4 1 2 2|3 3 1 1 3 3|4 2 4 2 1 4|5 4 1 1 2 5|6 3 5 3 1 6|7 5 2 1 3 7|8 1 0 3 1 8|9 2 5 1 2 9",
+// "ArBuDrEdFrGuDrCdCdArBuBuHrBuAlCuCuDlDlDlCdDlEdFlGdIuIuFlFlFlCdArArGdAr"
+
+"48|1 2 2 2 1 1|2 0 3 1 2 2|3 6 1 1 3 3|4 5 4 2 1 4|5 2 4 1 3 5|6 3 4 1 3 6|7 5 5 2 1 7|8 2 3 3 1 8|9 4 4 1 3 9",
+// "AlBuBuBuAlHrEuEuEuEuHlHlHlFuFuFuIuIuGlGlGlGlGlIuDlCdCdDlDlDlDlFdFdFdHrIdIdIdHrHrEdEdEdArArArAr"
+
+"21|1 0 2 2 1 1|2 1 3 3 1 2|3 2 0 1 3 3|4 4 1 1 3 4|5 3 6 2 1 5|6 0 6 3 1 6|7 5 3 1 2 7|8 3 4 2 1 8|9 1 4 2 1 9",
+// "ErErGuGuGuHrHrDdDdDdBrBrCdIlCdCdArArArAr"
+
+"18|1 0 2 2 1 1|2 4 1 1 3 2|3 3 0 1 3 3|4 6 1 1 2 4|5 3 4 2 1 5|6 2 1 1 2 6|7 5 2 1 2 7|8 2 3 2 1 8|9 1 3 1 3 9",
+// "DuErErBdBdFuArGuGuIdHlCdCdCdArArAr"
+
+"15|1 0 2 2 1 1|2 3 4 1 2 2|3 5 1 1 3 3|4 4 4 1 2 4|5 5 5 2 1 5|6 6 2 1 2 6|7 4 1 1 2 7|8 1 3 3 1 8|9 3 0 2 1 9",
+// "ArArCdDuElFdHlBuElCdIlGuArAr"
+
+"24|1 1 2 2 1 1|2 5 5 2 1 2|3 3 1 1 2 3|4 5 1 1 3 4|5 4 2 1 3 5|6 3 0 2 1 6|7 2 5 2 1 7|8 5 4 2 1 8|9 2 3 1 2 9",
+// "AlBlEuFrCuGlBlGlBlHlHlDdDdIuHlEdEdIuIuArArArAr"
+
+"26|1 0 2 2 1 1|2 4 5 1 2 2|3 2 0 1 3 3|4 1 3 3 1 4|5 5 1 1 3 5|6 3 1 1 2 6|7 5 5 2 1 7|8 6 1 1 2 8|9 3 5 1 2 9",
+// "BuDrEuDrCdCdCdArCdDlDlBuDlEdEdFuArArGlHuIuIuGlEdAr"
+
+"22|1 1 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 4 2 1 2 4|5 3 5 3 1 5|6 3 2 1 2 6|7 2 5 1 2 7|8 6 0 1 3 8|9 4 4 3 1 9",
+// "DuClDuFuClBdFuArArGuGuElGuHdIlHdHdIlBdBdAr"
+
+"24|1 0 2 2 1 1|2 2 0 1 3 2|3 3 4 3 1 3|4 5 0 1 3 4|5 1 4 2 1 5|6 0 3 1 2 6|7 0 6 3 1 7|8 2 3 3 1 8|9 0 5 2 1 9",
+// "GrHrBdIrFdFdElBdIrIrBdArArArBuBuBuClHlDdDdDdAr"
+
+"25|1 0 2 2 1 1|2 4 0 1 3 2|3 3 4 3 1 3|4 2 3 1 2 4|5 3 2 1 2 5|6 1 1 2 1 6|7 4 5 3 1 7|8 0 0 1 2 8|9 3 0 1 2 9",
+// "ArBdGlGlGlHdHdFlHdAlDuClClBdBdDuDuArHuClEdArArAr"
+
+"26|1 0 2 2 1 1|2 5 5 2 1 2|3 4 1 1 2 3|4 2 4 3 1 4|5 3 0 2 1 5|6 3 5 1 2 6|7 2 1 1 3 7|8 5 2 1 3 8|9 3 3 2 1 9",
+// "BlErErCuHuDrGdGdArArArGuGuDlDlDlFuGuHdIlIlFuBlHdAr"
+
+"33|1 2 2 2 1 1|2 2 3 1 2 2|3 5 4 2 1 3|4 4 3 1 3 4|5 5 0 1 3 5|6 3 4 1 2 6|7 5 5 2 1 7|8 2 5 1 2 8|9 5 3 2 1 9",
+// "ArBuBuBuAlDuDuClFdClClClClDdFuFuGlGlHuHuGlDdArDdGlFdIlIlEdEdEdAr"
+
+"45|1 0 2 2 1 1|2 2 0 1 3 2|3 2 4 2 1 3|4 5 1 1 3 4|5 4 5 2 1 5|6 4 0 1 3 6|7 0 5 1 2 7|8 1 3 3 1 8|9 1 5 1 2 9",
+// "CrDdElDdDdElGuGuHrHrBdBdIuIuElElBdArArGuGuGuIuIuIuAlAlBuBuClClClBdBdArArBdHlHlFdFdFdArAr"
+
+"29|1 0 2 2 1 1|2 6 0 1 3 2|3 4 2 1 2 3|4 2 1 1 3 4|5 3 0 1 3 5|6 5 5 2 1 6|7 4 0 2 1 7|8 4 5 1 2 8|9 1 4 3 1 9",
+// "BdCuEdGrCuIrIrDdDdArIrEdEdArArArDuDuEuEuIlBdIlIlHuHuFlBd"
+
+"39|1 1 2 2 1 1|2 5 0 1 3 2|3 1 4 1 2 3|4 3 1 1 3 4|5 3 4 2 1 5|6 2 5 2 1 6|7 0 0 3 1 7|8 0 3 2 1 8|9 4 3 3 1 9",
+// "ErDdFrFrDdArDdGrGrHrHrCuCuCuCuAlHlDuDuDuElElElDdFlFlFlDdArArDdHlIlIlBdBdBdAr"
+
+"19|1 1 2 2 1 1|2 3 4 1 2 2|3 5 0 1 3 3|4 2 3 2 1 4|5 5 4 2 1 5|6 4 3 2 1 6|7 4 5 3 1 7|8 2 0 2 1 8|9 6 1 1 2 9",
+// "ArArDlBuElGlGlGlGlBdBdElFlCdCdCdArIu"
+
+"31|1 0 2 2 1 1|2 5 4 2 1 2|3 4 1 1 2 3|4 5 0 1 3 4|5 3 3 1 3 5|6 2 3 1 3 6|7 4 3 3 1 7|8 0 3 1 2 8|9 0 6 2 1 9",
+// "ArBlCuEuEuBlHuHuHuAlFuFuBlBlBlEdEdEdFdFdArArArFdGlGlDdDdDdAr"
+
+"21|1 0 2 2 1 1|2 4 2 1 2 2|3 5 0 1 3 3|4 4 4 2 1 4|5 3 1 1 2 5|6 6 1 1 2 6|7 2 2 1 2 7|8 5 5 2 1 8|9 3 4 1 2 9",
+// "BuBuCdEuFuGdArArArHlIuHlHlHlIdIdDlCdCdAr"
+
+"17|1 1 2 2 1 1|2 5 1 1 2 2|3 4 1 1 3 3|4 6 1 1 2 4|5 3 0 1 3 5|6 2 4 3 1 6|7 2 3 2 1 7|8 3 5 2 1 8|9 0 3 1 2 9",
+// "BuDuFlCdGlEdHrHrCdIuFlEdEdArArAr"
+
+"23|1 0 2 2 1 1|2 5 0 1 3 2|3 1 4 2 1 3|4 2 2 1 2 4|5 4 1 1 3 5|6 5 4 2 1 6|7 1 1 2 1 7|8 4 5 2 1 8|9 3 4 1 2 9",
+// "BdClFlGlDuDuArArIuHlHlHlIdIdFlBdBdFlEdEdArAr"
+
+"45|1 1 2 2 1 1|2 3 0 1 3 2|3 5 2 1 3 3|4 5 5 2 1 4|5 1 5 1 2 5|6 6 0 1 3 6|7 0 4 2 1 7|8 4 4 1 2 8|9 1 3 3 1 9",
+// "CuFdFdGrGrEuHdGrGrIlBdBdBdArBdIrIrEuEuEuEuAlIlIlBuBuBuGlCdGlGlBdHuHuDlDlCdDlDlBdArArArFd"
+
+"40|1 0 2 2 1 1|2 3 1 1 3 2|3 2 4 3 1 3|4 4 5 3 1 4|5 4 0 1 3 5|6 0 5 1 2 6|7 2 5 1 2 7|8 0 3 1 2 8|9 1 3 1 2 9",
+// "CrCrBdBdEdGuGuGuGuGuArArHuFuHuFuHuFuIuIuIuAlBuBuClClClClBdDlDlDlDlBdArEdEdArAr"
+
+"18|1 0 2 2 1 1|2 4 0 1 3 2|3 4 5 2 1 3|4 6 3 1 2 4|5 0 4 3 1 5|6 2 1 1 2 6|7 5 2 1 2 7|8 3 4 2 1 8|9 5 0 2 1 9",
+// "BdClClDdDdFuArArGdGdGdHrHrBdBdArAr"
+
+"24|1 2 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 5 5 2 1 4|5 3 3 1 2 5|6 4 4 1 2 6|7 1 5 3 1 7|8 4 1 1 2 8|9 6 0 1 3 9",
+// "AlBdEuEuEuArFdClClBdClFuFuDlGlDlBdHuArArIdIdId"
+
+"24|1 0 2 2 1 1|2 3 5 3 1 2|3 4 0 1 3 3|4 5 2 1 2 4|5 5 4 2 1 5|6 2 2 1 2 6|7 3 4 2 1 7|8 2 5 1 2 8|9 5 0 1 2 9",
+// "CdFuFuArArGlElGlElDdGlHuHuBlBlDdDdErErCdCdArAr"
+
+"20|1 0 2 2 1 1|2 2 2 1 2 2|3 5 4 1 3 3|4 6 1 1 3 4|5 3 2 1 2 5|6 4 1 1 2 6|7 2 4 3 1 7|8 2 0 1 2 8|9 4 0 2 1 9",
+// "CuCuCuDdDdEuEuGrBdArArIrFuArBuGlCdCdAr"
+
+"25|1 0 2 2 1 1|2 4 2 1 2 2|3 5 2 1 3 3|4 1 4 1 2 4|5 4 5 2 1 5|6 3 2 1 3 6|7 0 3 2 1 7|8 6 1 1 2 8|9 3 1 3 1 9",
+// "ArBdElCdCdElBdGrHdHdIrFuFuGrDuElGrGrFdFdFdArArAr"
+
+"47|1 1 2 2 1 1|2 4 5 3 1 2|3 5 1 1 3 3|4 3 0 1 3 4|5 0 3 2 1 5|6 2 4 3 1 6|7 1 5 1 2 7|8 3 3 2 1 8|9 2 5 1 2 9",
+// "AlCuFrFrGuHrDdDdDdDdIuIuIuIuErErGuIuArArGuGuElDuGuAlDuBlBlBlBlDuFlFlFlFlDdDdArArDdHlCdCdCdAr"
+
+"22|1 1 2 2 1 1|2 5 2 1 2 2|3 6 0 1 3 3|4 5 4 2 1 4|5 5 0 1 2 5|6 3 5 2 1 6|7 3 0 1 3 7|8 2 3 3 1 8|9 2 4 3 1 9",
+// "CdFlFlHlHlGdIlDlCdCdIlDlBdBdBdDrGdGdArArAr"
+
+"40|1 0 2 2 1 1|2 2 4 2 1 2|3 2 3 2 1 3|4 5 2 1 3 4|5 3 0 1 3 5|6 1 3 1 2 6|7 0 5 2 1 7|8 4 0 3 1 8|9 1 0 2 1 9",
+// "ArBrDuBrGrGrFdClEdEdGrGrEdArEdCrFuFuFuClEuIrFuAlEuEuBlBlBlDdEdGlDdGlGlEdArArAr"
+
+"55|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 4 1 1 3 4|5 2 1 1 3 5|6 0 5 1 2 6|7 0 1 2 1 7|8 3 5 2 1 8|9 1 3 1 2 9",
+// "BdClClBdBdClDdHlIdIdClClEdGrGrGrEuCrCrFuFuGrGrDuCrEdIuIuHlHlEdArArFuFuFuIuIuIuAlAlEuEuClClClDdDdEdEdArArArAr"
+
+"19|1 0 2 2 1 1|2 4 2 1 2 2|3 2 0 1 3 3|4 3 1 1 3 4|5 1 4 2 1 5|6 1 3 2 1 6|7 0 4 1 2 7|8 2 5 2 1 8|9 4 5 1 2 9",
+// "BuBuDdFlCdGdElCdIuIuHrCdArHrDdArArAr"
+
+"42|1 0 2 2 1 1|2 6 2 1 2 2|3 5 0 1 3 3|4 3 0 1 3 4|5 3 3 3 1 5|6 1 4 1 2 6|7 3 5 2 1 7|8 2 4 3 1 8|9 1 3 2 1 9",
+// "ArBuBuErDdGrHrHrDdDdArDdIrFuFuFuFuAlIlDuDuDuGlGlGlHlHlHlHlDdDdArArDdElIlElCdCdCdAr"
+
+"28|1 0 2 2 1 1|2 6 0 1 3 2|3 4 2 1 2 3|4 5 5 2 1 4|5 5 2 1 3 5|6 4 5 1 2 6|7 2 4 3 1 7|8 2 1 1 3 8|9 4 1 2 1 9",
+// "BdBdIlEuGrHdHdArArIlCuCuArHuIlIlHuGlEdGlFuFuDlBdDlEdAr"
+
+"30|1 0 2 2 1 1|2 6 0 1 3 2|3 5 0 1 3 3|4 2 2 1 2 4|5 4 4 2 1 5|6 2 4 1 2 6|7 3 5 3 1 7|8 1 1 3 1 8|9 3 2 1 3 9",
+// "BdBdBdCdFdHlIuElCdElElElFuIdHrHrHrDuDuArFuGlCdGlGlIdArArAr"
+
+"87|1 0 2 2 1 1|2 2 0 1 3 2|3 0 3 3 1 3|4 6 1 1 3 4|5 4 3 1 3 5|6 5 4 2 1 6|7 3 1 2 1 7|8 0 0 1 2 8|9 0 5 2 1 9",
+// "CrEdCrCrBdBdBdArGlGlHdHdGlHdAlBuBuBuClClEuEuEuFlDdDdFlFlEdEdEdCrCrBdFlIrHdHdFlBdGrGrGrBuBuClClEuEuFrFrGrGrEuEuCrCrBdFrBdHuHuIlBdArHuHuHuAlBuBuFlFlFlBdBdArArBdClClEdEdEdArAr"
+
+"23|1 0 2 2 1 1|2 2 0 1 3 2|3 5 2 1 2 3|4 6 0 1 3 4|5 2 5 2 1 5|6 4 4 2 1 6|7 2 3 2 1 7|8 4 5 1 2 8|9 5 5 2 1 9",
+// "DdDdElElFlCdFlFlFlGlGlBdBdBdArArArArHuHuIlDd"
+
+"38|1 0 2 2 1 1|2 3 5 3 1 2|3 0 4 1 2 3|4 4 1 1 3 4|5 3 2 1 3 5|6 2 3 1 2 6|7 1 5 1 2 7|8 0 3 2 1 8|9 4 4 3 1 9",
+// "BrEdEdFuFuFuArArGuHrCuCuHrGuGuGuGuAlHlEuEuBlBlBlBlEuIlIlIlDdDdIlEdEdArArAr"
+
+"36|1 1 2 2 1 1|2 5 0 1 3 2|3 1 3 3 1 3|4 5 4 2 1 4|5 1 4 1 2 5|6 4 1 1 2 6|7 3 0 1 3 7|8 4 5 2 1 8|9 0 0 2 1 9",
+// "CrCrCrDlEuFuGdGdGdArEuEuIrIrEuAlGuGuDlDlDlGdHlHlHlGdArArGdClClBdBdBdAr"
+
+"24|1 1 2 2 1 1|2 3 5 3 1 2|3 3 0 1 3 3|4 6 5 1 2 4|5 3 4 2 1 5|6 5 0 2 1 6|7 5 4 2 1 7|8 2 4 1 3 8|9 5 1 1 2 9",
+// "AlCdFlFlHuHuHuElElCdElGlDuDuBrCdHdHdArArArIuAr"
+
+"74|1 2 2 2 1 1|2 4 4 1 3 2|3 5 4 2 1 3|4 2 3 1 3 4|5 3 3 3 1 5|6 0 2 1 2 6|7 0 1 2 1 7|8 5 0 1 3 8|9 5 5 2 1 9",
+// "AlFdAlDuDuDuElElBuBuBuClClClBdBdBdClErErDdFdFdClDdDdArArArDuDuCrFuFuFuClDdDdAlAlGrFuFuAlDuGrGrDuDuElElBuBuHdHdIlIlHdHdIlBdBdErErDdDdIlIlDdArArArAr"
+
+"29|1 0 2 2 1 1|2 4 0 1 3 2|3 2 2 1 2 3|4 5 0 1 3 4|5 2 4 1 2 5|6 3 5 2 1 6|7 5 5 2 1 7|8 4 4 2 1 8|9 0 4 1 3 9",
+// "BdCuCuArArDdEdHlDdHlBdHlIuIuIuHlEuEuFlFlFlGlGlDdGlBdArAr"
+
+"27|1 2 2 2 1 1|2 5 5 2 1 2|3 5 0 1 3 3|4 4 3 1 2 4|5 3 5 2 1 5|6 5 3 2 1 6|7 3 3 1 2 7|8 1 4 1 3 8|9 0 3 2 1 9",
+// "AlDuDuDuElBlFlGuGuGuArArIrIrHuHuElBlHuHuIlFlCdCdCdAr"
+
+"36|1 0 2 2 1 1|2 4 4 3 1 2|3 2 1 1 3 3|4 2 5 3 1 4|5 5 5 1 2 5|6 3 1 1 2 6|7 3 3 1 2 7|8 5 0 2 1 8|9 4 3 3 1 9",
+// "CuDlDlGdGdBlBlEuHlHlIlIlEuEuBrBrEuEuGuIrCdCdHlHlFuIrGuDrDrDrCdArArArAr"
+
+"34|1 0 2 2 1 1|2 5 0 1 3 2|3 1 3 1 2 3|4 5 5 2 1 4|5 1 5 1 2 5|6 3 4 1 3 6|7 0 1 3 1 7|8 4 0 1 2 8|9 2 3 2 1 9",
+// "ArArCuDlEuGrHdIrIrFuIrHdGrCuCuAlEuFuDlDlDlFdArFdHdArHdIlIlBdBdBdAr"
+
+"32|1 4 2 2 1 1|2 5 4 2 1 2|3 1 2 2 1 3|4 6 1 1 3 4|5 4 4 1 3 5|6 0 2 1 3 6|7 0 5 3 1 7|8 3 5 1 2 8|9 3 1 1 2 9",
+// "EuHuHuGrFdClIuAlAlEuEuBlDdGrGrGrHdHdBlBlBlEdHuHuGlDdGlGlEdArAr"
+
+"15|1 1 2 2 1 1|2 5 0 1 3 2|3 6 2 1 2 3|4 6 4 1 2 4|5 4 5 2 1 5|6 4 1 1 2 6|7 4 4 2 1 7|8 3 2 1 2 8|9 1 4 3 1 9",
+// "BdCuCuElFuHuHuArArIlGlBdBdAr"
+
+"18|1 1 2 2 1 1|2 3 0 1 3 2|3 4 4 3 1 3|4 5 2 1 2 4|5 2 4 2 1 5|6 2 3 2 1 6|7 5 0 2 1 7|8 1 3 1 2 8|9 1 5 2 1 9",
+// "DuGlIrHdFlBdGlDuHdElBdIrIrBdArArAr"
+
+"18|1 0 2 2 1 1|2 3 4 3 1 2|3 4 0 1 3 3|4 2 2 1 2 4|5 3 3 2 1 5|6 6 1 1 2 6|7 2 5 1 2 7|8 1 1 3 1 8|9 1 4 1 2 9",
+// "BlErErCdFuIdBlCdCdHrHrDuDuArArArAr"
+
+"58|1 0 2 2 1 1|2 5 5 2 1 2|3 4 3 1 3 3|4 6 1 1 3 4|5 5 4 2 1 5|6 2 4 1 3 6|7 1 5 1 2 7|8 0 1 2 1 8|9 0 3 1 2 9",
+// "CuCuElDdElFuFuFuElCdCdElIdIdElFdFdArArArFuFuErErGuGuGuElIuIuIuElFdFdAlCuBlBlDdHrHrGuGuAlIuIuAlFuBlBlBlCdFdArArArAr"
+
+"20|1 0 2 2 1 1|2 3 4 3 1 2|3 4 2 1 2 3|4 0 0 2 1 4|5 1 5 2 1 5|6 2 2 1 3 6|7 3 0 3 1 7|8 5 2 1 2 8|9 6 1 1 2 9",
+// "ElFuBlBlCdCdCdBrBrFdFdArArArGlHuHuArIu"
+

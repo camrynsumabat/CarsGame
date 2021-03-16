@@ -1,0 +1,3000 @@
+"12|1 0 2 2 1 1|2 6 1 1 3 2|3 5 1 1 3 3|4 3 1 1 2 4|5 4 1 1 3 5",
+// "ArBdBdCdCdDuArEdEdArAr"
+
+"13|1 0 2 2 1 1|2 6 0 1 3 2|3 5 3 2 1 3|4 3 1 1 2 4|5 4 1 1 3 5",
+// "ArDuArEdEdArArEdClBdBdBd"
+
+"12|1 0 2 2 1 1|2 4 2 1 2 2|3 4 4 3 1 3|4 4 0 3 1 4|5 3 1 1 3 5",
+// "ArBuDlDlDlBuEdEdArArAr"
+
+"20|1 2 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 3 4 1 3 4|5 5 3 2 1 5",
+// "AlClDuDuDuClClClDdDdArArDdElElBdBdBdAr"
+
+"18|1 0 2 2 1 1|2 4 1 1 3 2|3 6 1 1 3 3|4 3 4 1 3 4|5 5 4 2 1 5",
+// "ArDuDuDuElCdCdElElBdBdElDdDdArArAr"
+
+"16|1 1 2 2 1 1|2 5 0 1 3 2|3 6 0 1 3 3|4 4 5 2 1 4|5 3 0 1 3 5",
+// "BdBdCdCdCdDlBdDlDlEdEdEdArArAr"
+
+"22|1 1 2 2 1 1|2 4 0 1 3 2|3 6 0 1 3 3|4 2 4 1 3 4|5 5 4 2 1 5",
+// "AlBdCdDuDuDuElCdCdElElBdBdElElDdDdArArArAr"
+
+"9|1 1 2 2 1 1|2 5 1 1 2 2|3 4 0 2 1 3|4 6 1 1 2 4|5 4 1 1 2 5",
+// "ArBdBdDuEdEdArAr"
+
+"16|1 1 2 2 1 1|2 3 4 2 1 2|3 4 0 1 3 3|4 4 3 3 1 4|5 3 0 1 3 5",
+// "BrBrDlDlDlCdCdCdDlEdEdEdArArAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 2 2|3 6 1 1 3 3|4 2 0 2 1 4|5 4 2 1 2 5",
+// "ArBdBdArCdCdEdArAr"
+
+"18|1 1 2 2 1 1|2 4 1 1 3 2|3 6 1 1 3 3|4 4 4 2 1 4|5 2 3 1 3 5",
+// "AlCdCdDlEuEuDlBdBdDlDlEdEdArArArAr"
+
+"18|1 0 2 2 1 1|2 2 0 1 3 2|3 5 0 1 3 3|4 1 4 3 1 4|5 4 5 3 1 5",
+// "BdCdDrDrBdBdArArArBuBuDlCdElElCdAr"
+
+"10|1 0 2 2 1 1|2 4 2 1 2 2|3 6 1 1 2 3|4 4 4 1 3 4|5 2 1 1 3 5",
+// "BuBuCuEdEdArArArAr"
+
+"17|1 1 2 2 1 1|2 4 0 1 3 2|3 4 5 3 1 3|4 3 3 3 1 4|5 2 3 1 2 5",
+// "AlClClClEuEuDlDlBdBdBdEuArArArAr"
+
+"15|1 0 2 2 1 1|2 2 0 1 3 2|3 4 1 1 3 3|4 1 3 3 1 4|5 3 4 2 1 5",
+// "ErErCdCdCdDrDrBdBdBdArArArAr"
+
+"19|1 1 2 2 1 1|2 5 0 1 3 2|3 4 3 3 1 3|4 5 4 2 1 4|5 3 4 1 3 5",
+// "DlEuEuEuDlDlDlEdEdArArEdClClBdBdBdAr"
+
+"14|1 0 2 2 1 1|2 5 1 1 3 2|3 6 0 1 3 3|4 5 5 2 1 4|5 2 1 1 3 5",
+// "BdCdCdDlCdDlBdEdEdArArArAr"
+
+"12|1 0 2 2 1 1|2 2 2 1 2 2|3 4 2 1 2 3|4 5 0 1 3 4|5 2 4 3 1 5",
+// "BuBuArArCuCuArDdDdDdAr"
+
+"22|1 1 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 2 4 1 3 4|5 5 4 2 1 5",
+// "AlBdCdDuDuDuElElCdCdElBdBdElElDdDdArArArAr"
+
+"11|1 0 2 2 1 1|2 3 3 2 1 2|3 3 0 1 3 3|4 3 4 2 1 4|5 2 1 1 2 5",
+// "BrCdDrCdCdEuArArArAr"
+
+"14|1 0 2 2 1 1|2 4 0 1 3 2|3 3 3 2 1 3|4 5 0 1 3 4|5 0 3 3 1 5",
+// "ArArDdDdDdDdCrCrBdBdBdArAr"
+
+"13|1 1 2 2 1 1|2 3 4 3 1 2|3 3 0 1 3 3|4 2 5 2 1 4|5 6 1 1 3 5",
+// "BlBlBlCdCdDlCdArArArEdEd"
+
+"10|1 0 2 2 1 1|2 3 2 1 2 2|3 4 2 1 2 3|4 5 2 1 3 4|5 5 5 2 1 5",
+// "ArBdArCdArElElDdAr"
+
+"18|1 0 2 2 1 1|2 4 0 1 3 2|3 2 1 1 3 3|4 5 4 2 1 4|5 6 0 1 3 5",
+// "BdDlDlDlBdBdDlDlCdCdArArArArEdEdEd"
+
+"9|1 2 2 2 1 1|2 6 0 1 3 2|3 5 3 2 1 3|4 4 1 1 2 4|5 5 4 2 1 5",
+// "ClBdDuArArElBdBd"
+
+"16|1 0 2 2 1 1|2 2 2 1 2 2|3 6 0 1 3 3|4 4 0 1 3 4|5 4 4 3 1 5",
+// "BuBuArArCdDdElCdCdElElDdDdArAr"
+
+"19|1 0 2 2 1 1|2 5 0 1 3 2|3 4 1 1 3 3|4 4 4 3 1 4|5 3 4 1 3 5",
+// "ArBdEuEuEuDlDlBdBdDlCdCdDlEdEdArArAr"
+
+"11|1 2 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 6 2 1 2 4|5 4 2 1 2 5",
+// "BdClClBdBdClDdEdArAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 6 0 1 3 3|4 5 4 2 1 4|5 4 5 2 1 5",
+// "ArArCdDlCdCdDlDlBdElElBdArAr"
+
+"13|1 1 2 2 1 1|2 3 0 1 3 2|3 4 1 1 3 3|4 1 5 3 1 4|5 3 4 3 1 5",
+// "BdDlElElCdCdElBdBdArArAr"
+
+"14|1 0 2 2 1 1|2 5 0 1 3 2|3 4 3 3 1 3|4 5 5 2 1 4|5 2 3 2 1 5",
+// "ArArArDlDlElClElClBdBdBdAr"
+
+"13|1 0 2 2 1 1|2 2 2 1 3 2|3 3 0 1 3 3|4 1 5 3 1 4|5 6 2 1 2 5",
+// "CdCdDrDrBdArDrCdArArArEd"
+
+"13|1 0 2 2 1 1|2 2 1 1 3 2|3 5 1 1 2 3|4 3 0 1 3 4|5 2 5 2 1 5",
+// "BdCuDdDdErBdArErDdArArAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 3 2|3 5 4 2 1 3|4 5 2 1 2 4|5 4 2 1 2 5",
+// "BdBdArArDuDuEdArAr"
+
+"15|1 0 2 2 1 1|2 3 0 1 3 2|3 6 2 1 3 3|4 3 5 3 1 4|5 3 4 3 1 5",
+// "ArBdCdDlDlDlElElElBdBdArArAr"
+
+"9|1 0 2 2 1 1|2 3 1 1 2 2|3 5 1 1 2 3|4 4 2 1 2 4|5 4 4 1 2 5",
+// "ArBuArCuDuDuArAr"
+
+"15|1 1 2 2 1 1|2 4 1 1 3 2|3 3 0 1 3 3|4 6 1 1 3 4|5 5 5 2 1 5",
+// "BdCdCdDdElDdElElBdElCdArArAr"
+
+"11|1 0 2 2 1 1|2 3 1 1 2 2|3 6 1 1 3 3|4 4 1 1 2 4|5 3 0 2 1 5",
+// "ArBdBdArCdCdDdDdArAr"
+
+"17|1 0 2 2 1 1|2 3 5 2 1 2|3 3 0 1 3 3|4 4 0 1 3 4|5 4 3 3 1 5",
+// "ArBrBrCdCdCdArCdElElElDdDdDdArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 2 2|3 5 2 1 3 3|4 4 5 2 1 4|5 3 2 1 3 5",
+// "ArBuDlCdDlDlEdArArAr"
+
+"13|1 0 2 2 1 1|2 2 2 1 2 2|3 2 4 2 1 3|4 3 0 1 3 4|5 2 5 3 1 5",
+// "BuBuArClDdDdErErDdArArAr"
+
+"7|1 2 2 2 1 1|2 6 0 1 3 2|3 5 1 1 2 3",
+// "ArBdBdBdCuAr"
+
+"11|1 0 2 2 1 1|2 3 2 1 2 2|3 3 4 2 1 3|4 4 2 1 2 4|5 6 1 1 3 5",
+// "ArBuBuArClDdArArEdEd"
+
+"16|1 1 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 4 0 1 3 4|5 5 4 2 1 5",
+// "ArClClBdClDdElElBdBdElDdDdArAr"
+
+"17|1 1 2 2 1 1|2 5 0 1 3 2|3 3 3 1 3 3|4 5 4 2 1 4|5 4 1 1 3 5",
+// "BdCuCuDlDlBdBdDlDlCdCdArEdEdArAr"
+
+"17|1 0 2 2 1 1|2 5 0 1 3 2|3 6 2 1 2 3|4 2 0 1 3 4|5 1 4 3 1 5",
+// "BdCdDdErErDdDdArArArDuDuElBdBdAr"
+
+"11|1 0 2 2 1 1|2 6 0 1 3 2|3 4 4 3 1 3|4 4 1 1 2 4|5 2 1 1 2 5",
+// "BdClBdBdDuEuArArArAr"
+
+"14|1 0 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 3 0 1 3 4|5 1 3 3 1 5",
+// "ArBdBdBdCdCdElDdDdDdArArAr"
+
+"15|1 0 2 2 1 1|2 2 0 1 3 2|3 0 4 3 1 3|4 4 2 1 2 4|5 3 2 1 2 5",
+// "BdCrCrCrBdBdArCrDuDuEdArArAr"
+
+"14|1 0 2 2 1 1|2 4 5 2 1 2|3 4 0 1 3 3|4 5 1 1 3 4|5 2 5 1 2 5",
+// "ArArBlCdCdDdDdEuEuBlCdArAr"
+
+"10|1 0 2 2 1 1|2 4 2 1 2 2|3 2 2 1 2 3|4 5 2 1 2 4|5 6 1 1 3 5",
+// "BdCdArArArDdArEdEd"
+
+"13|1 0 2 2 1 1|2 4 1 1 3 2|3 4 5 3 1 3|4 2 1 1 2 4|5 1 5 1 2 5",
+// "BdClClDuArArEuEuClBdArAr"
+
+"16|1 1 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 3 0 1 3 4|5 5 0 1 3 5",
+// "BdBdClClBdClDdDdDdArArEdEdEdAr"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 5 5 2 1 3|4 5 0 1 3 4|5 4 3 3 1 5",
+// "ArBdBdClClClClBdArArBdElElDdDdDdAr"
+
+"20|1 0 2 2 1 1|2 0 5 3 1 2|3 4 5 1 2 3|4 3 4 3 1 4|5 2 2 1 3 5",
+// "BrEuDlDlCuCuBrBrCuCuCuDrDrEdEdArArArAr"
+
+"14|1 1 2 2 1 1|2 3 0 1 3 2|3 6 0 1 3 3|4 5 3 2 1 4|5 4 4 3 1 5",
+// "BdBdBdArArArBuBuDlCdElCdCd"
+
+"12|1 1 2 2 1 1|2 4 5 3 1 2|3 5 0 1 3 3|4 4 2 1 3 4|5 6 1 1 2 5",
+// "ArBlBlBlCdCdCdDdArArEu"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 3 1 1 2 3|4 4 1 1 2 4|5 5 2 1 3 5",
+// "BdBdBdCuArDuArEdAr"
+
+"9|1 1 2 2 1 1|2 4 2 1 2 2|3 5 1 1 3 3|4 3 2 1 2 4|5 3 4 1 3 5",
+// "BdCdCdDuDuArArAr"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 2 1 1 3 3|4 5 0 1 3 4|5 3 4 2 1 5",
+// "BdDdDdDdElBdBdElElCdCdArArArAr"
+
+"14|1 1 2 2 1 1|2 6 0 1 3 2|3 4 4 3 1 3|4 4 1 1 3 4|5 3 3 1 2 5",
+// "ArBdEdEdClBdBdClClDdDdArAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 2 0 1 3 3|4 4 5 3 1 4|5 3 5 1 2 5",
+// "BdBdCdCdCdArArArArEuEuDlBd"
+
+"16|1 1 2 2 1 1|2 5 1 1 3 2|3 3 1 1 3 3|4 4 5 3 1 4|5 5 4 2 1 5",
+// "DlDlDlDlElElBdBdElElCdCdArArAr"
+
+"15|1 0 2 2 1 1|2 3 1 1 3 2|3 4 1 1 3 3|4 4 4 3 1 4|5 3 5 2 1 5",
+// "ArDlDlDlCdDlBdErBdArErCdArAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 3 2|3 5 1 1 2 3|4 1 5 2 1 4|5 6 2 1 3 5",
+// "BdCuDlBdArArArArEd"
+
+"17|1 0 2 2 1 1|2 5 0 1 3 2|3 3 1 1 3 3|4 4 4 3 1 4|5 4 3 3 1 5",
+// "ArDlDlDlDlCdCdArArCdElElBdBdBdAr"
+
+"18|1 2 2 2 1 1|2 4 0 1 3 2|3 2 3 1 2 3|4 4 4 3 1 4|5 3 3 1 3 5",
+// "AlBdCdCdEuEuDlDlDlBdBdDlEdEdArArAr"
+
+"14|1 0 2 2 1 1|2 3 2 1 2 2|3 5 0 1 3 3|4 4 2 1 3 4|5 5 3 2 1 5",
+// "ArBdArBdDdArDdElElCdCdCdAr"
+
+"14|1 1 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 3 3 1 2 4|5 4 1 1 3 5",
+// "ArBdClDdDdClBdBdClEdEdArAr"
+
+"10|1 0 2 2 1 1|2 6 2 1 2 2|3 5 4 2 1 3|4 5 1 1 2 4|5 4 0 3 1 5",
+// "ArArArBuElBuElDuAr"
+
+"13|1 0 2 2 1 1|2 3 0 1 3 2|3 4 1 1 3 3|4 5 1 1 2 4|5 3 5 2 1 5",
+// "ArBdBdCdDuErBdArErCdArAr"
+
+"13|1 0 2 2 1 1|2 2 0 1 3 2|3 0 4 3 1 3|4 6 2 1 2 4|5 6 4 1 2 5",
+// "BdCrCrCrBdBdArArArArDuDu"
+
+"10|1 0 2 2 1 1|2 2 4 2 1 2|3 2 2 1 2 3|4 4 1 1 2 4|5 3 2 1 2 5",
+// "BrBrCdArDuEdArArAr"
+
+"13|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 2 3|4 4 1 1 3 4|5 3 4 2 1 5",
+// "ArBdCuErBdBdArErDdDdArAr"
+
+"11|1 0 2 2 1 1|2 2 2 1 2 2|3 3 0 1 3 3|4 4 1 1 2 4|5 1 4 2 1 5",
+// "BuBuArCdCdCdArDuArAr"
+
+"16|1 0 2 2 1 1|2 5 1 1 3 2|3 4 1 1 2 3|4 3 3 1 3 4|5 4 4 3 1 5",
+// "ArCuDuDuElElBdBdElElDdDdArArAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 2 2|3 6 0 1 3 3|4 2 1 1 3 4|5 1 5 2 1 5",
+// "BuCdCdCdDdElDdArArArAr"
+
+"10|1 2 2 2 1 1|2 5 0 1 3 2|3 4 1 1 2 3|4 6 1 1 2 4|5 5 3 2 1 5",
+// "CuArDuElElBdBdBdAr"
+
+"18|1 1 2 2 1 1|2 5 0 1 3 2|3 3 0 1 3 3|4 4 4 3 1 4|5 5 5 2 1 5",
+// "BdCdDlDlBdDlDlCdElElBdElElCdArArAr"
+
+"11|1 0 2 2 1 1|2 6 1 1 2 2|3 3 2 1 3 3|4 4 0 1 3 4|5 4 3 2 1 5",
+// "ArBuCdArErDdDdDdArAr"
+
+"13|1 0 2 2 1 1|2 5 1 1 2 2|3 4 2 1 2 3|4 6 0 1 3 4|5 3 0 1 3 5",
+// "ArBuCdDdDdDdEdEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 5 1 1 3 2|3 4 4 3 1 3|4 4 0 1 3 4|5 5 5 2 1 5",
+// "ArArClClBdClDdDdElElBdElDdArAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 2 2|3 2 0 2 1 3|4 6 1 1 2 4|5 3 1 1 2 5",
+// "BdBdArClDuEuArArAr"
+
+"17|1 0 2 2 1 1|2 2 0 1 3 2|3 5 2 1 2 3|4 4 0 1 3 4|5 2 3 3 1 5",
+// "CdCdErBdBdBdArArBdElElDdDdDdArAr"
+
+"9|1 0 2 2 1 1|2 3 2 1 2 2|3 3 4 1 2 3|4 6 2 1 3 4|5 5 2 1 2 5",
+// "ArBuBuArArDdEdAr"
+
+"20|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 2 3 1 3 4|5 4 0 1 3 5",
+// "BdClClBdBdDuDuClClClDdDdArArEdEdEdArAr"
+
+"19|1 0 2 2 1 1|2 5 5 2 1 2|3 3 2 1 3 3|4 5 0 1 3 4|5 5 4 2 1 5",
+// "ArBlBlBlBlCuDdElElDdDdElElCdCdArArAr"
+
+"14|1 0 2 2 1 1|2 3 1 1 3 2|3 4 5 3 1 3|4 4 2 1 3 4|5 1 5 1 2 5",
+// "ArBdClClEuEuClClBdArDdArAr"
+
+"13|1 0 2 2 1 1|2 2 1 1 2 2|3 0 0 3 1 3|4 4 4 3 1 4|5 5 0 1 3 5",
+// "BdBdArArArBuDlDlEdEdEdAr"
+
+"12|1 1 2 2 1 1|2 3 0 1 3 2|3 1 5 3 1 3|4 2 3 3 1 4|5 0 5 1 2 5",
+// "CrCrCrDrDrBdBdBdArArAr"
+
+"15|1 2 2 2 1 1|2 4 1 1 2 2|3 5 1 1 3 3|4 4 5 3 1 4|5 3 4 1 3 5",
+// "AlBuCdEuEuDlDlCdDlDlEdArArAr"
+
+"16|1 0 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 4 0 1 3 4|5 2 2 1 3 5",
+// "BdClClBdClClClDdDdDdEdArArArAr"
+
+"19|1 0 2 2 1 1|2 5 0 1 3 2|3 3 0 1 3 3|4 5 5 2 1 4|5 4 4 3 1 5",
+// "ArBdCdDlDlDlDlElElBdBdElElCdCdArArAr"
+
+"15|1 0 2 2 1 1|2 5 2 1 3 2|3 3 1 1 3 3|4 5 5 2 1 4|5 4 0 1 3 5",
+// "ArCdDlDlBdDlDlCdArEdEdEdArAr"
+
+"15|1 0 2 2 1 1|2 5 2 1 2 2|3 2 0 1 3 3|4 0 5 3 1 4|5 5 5 1 2 5",
+// "BuBuCdCdDrDrEuEuDrCdArArArAr"
+
+"17|1 1 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 4 3 3 1 4|5 3 0 1 3 5",
+// "DlDlCdCdCdDlBdBdBdDlEdEdEdArArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 3 4 3 1 3|4 3 1 1 3 4|5 1 3 1 2 5",
+// "BdClEdEdClBdBdClDdDdArArAr"
+
+"24|1 3 2 2 1 1|2 5 0 1 3 2|3 3 3 1 3 3|4 4 4 2 1 4|5 2 4 1 3 5",
+// "AlAlAlBdCuCuDlBdBdEuEuEuDlDlCdCdDlEdEdArArArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 2 2|3 2 1 1 2 3|4 3 1 1 3 4|5 6 0 1 3 5",
+// "BuCuArDdDdArArArEdEdEd"
+
+"19|1 0 2 2 1 1|2 4 4 3 1 2|3 3 4 1 3 3|4 5 1 1 3 4|5 4 0 1 3 5",
+// "ArCuCuCuBlBlBlBlCdCdArDdDdEdEdEdArAr"
+
+"12|1 1 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 1 4 3 1 4|5 5 3 2 1 5",
+// "ArArClDlClElElBdBdBdAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 3 2|3 2 0 1 3 3|4 5 1 1 2 4|5 3 0 1 3 5",
+// "BdBdCdCdCdArDuEdEdEdArArAr"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 5 2 1 3 3|4 5 5 2 1 4|5 6 2 1 2 5",
+// "ArBdBdDlDlCdDlDlBdArArArEd"
+
+"11|1 1 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 3 1 1 2 4|5 4 2 1 3 5",
+// "BdClClBdClDuArEdArAr"
+
+"14|1 1 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 5 4 2 1 4|5 3 5 1 2 5",
+// "ArArClDlDlBdDlDlEuEuClBdAr"
+
+"11|1 0 2 2 1 1|2 6 1 1 3 2|3 5 4 2 1 3|4 3 2 1 3 4|5 2 1 1 3 5",
+// "ClBdBdDdEdEdArArArAr"
+
+"15|1 1 2 2 1 1|2 5 5 2 1 2|3 5 0 1 3 3|4 5 4 2 1 4|5 4 4 1 2 5",
+// "ArArCdEdDlDlCdDlEuEuBlBlCdAr"
+
+"14|1 0 2 2 1 1|2 2 0 1 3 2|3 2 4 2 1 3|4 5 1 1 3 4|5 4 5 3 1 5",
+// "BdCrBdBdArArArBuDdElElDdAr"
+
+"12|1 0 2 2 1 1|2 2 2 1 2 2|3 2 4 2 1 3|4 3 0 1 3 4|5 6 2 1 3 5",
+// "BuBuArClDdDdDdArArArEd"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 2 4 2 1 3|4 4 1 1 3 4|5 6 1 1 2 5",
+// "BdClBdBdArDdDdArArEu"
+
+"10|1 0 2 2 1 1|2 2 2 1 2 2|3 1 4 2 1 3|4 5 2 1 2 4|5 4 1 1 3 5",
+// "BuBuArArDdEdEdArAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 5 1 1 2 3|4 6 0 1 3 4|5 3 1 1 2 5",
+// "ArBdBdBdCuDdDdDdEuArArAr"
+
+"16|1 2 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 4 5 1 2 4|5 3 3 1 3 5",
+// "AlBdBdDuDuClEuClBdClClEdArArAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 3 2|3 2 2 1 2 3|4 6 2 1 2 4|5 2 4 1 2 5",
+// "BdBdCuCuArArArArDd"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 6 4 1 3 3|4 3 4 3 1 4|5 1 4 2 1 5",
+// "ArBdCuCuCuDrBdBdArArArBuBuDlCdCd"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 2 0 1 3 3|4 5 0 1 3 4|5 4 5 2 1 5",
+// "BdBdCdCdDdDdElDdElElBdElCdArArArAr"
+
+"12|1 0 2 2 1 1|2 5 0 2 1 2|3 6 1 1 2 3|4 4 1 1 3 4|5 4 4 3 1 5",
+// "ArArBlCuElElElDdDdArAr"
+
+"12|1 2 2 2 1 1|2 4 1 1 3 2|3 3 4 3 1 3|4 1 4 1 3 4|5 2 3 1 2 5",
+// "DuDuDuEdEdClClBdBdArAr"
+
+"18|1 0 2 2 1 1|2 5 4 2 1 2|3 5 1 1 3 3|4 4 1 1 3 4|5 3 4 1 3 5",
+// "ArBlEuEuEuBlBlBlCdCdDdDdEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 4 5 3 1 4|5 4 1 1 3 5",
+// "ArArDlDlDlEdEdArEdClClBdBdBdAr"
+
+"17|1 1 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 5 5 2 1 4|5 5 4 2 1 5",
+// "BdDlDlDlDlElElCdCdElElBdBdArArAr"
+
+"13|1 0 2 2 1 1|2 5 2 1 3 2|3 3 0 1 3 3|4 3 5 2 1 4|5 3 4 2 1 5",
+// "ArBdCdDlDlElElCdCdArArAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 2 2|3 4 1 1 3 3|4 2 1 1 3 4|5 2 4 2 1 5",
+// "BuCdCdElElDdDdArArArAr"
+
+"15|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 3 3 2 1 4|5 3 5 3 1 5",
+// "ArCdDlDlBdBdElCdElElBdArArAr"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 4 5 2 1 4|5 5 4 2 1 5",
+// "ArBdCdDlDlDlElElCdCdElElBdBdArArAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 2 2|3 4 0 2 1 3|4 6 0 1 3 4|5 4 1 1 2 5",
+// "ArArBdBdDdCrDdDdEuArAr"
+
+"17|1 0 2 2 1 1|2 2 0 1 3 2|3 1 5 3 1 3|4 5 1 1 3 4|5 6 0 1 3 5",
+// "BdBdCrCrBdArArArBuClDdDdArEdEdEd"
+
+"15|1 1 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 5 5 2 1 4|5 3 5 2 1 5",
+// "ArBdBdCdElDlCdElDlElDlBdArAr"
+
+"14|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 2 5 1 2 4|5 2 4 2 1 5",
+// "ArArBdBdElElDuDuClClBdArAr"
+
+"9|1 0 2 2 1 1|2 6 2 1 3 2|3 2 4 2 1 3|4 2 2 1 2 4|5 5 2 1 2 5",
+// "BdCrDdArArArEdAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 6 3 1 2 4|5 4 5 3 1 5",
+// "ArArClClBdElElElBdArAr"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 3 2 1 3 3|4 5 5 2 1 4|5 4 4 1 3 5",
+// "ArBdEuEuDlDlBdDlDlCdArEdArAr"
+
+"14|1 0 2 2 1 1|2 3 1 1 3 2|3 4 1 1 3 3|4 6 1 1 3 4|5 3 5 3 1 5",
+// "ArBdCdDdDdElElCdElBdArArAr"
+
+"20|1 0 2 2 1 1|2 2 1 1 3 2|3 2 4 3 1 3|4 5 4 1 3 4|5 0 5 3 1 5",
+// "DuDuDuCrBdErErErBdArArArBuBuClDdElDdAr"
+
+"16|1 0 2 2 1 1|2 4 1 1 3 2|3 3 0 1 3 3|4 6 1 1 3 4|5 5 4 2 1 5",
+// "ArCdElDdDdElElBdBdElCdCdArArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 3 2|3 6 1 1 2 3|4 3 4 2 1 4|5 2 1 1 3 5",
+// "CuDrDrBdBdEdEdArArArAr"
+
+"14|1 0 2 2 1 1|2 5 0 1 3 2|3 4 3 2 1 3|4 6 1 1 3 4|5 3 1 1 3 5",
+// "ArDdDdEdEdArArEdClBdBdBdAr"
+
+"18|1 0 2 2 1 1|2 5 1 1 2 2|3 4 0 1 3 3|4 4 4 3 1 4|5 3 4 1 3 5",
+// "ArBuCdEuEuEuDlDlDlCdCdDlEdEdArArAr"
+
+"15|1 1 2 2 1 1|2 6 1 1 3 2|3 3 1 1 3 3|4 4 0 1 3 4|5 5 5 2 1 5",
+// "BdCdDdDdElBdElElDdElCdArArAr"
+
+"9|1 0 2 2 1 1|2 6 2 1 2 2|3 6 4 1 2 3|4 4 1 1 2 4|5 5 1 1 2 5",
+// "ArArBuBuDuArEuAr"
+
+"16|1 0 2 2 1 1|2 3 1 1 3 2|3 5 0 1 3 3|4 5 3 2 1 4|5 6 0 1 3 5",
+// "ArBdBdArArBdDlDlCdCdCdArEdEdEd"
+
+"15|1 0 2 2 1 1|2 6 1 1 2 2|3 4 1 1 3 3|4 4 4 3 1 4|5 3 2 1 3 5",
+// "ArBuEuDlDlDlCdCdDlEdEdArArAr"
+
+"17|1 0 2 2 1 1|2 6 1 1 3 2|3 4 0 1 3 3|4 5 4 2 1 4|5 3 0 1 3 5",
+// "ArCdDlBdBdDlDlCdCdDlEdEdEdArArAr"
+
+"21|1 0 2 2 1 1|2 4 0 1 3 2|3 4 5 3 1 3|4 2 5 1 2 4|5 0 4 3 1 5",
+// "BdClErErErDuDuClClDuDuDuArArElElBdBdArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 3 3|4 4 5 2 1 4|5 6 1 1 3 5",
+// "BdBdCdDlDlBdDlCdArArArEdEd"
+
+"11|1 1 2 2 1 1|2 5 0 1 3 2|3 4 3 2 1 3|4 3 2 1 2 4|5 4 1 1 2 5",
+// "DdArDdClBdBdBdEuArAr"
+
+"10|1 1 2 2 1 1|2 3 4 3 1 2|3 4 1 1 3 3|4 6 2 1 2 4|5 2 4 1 2 5",
+// "ArDdEdBlBlCdCdArAr"
+
+"14|1 1 2 2 1 1|2 3 0 1 3 2|3 5 2 1 2 3|4 4 1 1 3 4|5 4 5 3 1 5",
+// "BdBdCdDdElElElDdElBdArArAr"
+
+"12|1 0 2 2 1 1|2 5 0 1 3 2|3 4 1 1 2 3|4 4 4 3 1 4|5 3 0 2 1 5",
+// "ArArBdDlDlBdBdElCuArAr"
+
+"14|1 0 2 2 1 1|2 4 3 2 1 2|3 4 0 1 3 3|4 4 4 3 1 4|5 2 2 1 2 5",
+// "BrCdDlDlDlCdCdEuEuArArArAr"
+
+"14|1 2 2 2 1 1|2 4 5 3 1 2|3 4 2 1 3 3|4 6 1 1 2 4|5 3 4 1 3 5",
+// "AlDuEuEuBlBlBlBlCdEdArArAr"
+
+"9|1 0 2 2 1 1|2 2 1 1 2 2|3 3 2 1 2 3|4 4 2 1 3 4|5 3 5 2 1 5",
+// "BuArCdArElDdArAr"
+
+"16|1 1 2 2 1 1|2 6 1 1 3 2|3 5 4 2 1 3|4 5 1 1 3 4|5 3 3 1 3 5",
+// "ClBdBdEuEuClClClDdDdEdEdArArAr"
+
+"19|1 0 2 2 1 1|2 2 0 1 3 2|3 5 0 1 3 3|4 2 5 3 1 4|5 0 4 3 1 5",
+// "BdCdDrErErErBdBdArArArBuBuDlElCdCdAr"
+
+"18|1 0 2 2 1 1|2 2 1 1 3 2|3 3 0 1 3 3|4 5 0 1 3 4|5 5 5 2 1 5",
+// "BdCdCdDdDdElElDdElElCdElBdArArArAr"
+
+"17|1 0 2 2 1 1|2 6 0 1 3 2|3 4 1 1 3 3|4 5 5 2 1 4|5 3 0 1 3 5",
+// "ArBdBdCdDlBdDlDlCdDlEdEdEdArArAr"
+
+"18|1 0 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 5 4 2 1 4|5 2 0 1 3 5",
+// "BdDlCdCdDlDlBdBdDlDlEdEdEdArArArAr"
+
+"20|1 0 2 2 1 1|2 5 0 1 3 2|3 4 4 3 1 3|4 3 3 1 3 4|5 4 5 3 1 5",
+// "ArBdDuDuClClBdClClDdElElBdElElDdArArAr"
+
+"13|1 0 2 2 1 1|2 2 2 1 3 2|3 3 1 1 3 3|4 0 5 3 1 4|5 3 4 2 1 5",
+// "DrDrDrBdArDrErCdCdArArAr"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 4 5 2 1 4|5 3 0 1 3 5",
+// "ArBdBdCdCdDlDlBdDlEdEdEdArArAr"
+
+"10|1 0 2 2 1 1|2 6 1 1 2 2|3 5 1 1 2 3|4 2 2 1 2 4|5 4 1 1 3 5",
+// "BuCuDdArArEdEdArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 2 2|3 2 1 1 3 3|4 1 4 3 1 4|5 5 3 1 2 5",
+// "BuDrEdEdDrCdCdArArArAr"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 3 2 1 2 3|4 5 4 2 1 4|5 5 5 2 1 5",
+// "BdCdArArArDlBdElBd"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 3 0 1 3 4|5 5 5 2 1 5",
+// "ArBdBdCdDdDdElCdElElBdElDdArArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 2 5 3 1 3|4 4 3 3 1 4|5 5 1 1 2 5",
+// "ArClDlDlDlBdBdBdArEuAr"
+
+"11|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 4 3 1 2 4|5 3 5 2 1 5",
+// "ArArArBdElDdDdClBdBd"
+
+"11|1 0 2 2 1 1|2 6 1 1 3 2|3 4 1 1 2 3|4 2 1 1 2 4|5 2 0 3 1 5",
+// "BdBdCdCdDdDdArArArAr"
+
+"20|1 0 2 2 1 1|2 2 0 1 3 2|3 3 0 1 3 3|4 0 5 3 1 4|5 6 0 1 3 5",
+// "BdBdCdCdDrDrDrBdArDrCdArArArCuDlEdEdEd"
+
+"9|1 0 2 2 1 1|2 4 2 1 2 2|3 3 1 1 2 3|4 3 4 2 1 4|5 2 2 1 2 5",
+// "BuBuCuEdArArArAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 2 1 3|4 5 1 1 3 4|5 3 4 3 1 5",
+// "ArArBdClElDdDdElBdBdArAr"
+
+"11|1 0 2 2 1 1|2 6 2 1 2 2|3 2 2 1 2 3|4 5 1 1 3 4|5 3 4 3 1 5",
+// "BdCdArArArCuElDdDdAr"
+
+"15|1 0 2 2 1 1|2 6 1 1 3 2|3 3 4 2 1 3|4 4 1 1 3 4|5 5 4 2 1 5",
+// "ArArClClClElBdBdElElDdDdArAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 4 3 3 1 3|4 3 5 3 1 4|5 1 3 1 2 5",
+// "ArArClClDlDlEuEuClBdBdBdArAr"
+
+"16|1 0 2 2 1 1|2 3 0 1 3 2|3 6 0 1 3 3|4 2 3 3 1 4|5 4 4 3 1 5",
+// "ArCdDlDlBdBdBdArArArBuBuElCdCd"
+
+"13|1 0 2 2 1 1|2 2 1 1 2 2|3 2 0 2 1 3|4 6 0 1 3 4|5 4 0 1 3 5",
+// "BdBdArArDdDdDdEdEdEdArAr"
+
+"15|1 1 2 2 1 1|2 4 0 1 3 2|3 5 1 1 3 3|4 3 1 1 3 4|5 5 5 2 1 5",
+// "BdBdCdDdElElCdElBdElDdArArAr"
+
+"11|1 0 2 2 1 1|2 6 1 1 3 2|3 2 1 1 2 3|4 2 0 3 1 4|5 4 1 1 2 5",
+// "BdBdCdCdArArDlEuArAr"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 1 5 3 1 3|4 2 3 3 1 4|5 4 1 1 2 5",
+// "ClDrDrBdBdBdArEuArAr"
+
+"17|1 0 2 2 1 1|2 5 4 2 1 2|3 3 0 1 3 3|4 6 0 1 3 4|5 4 1 1 3 5",
+// "ArBlBlBlBlCdCdCdArDdDdDdEdEdArAr"
+
+"11|1 0 2 2 1 1|2 2 1 1 2 2|3 3 1 1 3 3|4 3 4 2 1 4|5 2 5 3 1 5",
+// "BuArDrCdErErCdArArAr"
+
+"9|1 0 2 2 1 1|2 2 2 1 2 2|3 5 1 1 2 3|4 6 2 1 2 4|5 3 1 1 2 5",
+// "BdArCuDdEuArArAr"
+
+"14|1 0 2 2 1 1|2 2 4 2 1 2|3 3 0 1 3 3|4 6 0 1 3 4|5 3 3 3 1 5",
+// "ArBlDdDdDdDdErCdCdCdArArAr"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 4 5 3 1 3|4 6 2 1 2 4|5 3 4 1 3 5",
+// "ArBdBdDdEuEuClClClBdClEdArArAr"
+
+"16|1 0 2 2 1 1|2 2 0 1 3 2|3 4 0 1 3 3|4 3 4 2 1 4|5 1 3 3 1 5",
+// "CdDrDrCdCdCdErErBdBdBdArArArAr"
+
+"11|1 0 2 2 1 1|2 5 2 1 2 2|3 5 4 1 2 3|4 2 1 1 2 4|5 3 0 1 3 5",
+// "BuBuDuArEdEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 3 0 1 3 4|5 2 1 1 3 5",
+// "ClDdDdDdDdClBdBdBdEdEdArArArAr"
+
+"16|1 0 2 2 1 1|2 3 2 1 3 2|3 5 5 2 1 3|4 6 0 1 3 4|5 4 0 1 3 5",
+// "ArClClClClBdArDdDdDdEdEdEdArAr"
+
+"16|1 1 2 2 1 1|2 5 1 1 3 2|3 4 2 1 3 3|4 5 5 2 1 4|5 2 3 1 3 5",
+// "AlBdDlDlBdEuDlCdDlDlEdArArArAr"
+
+"16|1 0 2 2 1 1|2 4 2 1 3 2|3 5 0 1 3 3|4 2 3 1 3 4|5 5 5 2 1 5",
+// "CdCdDuElElCdElBdElElDdArArArAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 3 0 1 3 3|4 5 1 1 3 4|5 4 5 3 1 5",
+// "ArBdBdCdCdDdElElDdElBdElCdArArAr"
+
+"11|1 0 2 2 1 1|2 6 0 1 3 2|3 5 2 1 2 3|4 5 4 1 2 4|5 3 2 1 2 5",
+// "ArBdBdBdCuCuEdArArAr"
+
+"15|1 1 2 2 1 1|2 3 0 1 3 2|3 2 4 2 1 3|4 4 4 1 3 4|5 0 4 2 1 5",
+// "BdDuDuDuCrCrBdBdArCrDdDdArAr"
+
+"20|1 0 2 2 1 1|2 6 2 1 3 2|3 2 1 1 3 3|4 0 4 3 1 4|5 3 2 1 3 5",
+// "BuEuDrDrDrCdCdArDrEdEdArArArEuEuDlBdBd"
+
+"9|1 2 2 2 1 1|2 6 2 1 2 2|3 3 5 2 1 3|4 2 5 1 2 4|5 4 0 1 3 5",
+// "BdCrCrEdEdEdArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 3 3 2 1 3|4 1 3 2 1 4|5 5 0 1 3 5",
+// "ArDlClBdBdBdArEdEdEdAr"
+
+"15|1 1 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 1 4 1 2 4|5 0 3 3 1 5",
+// "ArClErErDuClDuDuElBdBdBdArAr"
+
+"12|1 1 2 2 1 1|2 5 0 1 3 2|3 4 4 3 1 3|4 6 1 1 2 4|5 3 2 1 2 5",
+// "BdClClBdBdDuEuEuArArAr"
+
+"12|1 0 2 2 1 1|2 6 2 1 3 2|3 5 5 2 1 3|4 4 5 1 2 4|5 2 0 1 3 5",
+// "DuDuClBdEdEdEdArArArAr"
+
+"12|1 1 2 2 1 1|2 3 3 3 1 2|3 4 0 1 3 3|4 1 3 1 3 4|5 0 6 2 1 5",
+// "ArBlDuDuDuBlCdCdCdArAr"
+
+"15|1 1 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 5 3 2 1 4|5 4 0 1 3 5",
+// "ArClClClEdEdEdArArEdDlBdBdBd"
+
+"13|1 0 2 2 1 1|2 3 1 1 3 2|3 4 1 1 2 3|4 5 0 1 3 4|5 4 3 2 1 5",
+// "ArBdBdArBdCuArElDdDdDdAr"
+
+"15|1 0 2 2 1 1|2 2 2 1 2 2|3 4 5 3 1 3|4 5 0 1 3 4|5 3 3 1 3 5",
+// "BdArDdDdEuClClClClDdEdArArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 4 2 1 3 4|5 3 0 1 3 5",
+// "ArDdDdClEdEdEdArArEdClBdBdBdAr"
+
+"13|1 0 2 2 1 1|2 3 1 1 2 2|3 5 1 1 3 3|4 6 0 1 3 4|5 4 1 1 3 5",
+// "ArBuArCdCdDdDdDdEdEdArAr"
+
+"21|1 0 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 2 4 1 3 4|5 5 4 2 1 5",
+// "BdCdDuDuDuElElCdCdElElBdBdElDdDdArArArAr"
+
+"9|1 0 2 2 1 1|2 5 4 2 1 2|3 3 2 1 3 3|4 2 2 1 2 4|5 5 2 1 2 5",
+// "CdDdArArArEuEuAr"
+
+"11|1 0 2 2 1 1|2 2 1 1 2 2|3 4 0 1 3 3|4 4 3 2 1 4|5 6 3 1 2 5",
+// "BuArArDlDlCdCdCdArAr"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 5 5 2 1 4|5 2 4 1 3 5",
+// "BdBdCdDlDlCdEuEuDlDlBdDlEdArArArAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 2 0 1 3 4|5 4 3 1 2 5",
+// "BdDdDdDdArArArArEdEdClBdBd"
+
+"13|1 0 2 2 1 1|2 6 1 1 3 2|3 3 1 1 3 3|4 4 1 1 2 4|5 3 5 3 1 5",
+// "ArBdBdCdDuElElElCdArArAr"
+
+"12|1 0 2 2 1 1|2 4 2 1 3 2|3 2 0 1 3 3|4 2 3 2 1 4|5 3 1 1 2 5",
+// "BdBdDrCdCdCdArEuArArAr"
+
+"12|1 0 2 2 1 1|2 6 2 1 3 2|3 4 2 1 2 3|4 3 4 2 1 4|5 3 0 1 3 5",
+// "ArBdCuCuDrEdEdEdArArAr"
+
+"20|1 0 2 2 1 1|2 5 0 1 3 2|3 3 4 1 3 3|4 4 4 2 1 4|5 4 5 3 1 5",
+// "ArBdCuCuCuDlBdDlDlCdElElBdElElCdArArAr"
+
+"15|1 0 2 2 1 1|2 5 2 1 2 2|3 4 0 1 3 3|4 3 1 1 3 4|5 4 4 3 1 5",
+// "ArCdElElBdElCdCdElDdDdArArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 2 2|3 3 0 3 1 3|4 5 1 1 2 4|5 3 1 1 2 5",
+// "ArBdBdCrDdDdEuArArAr"
+
+"13|1 1 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 4 3 1 2 4|5 5 4 2 1 5",
+// "ArArDdClClBdDdElElBdBdAr"
+
+"17|1 0 2 2 1 1|2 6 0 1 3 2|3 2 0 1 3 3|4 3 0 1 3 4|5 2 3 3 1 5",
+// "BdBdBdBdErCdCdCdArErDdDdDdArArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 3 2|3 2 2 1 2 3|4 3 4 2 1 4|5 6 1 1 3 5",
+// "CuCuArArDlBdBdArArEdEd"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 3 5 2 1 3|4 3 0 1 3 4|5 3 4 3 1 5",
+// "ArCrCrDdElElBdBdElDdDdArArAr"
+
+"14|1 0 2 2 1 1|2 3 4 2 1 2|3 2 1 1 3 3|4 5 1 1 3 4|5 3 1 1 3 5",
+// "BlBlBlCdCdArDdDdEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 2 1 1 3 2|3 5 2 1 3 3|4 2 4 3 1 4|5 5 5 2 1 5",
+// "CuDrBdBdArArArBuBuDlCdElElCdAr"
+
+"19|1 0 2 2 1 1|2 3 0 1 3 2|3 6 1 1 3 3|4 1 4 3 1 4|5 2 0 1 3 5",
+// "BdDrDrDrBdBdEdEdEdArArArArBuBuDlCdCd"
+
+"10|1 1 2 2 1 1|2 6 1 1 3 2|3 3 2 1 2 3|4 3 4 1 2 4|5 4 4 3 1 5",
+// "CuCuArArArDdElBdBd"
+
+"18|1 0 2 2 1 1|2 2 0 1 3 2|3 4 1 1 3 3|4 5 0 1 3 4|5 0 3 3 1 5",
+// "CdCdCdDdDdDdDdErErErBdBdBdArArArAr"
+
+"14|1 2 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 3 5 1 2 4|5 5 4 2 1 5",
+// "ArBdClElElBdElElDuDuClBdAr"
+
+"18|1 1 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 3 2 1 3 4|5 5 4 2 1 5",
+// "BdClClClClDuElElBdBdElElDdDdArArAr"
+
+"12|1 0 2 2 1 1|2 5 2 1 2 2|3 6 2 1 3 3|4 5 5 2 1 4|5 4 3 1 3 5",
+// "ArArBdEuDlCdDlDlEdArAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 2 2|3 3 1 1 3 3|4 4 1 1 3 4|5 3 5 2 1 5",
+// "ArBuCdDdErCdArErDdArAr"
+
+"9|1 0 2 2 1 1|2 5 2 1 2 2|3 3 1 1 2 3|4 4 2 1 2 4|5 5 4 1 2 5",
+// "ArBuBuCuArDdArAr"
+
+"22|1 1 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 2 4 1 3 4|5 5 4 2 1 5",
+// "AlBdCdDuDuDuElElCdCdElElBdBdElDdDdArArArAr"
+
+"13|1 0 2 2 1 1|2 4 1 1 2 2|3 3 0 1 3 3|4 5 1 1 2 4|5 6 0 1 3 5",
+// "ArBuCdCdCdArArDuArEdEdEd"
+
+"11|1 0 2 2 1 1|2 4 1 1 2 2|3 2 0 1 3 3|4 4 0 2 1 4|5 1 4 2 1 5",
+// "BdBdCdElCdCdArArArAr"
+
+"10|1 1 2 2 1 1|2 3 1 1 2 2|3 6 1 1 3 3|4 3 0 3 1 4|5 5 1 1 2 5",
+// "BdBdArArCdCdDlEuAr"
+
+"21|1 1 2 2 1 1|2 5 4 2 1 2|3 6 0 1 3 3|4 4 1 1 3 4|5 2 4 1 3 5",
+// "AlBlBlCdCdCdEuEuEuBlBlBlDdDdEdEdArArArAr"
+
+"10|1 0 2 2 1 1|2 3 0 2 1 2|3 3 1 1 2 3|4 4 1 1 2 4|5 2 1 1 2 5",
+// "BrBrCuDuEuArArArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 3 2|3 5 1 1 3 3|4 3 1 1 2 4|5 4 5 2 1 5",
+// "ArBdCdDuArElCdElBdArAr"
+
+"9|1 0 2 2 1 1|2 2 1 1 2 2|3 4 2 1 2 3|4 6 1 1 2 4|5 3 2 1 3 5",
+// "BuArCdDuEdArArAr"
+
+"17|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 5 1 1 3 4|5 3 4 1 3 5",
+// "ArEuEuEuClClBdBdClDdDdEdEdArArAr"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 4 4 3 1 4|5 4 5 3 1 5",
+// "ArBdDlDlCdDlDlBdElElCdElElBdArArAr"
+
+"19|1 0 2 2 1 1|2 6 1 1 3 2|3 4 4 3 1 3|4 4 0 1 3 4|5 3 4 1 3 5",
+// "ArDdEuEuEuClBdBdClClClDdDdEdEdArArAr"
+
+"13|1 1 2 2 1 1|2 5 1 1 3 2|3 4 4 3 1 3|4 4 1 1 3 4|5 1 3 1 3 5",
+// "ArClClBdBdEuEuClDdDdArAr"
+
+"17|1 0 2 2 1 1|2 4 1 1 3 2|3 2 0 1 3 3|4 0 3 3 1 4|5 3 1 1 3 5",
+// "BdBdBdEdEdEdDrDrDrCdCdCdArArArAr"
+
+"13|1 2 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 3 4 3 1 4|5 4 5 2 1 5",
+// "BdCdDlCdDlBdElCdElBdArAr"
+
+"19|1 0 2 2 1 1|2 3 2 1 3 2|3 2 0 1 3 3|4 0 4 3 1 4|5 0 5 3 1 5",
+// "BuCdDrDrDrCdDrBdErErErCdArErBdArArAr"
+
+"13|1 0 2 2 1 1|2 6 0 1 3 2|3 5 2 1 2 3|4 4 2 1 3 4|5 5 5 2 1 5",
+// "ArArBdBdCdElBdElElDdArAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 4 2 1 2 3|4 2 1 1 3 4|5 0 5 3 1 5",
+// "BdBdBdCdDdErErErDdArArArAr"
+
+"9|1 0 2 2 1 1|2 5 1 1 2 2|3 4 1 1 2 3|4 5 0 2 1 4|5 2 2 1 3 5",
+// "BdBdCuEdArArArAr"
+
+"14|1 0 2 2 1 1|2 6 1 1 3 2|3 4 2 1 3 3|4 3 5 2 1 4|5 5 5 2 1 5",
+// "ArArBdDlDlDlElBdElElCdArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 4 3 3 1 3|4 6 1 1 2 4|5 3 1 1 3 5",
+// "DuEdEdArEdClClClBdBdBdArAr"
+
+"13|1 0 2 2 1 1|2 6 1 1 3 2|3 5 5 2 1 3|4 3 0 1 3 4|5 4 5 1 2 5",
+// "ArBdDdDdDdArArArEuEuClBd"
+
+"14|1 0 2 2 1 1|2 2 2 1 3 2|3 3 2 1 2 3|4 5 0 1 3 4|5 3 4 3 1 5",
+// "BdArCuCuArArBuBuDdElDdDdAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 2 2|3 2 2 1 3 3|4 6 0 1 3 4|5 5 5 2 1 5",
+// "BuCdArArArArDdDdElDd"
+
+"11|1 0 2 2 1 1|2 1 5 2 1 2|3 2 1 1 3 3|4 5 1 1 2 4|5 1 4 3 1 5",
+// "BlDuErErCdCdArArArAr"
+
+"12|1 0 2 2 1 1|2 3 2 1 2 2|3 6 1 1 2 3|4 2 0 1 3 4|5 4 1 1 3 5",
+// "BdCuDdDdDdArArEdEdArAr"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 3 3 3 1 3|4 2 5 2 1 4|5 6 0 1 3 5",
+// "ArDlEdEdEdEdCrBdBdBdArArAr"
+
+"12|1 0 2 2 1 1|2 3 0 1 3 2|3 6 1 1 2 3|4 4 2 1 2 4|5 2 5 3 1 5",
+// "ArBdBdCuDdErErBdArArAr"
+
+"9|1 1 2 2 1 1|2 4 4 2 1 2|3 4 1 1 3 3|4 6 1 1 2 4|5 5 1 1 2 5",
+// "ArBrCdCdArDuEuAr"
+
+"12|1 1 2 2 1 1|2 5 0 1 3 2|3 6 0 1 3 3|4 4 5 2 1 4|5 4 1 1 2 5",
+// "ArBdBdCdCdCdDlBdEuArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 3 2|3 3 2 1 3 3|4 3 5 3 1 4|5 5 2 1 2 5",
+// "ArBdDlDlBdDlCdArArEdAr"
+
+"13|1 0 2 2 1 1|2 5 1 1 3 2|3 3 4 3 1 3|4 6 1 1 3 4|5 4 1 1 3 5",
+// "ArArClBdBdClDdDdEdEdArAr"
+
+"19|1 0 2 2 1 1|2 3 2 1 3 2|3 5 4 2 1 3|4 4 3 1 3 4|5 6 0 1 3 5",
+// "ArBuDuDuClClClClBdBdArDdDdArArEdEdEd"
+
+"11|1 0 2 2 1 1|2 3 1 1 3 2|3 6 1 1 2 3|4 2 1 1 3 4|5 1 4 2 1 5",
+// "BdBdCuElDdDdArArArAr"
+
+"19|1 0 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 2 0 1 3 4|5 0 4 3 1 5",
+// "BdClClDdErErErDdDdArArArDuDuElBdBdAr"
+
+"13|1 0 2 2 1 1|2 3 1 1 3 2|3 2 2 1 2 3|4 4 0 1 3 4|5 3 4 2 1 5",
+// "CdArDdErBdBdArErDdDdArAr"
+
+"21|1 0 2 2 1 1|2 5 0 1 3 2|3 4 4 2 1 3|4 3 4 1 3 4|5 2 3 1 3 5",
+// "BdDuDuDuClBdBdEuEuClClClDdDdEdEdArArArAr"
+
+"12|1 1 2 2 1 1|2 4 1 1 3 2|3 3 5 3 1 3|4 1 5 1 2 4|5 0 3 2 1 5",
+// "ArBdClDuErErDuClBdArAr"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 4 5 2 1 4|5 5 4 2 1 5",
+// "ArBdDlDlDlElElCdCdElElBdBdArArAr"
+
+"11|1 0 2 2 1 1|2 4 2 1 2 2|3 2 1 1 3 3|4 1 5 2 1 4|5 3 1 1 3 5",
+// "BdCdDlCdArEdEdArArAr"
+
+"12|1 3 2 2 1 1|2 5 3 2 1 2|3 5 0 1 3 3|4 4 3 1 2 4|5 4 5 1 2 5",
+// "AlDuDuBlBlCdCdCdDuArAr"
+
+"11|1 0 2 2 1 1|2 2 1 1 3 2|3 2 5 2 1 3|4 4 1 1 2 4|5 3 2 1 3 5",
+// "BdCrBdArCrDuEdArArAr"
+
+"16|1 1 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 5 3 2 1 4|5 4 0 1 3 5",
+// "ArClClClDlDlBdBdBdDlEdEdEdArAr"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 2 5 2 1 3|4 3 4 2 1 4|5 4 2 1 2 5",
+// "BdClDrBdBdArDrEdArAr"
+
+"13|1 1 2 2 1 1|2 5 0 1 3 2|3 4 2 1 2 3|4 5 4 2 1 4|5 5 3 2 1 5",
+// "ArCuCuArDlDlElElBdBdBdAr"
+
+"13|1 0 2 2 1 1|2 2 5 3 1 2|3 2 1 1 3 3|4 6 2 1 2 4|5 5 3 1 3 5",
+// "CdDdEuBrCdArArArCuBlEdAr"
+
+"9|1 0 2 2 1 1|2 4 1 1 2 2|3 6 1 1 2 3|4 3 2 1 2 4|5 5 2 1 3 5",
+// "ArBuCuDdArArEdAr"
+
+"16|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 3 3|4 6 0 1 3 4|5 5 5 2 1 5",
+// "BdBdCdDdDdElDdElElBdElCdArArAr"
+
+"10|1 1 2 2 1 1|2 3 0 1 3 2|3 6 1 1 2 3|4 3 3 2 1 4|5 3 4 2 1 5",
+// "CuDrBdErBdBdArArAr"
+
+"15|1 0 2 2 1 1|2 3 0 1 3 2|3 2 4 3 1 3|4 2 5 3 1 4|5 2 0 1 3 5",
+// "BdCrCrBdDrDrBdEdEdEdArArArAr"
+
+"15|1 1 2 2 1 1|2 4 1 1 3 2|3 6 0 1 3 3|4 5 4 2 1 4|5 5 0 1 3 5",
+// "ArCdDlCdCdDlDlBdBdArEdEdEdAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 3 2 1 2 3|4 2 0 1 3 4|5 2 4 2 1 5",
+// "BdBdBdCuCuDdErDdDdArArArAr"
+
+"11|1 0 2 2 1 1|2 6 1 1 3 2|3 5 4 2 1 3|4 3 4 2 1 4|5 2 2 1 2 5",
+// "DlClBdBdEuEuArArArAr"
+
+"15|1 0 2 2 1 1|2 5 0 1 3 2|3 6 0 1 3 3|4 5 5 2 1 4|5 4 5 1 2 5",
+// "ArArArBdBdCdCdEuEuDlCdDlBdAr"
+
+"14|1 0 2 2 1 1|2 4 2 1 2 2|3 5 1 1 3 3|4 5 4 2 1 4|5 6 0 1 3 5",
+// "ArArBuBuArDlDlCdCdArEdEdEd"
+
+"12|1 1 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 5 2 1 3 4|5 2 5 3 1 5",
+// "ArBdBdBdCdCdDdElCdArAr"
+
+"9|1 1 2 2 1 1|2 3 1 1 3 2|3 4 4 2 1 3|4 2 4 2 1 4|5 4 2 1 2 5",
+// "CrDlBdBdArEdArAr"
+
+"12|1 0 2 2 1 1|2 3 0 1 3 2|3 6 1 1 3 3|4 2 3 2 1 4|5 2 4 2 1 5",
+// "ArCdCdDlBdElBdBdArArAr"
+
+"18|1 0 2 2 1 1|2 2 0 1 3 2|3 0 4 3 1 3|4 3 3 1 2 4|5 5 1 1 3 5",
+// "BdDdDdCrCrCrBdBdArArArBuBuClEdEdAr"
+
+"18|1 0 2 2 1 1|2 5 1 1 3 2|3 2 0 1 3 3|4 0 4 3 1 4|5 4 3 1 2 5",
+// "CdDrEdEdDrDrCdCdArArArCuCuDlBdBdAr"
+
+"18|1 0 2 2 1 1|2 5 1 1 3 2|3 4 5 2 1 3|4 3 3 1 3 4|5 5 4 2 1 5",
+// "ArDuClClClDuElElBdBdElElDdDdArArAr"
+
+"10|1 0 2 2 1 1|2 6 2 1 2 2|3 4 4 3 1 3|4 4 2 1 2 4|5 2 1 3 1 5",
+// "ArArBuBuElDuDuArAr"
+
+"10|1 0 2 2 1 1|2 6 4 1 3 2|3 6 2 1 2 3|4 5 0 2 1 4|5 5 1 1 2 5",
+// "ArArArCuDlCuDlEuAr"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 5 2 1 2 3|4 2 0 1 3 4|5 2 5 2 1 5",
+// "BdBdCdDdDdErDdArErBdArArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 4 5 3 1 3|4 3 1 1 3 4|5 2 4 3 1 5",
+// "ArBdBdClClBdClClElElDdDdArArAr"
+
+"15|1 1 2 2 1 1|2 5 0 1 3 2|3 3 0 1 3 3|4 3 3 2 1 4|5 4 5 2 1 5",
+// "BdBdDlDlCdCdElBdElElCdArArAr"
+
+"11|1 0 2 2 1 1|2 2 1 1 2 2|3 6 0 1 3 3|4 5 1 1 2 4|5 5 3 2 1 5",
+// "BuArArArDuArElCdCdCd"
+
+"12|1 0 2 2 1 1|2 4 1 1 2 2|3 6 0 1 3 3|4 5 5 2 1 4|5 5 2 1 3 5",
+// "ArArBuArCdCdDlCdDlEdAr"
+
+"9|1 0 2 2 1 1|2 1 0 2 1 2|3 2 1 1 2 3|4 6 2 1 2 4|5 3 2 1 2 5",
+// "BlCuArDdEdArArAr"
+
+"15|1 0 2 2 1 1|2 6 0 1 3 2|3 5 3 2 1 3|4 5 0 1 3 4|5 4 2 1 2 5",
+// "ArArEdArEdClBdBdBdClDdDdDdAr"
+
+"13|1 0 2 2 1 1|2 4 2 1 2 2|3 5 0 1 3 3|4 2 0 1 3 4|5 1 5 2 1 5",
+// "BdCdCdCdDdDdElDdArArArAr"
+
+"10|1 0 2 2 1 1|2 3 4 2 1 2|3 4 2 1 2 3|4 2 1 1 3 4|5 3 1 1 2 5",
+// "CuCuDdDdArEuArArAr"
+
+"9|1 0 2 2 1 1|2 2 2 1 3 2|3 4 1 1 2 3|4 4 0 2 1 4|5 3 1 1 2 5",
+// "BdArCdCdEuArArAr"
+
+"11|1 1 2 2 1 1|2 5 0 1 3 2|3 3 2 1 2 3|4 1 4 3 1 4|5 4 4 2 1 5",
+// "BdCuCuArArDlElBdBdAr"
+
+"13|1 2 2 2 1 1|2 6 1 1 2 2|3 4 0 1 3 3|4 5 0 1 3 4|5 5 5 2 1 5",
+// "BuCdCdDdDdElElDdElCdArAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 2 2|3 3 2 1 3 3|4 3 5 2 1 4|5 6 1 1 3 5",
+// "BuArDrCdArArArEdEd"
+
+"14|1 1 2 2 1 1|2 5 5 2 1 2|3 6 0 1 3 3|4 4 2 1 3 4|5 3 5 2 1 5",
+// "ArCdCdElBlCdElBlElBlDdArAr"
+
+"14|1 0 2 2 1 1|2 2 0 1 3 2|3 4 1 1 3 3|4 2 4 2 1 4|5 3 5 2 1 5",
+// "BdCdDlDlBdBdArArErErCdArAr"
+
+"11|1 1 2 2 1 1|2 6 0 1 3 2|3 4 1 1 2 3|4 5 2 1 2 4|5 5 4 2 1 5",
+// "ArBdCuArDuDuArElBdBd"
+
+"13|1 1 2 2 1 1|2 4 0 1 3 2|3 3 4 3 1 3|4 1 3 1 3 4|5 2 3 3 1 5",
+// "ArClDuDuClDuElBdBdBdArAr"
+
+"11|1 0 2 2 1 1|2 5 1 1 3 2|3 3 1 1 3 3|4 2 4 2 1 4|5 2 1 1 2 5",
+// "BdBdDlCdCdEuArArArAr"
+
+"9|1 0 2 2 1 1|2 2 5 2 1 2|3 3 2 1 3 3|4 1 5 1 2 4|5 5 5 2 1 5",
+// "ArDuDuBlCdArArAr"
+
+"12|1 0 2 2 1 1|2 6 1 1 3 2|3 5 4 2 1 3|4 2 1 1 2 4|5 5 1 1 3 5",
+// "ClBdBdClDuArArArEdEdAr"
+
+"18|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 3 2 1 3 4|5 4 3 1 3 5",
+// "BdDuEuEuClBdBdClClClDdDdArEdEdArAr"
+
+"9|1 0 2 2 1 1|2 6 2 1 2 2|3 3 2 1 2 3|4 2 4 2 1 4|5 5 1 1 2 5",
+// "ArBdCuCuArArEuAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 4 4 2 1 3|4 3 0 1 3 4|5 3 3 3 1 5",
+// "ArCrElElBdBdBdElDdDdDdArArAr"
+
+"9|1 0 2 2 1 1|2 2 1 1 2 2|3 3 2 1 2 3|4 1 0 3 1 4|5 6 2 1 3 5",
+// "BdBdArCdArArArEd"
+
+"9|1 0 2 2 1 1|2 4 2 1 3 2|3 2 1 1 2 3|4 2 0 2 1 4|5 6 1 1 2 5",
+// "BdCdCdArArArArEu"
+
+"11|1 0 2 2 1 1|2 4 1 1 3 2|3 6 2 1 2 3|4 3 2 1 2 4|5 3 4 2 1 5",
+// "ArCdDuDuArElBdBdArAr"
+
+"20|1 0 2 2 1 1|2 5 0 1 3 2|3 3 1 1 3 3|4 5 4 2 1 4|5 2 4 1 3 5",
+// "BdDlDlBdBdEuEuEuDlDlCdCdDlEdEdArArArAr"
+
+"13|1 0 2 2 1 1|2 3 0 1 3 2|3 2 5 3 1 3|4 3 4 3 1 4|5 6 3 1 2 5",
+// "ArBdCrCrDlDlDlBdBdArArAr"
+
+"10|1 1 2 2 1 1|2 4 0 1 3 2|3 3 5 2 1 3|4 3 2 1 2 4|5 1 4 3 1 5",
+// "BdBdClBdDuDuArArAr"
+
+"16|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 4 1 1 3 4|5 3 2 1 3 5",
+// "BdClBdBdEuClClClDdDdEdEdArArAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 2 2 1 2 3|4 3 4 3 1 4|5 1 1 3 1 5",
+// "BdCdArArCdCdDlDlBdBdArAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 5 1 1 2 3|4 6 1 1 2 4|5 2 0 1 3 5",
+// "BdBdBdCuDuEdEdEdArArArAr"
+
+"15|1 0 2 2 1 1|2 2 0 1 3 2|3 2 3 2 1 3|4 5 0 1 3 4|5 2 5 3 1 5",
+// "CrBdBdDdDdErBdArArArBuElDdAr"
+
+"14|1 0 2 2 1 1|2 2 1 1 3 2|3 4 1 1 3 3|4 6 0 1 3 4|5 2 5 2 1 5",
+// "BdCdCdDdDdDdElElBdArArArAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 2 2|3 5 2 1 3 3|4 5 5 2 1 4|5 1 5 3 1 5",
+// "BuArArArDlElDlCdAr"
+
+"20|1 0 2 2 1 1|2 3 2 1 3 2|3 2 3 1 3 3|4 5 0 1 3 4|5 5 4 2 1 5",
+// "BuCuCuDdElElDdDdElElBdBdElCdCdArArArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 4 5 3 1 3|4 3 2 1 3 4|5 2 5 1 2 5",
+// "BdBdClEuEuClClBdClDdArArAr"
+
+"10|1 0 2 2 1 1|2 6 2 1 2 2|3 3 1 1 3 3|4 5 4 2 1 4|5 2 5 2 1 5",
+// "ArBuBuCdElCdArArAr"
+
+"13|1 0 2 2 1 1|2 2 2 1 2 2|3 3 0 1 3 3|4 6 2 1 3 4|5 4 0 1 3 5",
+// "BdArCdCdCdArDdEdEdEdArAr"
+
+"13|1 0 2 2 1 1|2 6 0 1 3 2|3 5 1 1 2 3|4 5 5 2 1 4|5 2 0 1 3 5",
+// "BdBdCuDlBdEdEdEdArArArAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 3 2|3 6 1 1 2 3|4 2 5 2 1 4|5 4 5 2 1 5",
+// "BdCuDlDlBdArArArAr"
+
+"12|1 1 2 2 1 1|2 3 0 1 3 2|3 2 5 2 1 3|4 4 1 1 3 4|5 1 3 1 3 5",
+// "BdBdCrCrBdArCrDdDdArAr"
+
+"10|1 0 2 2 1 1|2 6 1 1 3 2|3 4 1 1 2 3|4 5 1 1 2 4|5 3 2 1 2 5",
+// "ArBdBdCuDuEdArArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 4 5 3 1 3|4 5 1 1 3 4|5 3 5 1 2 5",
+// "ArBdBdDdEuEuClClClBdArDdAr"
+
+"15|1 0 2 2 1 1|2 3 0 1 3 2|3 6 0 1 3 3|4 2 2 1 2 4|5 4 0 1 3 5",
+// "BdBdBdCdCdCdDdArArEdEdEdArAr"
+
+"12|1 1 2 2 1 1|2 4 5 2 1 2|3 4 0 1 3 3|4 6 1 1 2 4|5 4 4 3 1 5",
+// "ArBrCdDuElElElCdCdArAr"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 4 2 1 2 3|4 4 4 1 2 4|5 6 1 1 3 5",
+// "BdBdBdArCuCuArArEdEd"
+
+"9|1 0 2 2 1 1|2 2 2 1 3 2|3 3 2 1 2 3|4 1 5 2 1 4|5 6 1 1 2 5",
+// "CdDlBdArArArArEu"
+
+"14|1 0 2 2 1 1|2 6 1 1 3 2|3 3 0 1 3 3|4 3 5 3 1 4|5 5 4 2 1 5",
+// "ArCdCdDrCdArArArCuDlElBdBd"
+
+"17|1 0 2 2 1 1|2 5 5 2 1 2|3 2 0 1 3 3|4 4 2 1 3 4|5 5 0 1 3 5",
+// "BlBlBlBlBlCdCdCdArArDdArEdEdEdAr"
+
+"12|1 1 2 2 1 1|2 3 1 1 3 2|3 2 5 2 1 3|4 0 5 2 1 4|5 4 4 1 3 5",
+// "BdEuEuCrCrBdArCrEdArAr"
+
+"19|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 4 1 3 4|5 4 5 2 1 5",
+// "ArClDuDuDuClBdClClDdElBdElElDdArArAr"
+
+"19|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 2 1 3 4|5 2 3 1 3 5",
+// "ClDuClBdBdEuEuClClClDdDdEdEdArArArAr"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 4 0 1 3 3|4 3 4 2 1 4|5 3 0 1 3 5",
+// "ArBdBdCdDlCdCdDlEdEdEdArArAr"
+
+"24|1 2 2 2 1 1|2 3 4 1 3 2|3 5 0 1 3 3|4 5 4 2 1 4|5 2 3 1 3 5",
+// "AlAlBuBuBuCdDlDlCdCdEuEuDlDlBdBdDlEdEdArArArAr"
+
+"12|1 0 2 2 1 1|2 5 4 2 1 2|3 5 1 1 3 3|4 2 2 1 3 4|5 6 1 1 3 5",
+// "BlBlCdCdDdArArArArEdEd"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 5 1 1 2 3|4 4 0 2 1 4|5 4 1 1 2 5",
+// "BdBdBdArCdCdDrEuArAr"
+
+"18|1 0 2 2 1 1|2 4 1 1 3 2|3 3 5 3 1 3|4 1 4 3 1 4|5 2 5 1 2 5",
+// "DrDrEuEuClClEuDlDlBdBdEuEuArArArAr"
+
+"13|1 0 2 2 1 1|2 5 0 1 3 2|3 3 4 3 1 3|4 4 2 1 2 4|5 2 2 1 2 5",
+// "BdClBdBdClDdEuEuArArArAr"
+
+"11|1 0 2 2 1 1|2 6 0 1 3 2|3 4 1 1 2 3|4 2 1 1 2 4|5 3 1 1 2 5",
+// "BdBdBdCuDuArEuArArAr"
+
+"17|1 0 2 2 1 1|2 3 4 3 1 2|3 3 0 1 3 3|4 5 0 1 3 4|5 4 5 2 1 5",
+// "ArBlBlBlCdCdDdDdElDdElElCdArArAr"
+
+"18|1 0 2 2 1 1|2 5 1 1 3 2|3 2 2 1 2 3|4 3 4 1 3 4|5 4 4 3 1 5",
+// "CuCuArDuDuDuElElBdBdElElDdDdArArAr"
+
+"18|1 0 2 2 1 1|2 4 0 1 3 2|3 6 0 1 3 3|4 3 4 1 3 4|5 5 5 2 1 5",
+// "ArBdBdCdCdDuDuElCdElElBdElDdArArAr"
+
+"14|1 1 2 2 1 1|2 3 1 1 3 2|3 4 0 1 3 3|4 6 2 1 2 4|5 4 5 3 1 5",
+// "BdCdCdDdElElElCdElBdArArAr"
+
+"13|1 0 2 2 1 1|2 2 1 1 3 2|3 1 4 3 1 3|4 5 3 1 2 4|5 4 3 1 2 5",
+// "DdDdEdEdCrCrBdBdArArArAr"
+
+"14|1 0 2 2 1 1|2 4 3 2 1 2|3 4 0 1 3 3|4 6 2 1 2 4|5 3 0 1 3 5",
+// "ArDdDdBrCdCdCdEdEdEdArArAr"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 3 1 1 2 3|4 3 0 2 1 4|5 5 2 1 3 5",
+// "BdBdBdCdCdArArEdAr"
+
+"15|1 1 2 2 1 1|2 5 2 1 2 2|3 6 0 1 3 3|4 5 4 2 1 4|5 4 3 1 3 5",
+// "ArCdEuEuDlCdCdDlBdDlEdEdArAr"
+
+"20|1 0 2 2 1 1|2 2 0 1 3 2|3 3 0 1 3 3|4 1 4 3 1 4|5 6 2 1 3 5",
+// "BdCdDrDrBdBdArEuDrCdCdArArArCuCuDlEdEd"
+
+"18|1 0 2 2 1 1|2 5 0 1 3 2|3 2 2 1 3 3|4 4 3 3 1 4|5 0 5 3 1 5",
+// "DlErErErCdArArArCuCuCuDlBdBdElBdAr"
+
+"11|1 0 2 2 1 1|2 2 4 3 1 2|3 2 2 1 2 3|4 4 2 1 2 4|5 3 2 1 2 5",
+// "BrBrCdArDuDuEdArArAr"
+
+"14|1 1 2 2 1 1|2 5 1 1 3 2|3 4 2 1 2 3|4 5 4 2 1 4|5 3 2 1 3 5",
+// "DlEuDlBdBdDlCdDlEdEdArArAr"
+
+"16|1 1 2 2 1 1|2 5 2 1 3 2|3 5 5 2 1 3|4 4 2 1 3 4|5 2 4 1 3 5",
+// "AlClClBdEuEuClClClDdEdArArArAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 6 0 1 3 3|4 4 4 3 1 4|5 5 1 1 3 5",
+// "ArArCdDlCdCdDlDlBdBdArEdEdAr"
+
+"13|1 0 2 2 1 1|2 2 1 1 3 2|3 5 1 1 3 3|4 5 5 2 1 4|5 2 5 2 1 5",
+// "BdCdDlElDlCdElBdArArArAr"
+
+"12|1 0 2 2 1 1|2 3 1 1 2 2|3 6 1 1 3 3|4 5 1 1 3 4|5 2 1 1 3 5",
+// "BuCdCdDdDdEdEdArArArAr"
+
+"17|1 1 2 2 1 1|2 5 0 1 3 2|3 4 4 3 1 3|4 3 0 1 3 4|5 6 0 1 3 5",
+// "BdClClBdBdClClDdDdDdArArArEdEdEd"
+
+"14|1 0 2 2 1 1|2 5 5 2 1 2|3 5 2 1 3 3|4 4 4 1 3 4|5 2 5 2 1 5",
+// "ArArDuDuBlElBlCdElBlDdArAr"
+
+"14|1 0 2 2 1 1|2 6 1 1 3 2|3 3 4 3 1 3|4 4 1 1 3 4|5 3 1 1 3 5",
+// "ArBdBdClClClDdDdEdEdArArAr"
+
+"18|1 0 2 2 1 1|2 5 1 1 3 2|3 3 0 1 3 3|4 4 5 3 1 4|5 5 4 2 1 5",
+// "ArCdDlDlDlDlElElBdBdElElCdCdArArAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 3 4 3 1 3|4 5 0 1 3 4|5 6 1 1 3 5",
+// "ArArBdClClBdBdArDdDdDdArEdEd"
+
+"16|1 0 2 2 1 1|2 4 4 2 1 2|3 4 0 1 3 3|4 6 0 1 3 4|5 4 3 3 1 5",
+// "ArArBlBlElDdDdDdElElCdCdCdArAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 2 2|3 2 0 3 1 3|4 3 4 1 3 4|5 4 1 1 3 5",
+// "ArCrCrBuArEdEdArAr"
+
+"15|1 1 2 2 1 1|2 3 1 1 3 2|3 5 1 1 3 3|4 4 4 3 1 4|5 4 5 2 1 5",
+// "DlDlCdDlDlBdElCdElElBdArArAr"
+
+"9|1 0 2 2 1 1|2 5 2 1 3 2|3 2 1 1 2 3|4 3 1 1 2 4|5 6 2 1 2 5",
+// "BdCuArDuArArArEd"
+
+"18|1 0 2 2 1 1|2 3 1 1 3 2|3 2 1 1 3 3|4 1 4 3 1 4|5 6 0 1 3 5",
+// "DrDrCdCdArDrBdBdArArArBuBuDlEdEdEd"
+
+"11|1 1 2 2 1 1|2 2 0 2 1 2|3 3 1 1 2 3|4 4 0 1 3 4|5 3 5 3 1 5",
+// "BlCuArDdDdElElDdArAr"
+
+"13|1 1 2 2 1 1|2 5 2 1 2 2|3 4 0 1 3 3|4 3 4 3 1 4|5 6 0 1 3 5",
+// "ArCdDlBdDlCdCdArArEdEdEd"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 3 0 1 3 3|4 3 3 3 1 4|5 5 1 1 2 5",
+// "DlDlBdBdBdDlCdCdCdArArEuAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 3 4 2 1 3|4 6 0 1 3 4|5 2 0 1 3 5",
+// "BdClBdBdClClDdDdDdEdEdEdArArArAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 4 4 2 1 3|4 6 4 1 2 4|5 4 3 3 1 5",
+// "ArArClClElElElBdBdBdArAr"
+
+"16|1 1 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 4 4 2 1 4|5 5 3 2 1 5",
+// "BdDlDlDlBdBdArArBdElElCdCdCdAr"
+
+"10|1 1 2 2 1 1|2 3 1 1 3 2|3 3 4 2 1 3|4 5 3 1 3 4|5 1 3 1 2 5",
+// "ClEdEdClBdBdArArAr"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 2 3|4 6 0 1 3 4|5 2 5 3 1 5",
+// "ArBdBdCuDdDdDdElElBdArArAr"
+
+"16|1 0 2 2 1 1|2 4 1 1 3 2|3 3 2 1 3 3|4 2 5 3 1 4|5 4 4 3 1 5",
+// "ArCuDlDlElElElBdBdElCdCdArArAr"
+
+"13|1 2 2 2 1 1|2 5 0 1 3 2|3 4 4 2 1 3|4 5 5 2 1 4|5 3 3 1 2 5",
+// "ArBdDlDlDlDlEdEdClBdBdAr"
+
+"17|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 1 1 3 4|5 5 5 2 1 5",
+// "ArClClBdClClDdElElBdElElDdArArAr"
+
+"11|1 1 2 2 1 1|2 6 2 1 2 2|3 4 0 1 3 3|4 4 5 2 1 4|5 3 3 3 1 5",
+// "ArBdDrElElCdCdCdArAr"
+
+"17|1 0 2 2 1 1|2 2 2 1 3 2|3 3 4 2 1 3|4 3 0 1 3 4|5 5 0 1 3 5",
+// "BuClClClBdBdArDdDdDdArArEdEdEdAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 3 4 2 1 3|4 3 5 2 1 4|5 2 0 1 3 5",
+// "BdCrCrBdDrDrBdEdEdEdArArArAr"
+
+"19|1 0 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 5 0 1 3 4|5 3 3 1 3 5",
+// "ArBdClBdBdDdEuEuClClClDdDdEdEdArArAr"
+
+"12|1 0 2 2 1 1|2 6 2 1 2 2|3 6 4 1 2 3|4 2 1 1 3 4|5 3 0 1 3 5",
+// "BuBuDdDdArEdEdEdArArAr"
+
+"11|1 1 2 2 1 1|2 4 5 3 1 2|3 4 2 1 3 3|4 1 4 1 3 4|5 3 4 1 2 5",
+// "ArDuDuEuBlBlBlCdArAr"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 4 2 1 2 3|4 4 4 2 1 4|5 2 1 3 1 5",
+// "ArBdBdBdDlDlCdArAr"
+
+"9|1 0 2 2 1 1|2 2 1 1 2 2|3 4 2 1 3 3|4 3 2 1 2 4|5 4 5 2 1 5",
+// "BuArDdArErCdArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 6 4 1 3 4|5 2 2 1 2 5",
+// "ClClBdBdEuEuArArArAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 3 1 1 3 4|5 0 4 1 3 5",
+// "ArBdBdClClBdDdEuEuClDdArArAr"
+
+"11|1 0 2 2 1 1|2 3 1 1 2 2|3 2 0 3 1 3|4 2 1 1 2 4|5 6 1 1 3 5",
+// "BdBdCrDuArArArArEdEd"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 3 2 1 3 3|4 5 1 1 2 4|5 4 2 1 2 5",
+// "BdBdBdCdArDuEdArAr"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 3 3 2 1 3|4 5 0 1 3 4|5 5 3 2 1 5",
+// "ArArClBdBdBdArBdClElElDdDdDdAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 5 0 1 3 4|5 3 5 3 1 5",
+// "ArArClClBdDdDdElDdElBdArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 2 5 3 1 3|4 3 4 3 1 4|5 3 3 3 1 5",
+// "ArClDlDlElElBdBdBdArAr"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 4 1 1 3 4|5 5 4 2 1 5",
+// "ArArClClClElElBdBdElDdDdArAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 3 2|3 5 1 1 3 3|4 4 5 3 1 4|5 2 5 1 2 5",
+// "ArArBdCdDlEuEuDlCdDlBdArAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 4 5 3 1 3|4 1 5 1 2 4|5 3 4 1 3 5",
+// "ArBdBdDuDuEuEuClClClBdClEdArArAr"
+
+"11|1 2 2 2 1 1|2 5 4 2 1 2|3 6 0 1 3 3|4 5 2 1 2 4|5 4 2 1 2 5",
+// "BlBlBlCdCdCdDdEdArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 4 4 1 3 4|5 4 3 2 1 5",
+// "ArArElBdBdElDuDuClClBdClDdArAr"
+
+"18|1 0 2 2 1 1|2 5 1 1 3 2|3 3 0 1 3 3|4 2 2 1 3 4|5 5 4 2 1 5",
+// "CdDuElElBdBdElElCdCdElDdDdArArArAr"
+
+"19|1 0 2 2 1 1|2 2 0 1 3 2|3 0 4 3 1 3|4 3 2 1 2 4|5 5 0 1 3 5",
+// "BdCrCrCrBdBdArDuDuArArBuBuClEdEdEdAr"
+
+"14|1 1 2 2 1 1|2 3 0 1 3 2|3 3 5 2 1 3|4 3 4 3 1 4|5 5 1 1 3 5",
+// "BdClClDlDlDlBdBdArArEdEdAr"
+
+"15|1 0 2 2 1 1|2 3 1 1 3 2|3 1 4 3 1 3|4 5 0 1 3 4|5 4 5 3 1 5",
+// "ArClBdDdDdElElDdElElBdArArAr"
+
+"13|1 1 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 2 5 3 1 4|5 4 4 3 1 5",
+// "ArArBdDlClDlClElElBdBdAr"
+
+"11|1 0 2 2 1 1|2 3 0 1 3 2|3 4 2 1 2 3|4 6 1 1 2 4|5 3 5 3 1 5",
+// "ArBdBdCdDuErBdArArAr"
+
+"15|1 0 2 2 1 1|2 2 2 1 2 2|3 3 0 1 3 3|4 5 0 1 3 4|5 5 3 2 1 5",
+// "BdArCdCdCdArArCdElElDdDdDdAr"
+
+"9|1 0 2 2 1 1|2 6 1 1 2 2|3 5 2 1 2 3|4 5 4 2 1 4|5 2 1 1 2 5",
+// "BuCuCuEuArArArAr"
+
+"20|1 0 2 2 1 1|2 5 0 1 3 2|3 4 4 2 1 3|4 2 0 1 3 4|5 3 4 1 3 5",
+// "BdDdEuEuEuClBdBdClClClDdDdArEdEdArArAr"
+
+"12|1 1 2 2 1 1|2 3 0 1 3 2|3 5 2 1 2 3|4 4 4 3 1 4|5 5 0 1 2 5",
+// "BdDlDlCdDlDlBdBdArArAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 3 2|3 3 1 1 3 3|4 3 5 2 1 4|5 3 4 3 1 5",
+// "ArDrDrElElBdBdElCdCdArArAr"
+
+"22|1 0 2 2 1 1|2 1 4 3 1 2|3 2 0 1 3 3|4 5 2 1 3 4|5 1 3 3 1 5",
+// "BrDuBrDuErErCdCdCdArArArCuCuBlCuElDdDdDdAr"
+
+"18|1 0 2 2 1 1|2 2 1 1 3 2|3 2 5 2 1 3|4 0 4 3 1 4|5 5 3 1 3 5",
+// "CrDrDrEuEuDrBdBdArArArBuBuDlEdEdAr"
+
+"18|1 0 2 2 1 1|2 4 4 3 1 2|3 5 1 1 3 3|4 6 0 1 3 4|5 3 3 1 3 5",
+// "ArDdEuEuBlBlBlBlCdCdDdDdEdEdArArAr"
+
+"15|1 0 2 2 1 1|2 2 1 1 3 2|3 2 4 2 1 3|4 4 0 1 3 4|5 3 3 3 1 5",
+// "ClClBdBdArArBdElElDdDdDdArAr"
+
+"15|1 0 2 2 1 1|2 6 0 1 3 2|3 3 5 2 1 3|4 5 5 2 1 4|5 5 0 1 3 5",
+// "ArArArBdBdClClDlBdDlEdEdEdAr"
+
+"10|1 1 2 2 1 1|2 3 0 1 3 2|3 6 2 1 2 3|4 3 4 2 1 4|5 5 1 1 2 5",
+// "BdCdDrBdBdArArEuAr"
+
+"10|1 0 2 2 1 1|2 2 0 3 1 2|3 4 1 1 2 3|4 2 1 1 2 4|5 3 2 1 3 5",
+// "BrCdCdDuArEdArArAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 4 5 2 1 4|5 2 1 1 3 5",
+// "BdBdCdCdDlCdDlBdDlDlEdEdArArArAr"
+
+"15|1 1 2 2 1 1|2 5 0 1 3 2|3 4 5 3 1 3|4 5 3 2 1 4|5 3 2 1 3 5",
+// "ClClClClDlEdArArEdDlBdBdBdAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 3 4 3 1 3|4 3 1 1 3 4|5 4 5 2 1 5",
+// "ArBdClBdClClDdElBdElElDdArArAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 2 2|3 6 2 1 3 3|4 4 0 1 3 4|5 4 5 2 1 5",
+// "ArArBuCdDdDdElElDdArAr"
+
+"13|1 2 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 4 2 1 2 4|5 5 0 1 3 5",
+// "BdClBdBdClClDdArEdEdEdAr"
+
+"20|1 1 2 2 1 1|2 4 4 3 1 2|3 4 5 3 1 3|4 5 0 1 3 4|5 3 4 1 3 5",
+// "DdEuEuClClClClEuBlBlBlBlDdDdEdEdArArAr"
+
+"11|1 0 2 2 1 1|2 6 1 1 2 2|3 3 0 1 3 3|4 3 3 2 1 4|5 5 0 2 1 5",
+// "ArBdBdDrCdCdCdArArAr"
+
+"12|1 0 2 2 1 1|2 3 0 1 3 2|3 6 1 1 2 3|4 5 0 2 1 4|5 4 1 1 3 5",
+// "ArBdBdBdArCdCdEdEdArAr"
+
+"17|1 1 2 2 1 1|2 3 1 1 3 2|3 5 0 1 3 3|4 5 4 2 1 4|5 5 5 2 1 5",
+// "CdDlDlCdDlDlBdElElCdElElBdArArAr"
+
+"12|1 1 2 2 1 1|2 1 5 3 1 2|3 3 1 1 3 3|4 4 0 1 3 4|5 0 5 1 2 5",
+// "CdDdDdDdEuEuBlCdArArAr"
+
+"10|1 1 2 2 1 1|2 4 4 3 1 2|3 6 0 1 3 3|4 3 1 1 2 4|5 2 4 2 1 5",
+// "CdDuArArArElBlCdCd"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 3 0 1 3 3|4 3 5 3 1 4|5 2 5 1 2 5",
+// "ArBdBdCdCdEuEuDlDlBdDlCdArArAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 3 3 3 1 4|5 3 0 1 3 5",
+// "ArDlCdCdCdDlBdBdBdDlEdEdEdArArAr"
+
+"18|1 0 2 2 1 1|2 5 2 1 2 2|3 4 0 1 3 3|4 4 4 3 1 4|5 3 4 1 3 5",
+// "ArCdEuEuEuDlDlBdDlCdCdDlEdEdArArAr"
+
+"13|1 0 2 2 1 1|2 2 4 3 1 2|3 5 2 1 3 3|4 4 0 1 3 4|5 5 5 2 1 5",
+// "ArArBlDdDdElElCdElDdArAr"
+
+"17|1 0 2 2 1 1|2 4 4 2 1 2|3 5 1 1 3 3|4 3 0 1 3 4|5 2 0 1 3 5",
+// "BlBlBlBlCdCdDdDdDdEdEdEdArArArAr"
+
+"19|1 1 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 4 5 2 1 4|5 2 4 1 3 5",
+// "AlBdBdBdCdCdDlEuEuDlCdDlDlEdArArArAr"
+
+"18|1 1 2 2 1 1|2 5 0 1 3 2|3 3 0 1 3 3|4 5 4 2 1 4|5 4 5 3 1 5",
+// "BdCdDlDlBdDlDlCdElElBdElElCdArArAr"
+
+"11|1 2 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 4 5 1 2 4|5 4 2 1 2 5",
+// "BdDuEuDuClClBdEuArAr"
+
+"21|1 0 2 2 1 1|2 5 1 1 3 2|3 3 4 1 3 3|4 5 4 2 1 4|5 4 4 1 3 5",
+// "ArCuCuCuEuEuEuDlDlBdBdDlDlCdCdArEdEdArAr"
+
+"18|1 1 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 5 4 2 1 4|5 3 3 1 3 5",
+// "BdCdDlBdBdEuEuDlDlCdCdDlEdEdArArAr"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 5 3 2 1 4|5 5 4 2 1 5",
+// "ArBdDlElElElElBdBdArArBdDlCdCdCdAr"
+
+"17|1 1 2 2 1 1|2 5 0 1 3 2|3 4 0 1 3 3|4 5 4 2 1 4|5 3 0 1 3 5",
+// "BdCdDlDlBdBdDlCdCdDlEdEdEdArArAr"
+
+"14|1 1 2 2 1 1|2 6 0 1 3 2|3 4 1 1 3 3|4 5 5 2 1 4|5 4 4 2 1 5",
+// "ArBdBdDlBdDlDlElElCdCdArAr"
+
+"14|1 1 2 2 1 1|2 5 0 1 3 2|3 4 5 2 1 3|4 3 1 1 3 4|5 6 1 1 3 5",
+// "BdBdClBdClClDdDdArArArEdEd"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 5 0 1 3 3|4 5 3 2 1 4|5 4 4 2 1 5",
+// "ArArElElBdBdArBdDlDlCdCdCdAr"
+
+"13|1 0 2 2 1 1|2 3 1 1 3 2|3 2 4 3 1 3|4 4 0 1 3 4|5 6 1 1 2 5",
+// "ArClClBdBdArDdDdDdArArEu"
+
+"17|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 4 2 1 3 4|5 3 0 1 3 5",
+// "BdDuClBdBdClClClDdDdEdEdEdArArAr"
+
+"15|1 1 2 2 1 1|2 5 0 1 3 2|3 4 0 1 3 3|4 4 5 2 1 4|5 3 3 1 3 5",
+// "BdBdCdCdEuDlBdDlCdDlEdArArAr"
+
+"14|1 1 2 2 1 1|2 3 0 1 3 2|3 6 1 1 2 3|4 4 0 1 3 4|5 3 3 3 1 5",
+// "CuElElDdDdDdElBdBdBdArArAr"
+
+"19|1 0 2 2 1 1|2 2 0 1 3 2|3 0 3 3 1 3|4 0 5 3 1 4|5 4 5 1 2 5",
+// "CrDrEuEuDrDrEuEuCrCrBdBdBdArArEuArAr"
+
+"19|1 0 2 2 1 1|2 2 0 1 3 2|3 6 0 1 3 3|4 5 1 1 3 4|5 0 4 3 1 5",
+// "BdCdCdCdErErErBdBdArArArBuBuElDdDdAr"
+
+"14|1 2 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 4 4 3 1 4|5 3 3 1 2 5",
+// "BdClClClEdEdDlDlDlBdBdArAr"
+
+"15|1 0 2 2 1 1|2 5 0 1 3 2|3 4 4 3 1 3|4 2 2 1 3 4|5 3 3 1 2 5",
+// "BdDdArArArDuDuEdEdClClBdBdAr"
+
+"12|1 1 2 2 1 1|2 3 0 1 3 2|3 1 3 3 1 3|4 2 4 3 1 4|5 5 1 1 3 5",
+// "ClBdDlDlBdBdArArEdEdAr"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 4 5 2 1 4|5 4 4 3 1 5",
+// "ArBdDlDlDlElElCdCdElElBdBdArArAr"
+
+"13|1 2 2 2 1 1|2 4 0 1 3 2|3 5 1 1 3 3|4 5 5 2 1 4|5 4 4 2 1 5",
+// "BdDlDlDlElCdCdElBdBdArAr"
+
+"13|1 0 2 2 1 1|2 2 1 1 3 2|3 3 1 1 3 3|4 4 1 1 2 4|5 1 4 3 1 5",
+// "DuErErBdBdArErCdCdArArAr"
+
+"18|1 0 2 2 1 1|2 3 1 1 3 2|3 4 0 1 3 3|4 4 3 3 1 4|5 4 5 3 1 5",
+// "ArBdElElElElBdArBdDlDlDlCdCdCdArAr"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 4 4 2 1 3|4 5 2 1 2 4|5 5 1 2 1 5",
+// "BdBdBdArArElElDuDuAr"
+
+"22|1 2 2 2 1 1|2 5 1 1 3 2|3 4 3 1 3 3|4 2 3 1 3 4|5 5 4 2 1 5",
+// "AlAlCuCuDuDuElElBdBdElCdCdElElDdDdArArArAr"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 3 1 1 3 3|4 3 4 2 1 4|5 4 5 3 1 5",
+// "ArBdDlDlCdElElBdElElCdArArAr"
+
+"13|1 0 2 2 1 1|2 5 1 1 2 2|3 6 0 1 3 3|4 4 1 1 2 4|5 3 0 1 3 5",
+// "ArBuCdCdCdDuEdEdEdArArAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 2 2|3 4 1 1 2 3|4 1 0 3 1 4|5 1 3 3 1 5",
+// "CdCdDrDrBuArArArAr"
+
+"10|1 0 2 2 1 1|2 4 1 1 2 2|3 6 1 1 2 3|4 2 0 3 1 4|5 3 1 1 3 5",
+// "ArBdBdCuEdEdArArAr"
+
+"16|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 5 5 2 1 4|5 4 2 1 3 5",
+// "ArBdDlDlDlEuClBdBdClClEdEdArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 4 5 2 1 3|4 4 0 1 3 4|5 4 3 3 1 5",
+// "ArArClClElElBdBdBdElDdDdDdArAr"
+
+"10|1 0 2 2 1 1|2 5 1 1 3 2|3 3 1 1 2 3|4 4 1 1 2 4|5 2 0 2 1 5",
+// "ArBdBdCdCdArDuArAr"
+
+"17|1 0 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 3 0 1 3 4|5 4 0 1 3 5",
+// "ArBdClClBdClClDdDdDdArEdEdEdArAr"
+
+"15|1 0 2 2 1 1|2 3 2 1 3 2|3 5 1 1 3 3|4 6 2 1 2 4|5 4 4 3 1 5",
+// "ArBuElDdElCdCdElElBdBdArArAr"
+
+"14|1 0 2 2 1 1|2 5 1 1 3 2|3 4 0 1 3 3|4 5 4 2 1 4|5 3 4 1 2 5",
+// "ArArCdDlEdDlBdBdDlCdCdArAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 3 4 3 1 4|5 2 1 1 2 5",
+// "BdCdCdDlDlBdBdEuArArArAr"
+
+"10|1 0 2 2 1 1|2 5 1 1 2 2|3 3 1 1 3 3|4 4 2 1 2 4|5 4 4 3 1 5",
+// "ArBuCdCdArDuDuArAr"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 5 1 1 2 3|4 3 2 1 2 4|5 3 4 1 3 5",
+// "BdBdBdCuDuDuArArAr"
+
+"19|1 0 2 2 1 1|2 4 2 1 3 2|3 5 4 2 1 3|4 5 0 1 3 4|5 2 0 1 3 5",
+// "BuClClClBdBdClClDdDdDdEdEdEdArArArAr"
+
+"11|1 0 2 2 1 1|2 2 1 1 3 2|3 3 1 1 2 3|4 2 0 3 1 4|5 4 1 1 2 5",
+// "BdBdArCdCdArDlEuArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 3 0 1 3 3|4 3 3 3 1 4|5 3 5 2 1 5",
+// "ArDlBdBdBdDlDlCdCdElElCdArArAr"
+
+"10|1 1 2 2 1 1|2 4 5 2 1 2|3 5 0 1 3 3|4 4 2 1 2 4|5 6 1 1 2 5",
+// "ArBlCdCdCdDdArArEu"
+
+"20|1 0 2 2 1 1|2 2 2 1 3 2|3 5 4 2 1 3|4 4 3 1 3 4|5 5 0 1 3 5",
+// "BuDuDuClClClClClBdBdArArDdDdArEdEdEdAr"
+
+"20|1 0 2 2 1 1|2 5 0 1 3 2|3 3 3 3 1 3|4 4 4 3 1 4|5 3 4 1 3 5",
+// "ArClBdClClEuEuEuDlDlBdBdDlDlEdEdArArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 3 2 1 2 3|4 3 4 2 1 4|5 6 1 1 3 5",
+// "BdCuCuArDlBdBdArArEdEd"
+
+"16|1 3 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 4 4 1 3 4|5 2 1 1 2 5",
+// "BdDuEuAlDuDuClClBdBdClDdDdArAr"
+
+"13|1 0 2 2 1 1|2 3 0 1 3 2|3 4 1 1 3 3|4 2 3 2 1 4|5 2 5 3 1 5",
+// "ArCdDlBdBdElCdElBdArArAr"
+
+"16|1 0 2 2 1 1|2 2 1 1 3 2|3 4 4 1 3 3|4 1 4 2 1 4|5 0 3 1 3 5",
+// "CuCuCuDrDrBdBdArArDrDrCdCdArAr"
+
+"16|1 0 2 2 1 1|2 6 0 1 3 2|3 5 2 1 2 3|4 2 0 1 3 4|5 0 3 3 1 5",
+// "BdBdBdCdCdErErErDdDdDdArArArAr"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 6 1 1 2 3|4 4 1 1 2 4|5 2 4 3 1 5",
+// "BdCuDuErErBdBdArArAr"
+
+"16|1 0 2 2 1 1|2 3 2 1 2 2|3 2 1 1 3 3|4 2 4 3 1 4|5 5 2 1 3 5",
+// "BuBuEuDrCdCdArArArCuCuDlEdEdAr"
+
+"10|1 0 2 2 1 1|2 5 1 1 2 2|3 2 1 1 2 3|4 3 1 1 3 4|5 2 4 2 1 5",
+// "BuCuArElDdDdArArAr"
+
+"18|1 0 2 2 1 1|2 3 2 1 3 2|3 4 4 2 1 3|4 5 0 1 3 4|5 4 5 3 1 5",
+// "ArBuClClClBdDdDdElElDdElElBdArArAr"
+
+"15|1 0 2 2 1 1|2 6 0 1 3 2|3 4 1 1 3 3|4 4 5 3 1 4|5 4 4 2 1 5",
+// "ArArBdBdDlBdDlDlElElCdCdArAr"
+
+"17|1 1 2 2 1 1|2 6 0 1 3 2|3 4 4 3 1 3|4 4 1 1 3 4|5 3 3 1 3 5",
+// "BdEuEuClBdBdClClClDdDdEdEdArArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 3 3|4 5 1 1 2 4|5 4 3 3 1 5",
+// "CdCdArCdDuElElElBdBdBdArAr"
+
+"15|1 0 2 2 1 1|2 3 0 1 3 2|3 3 5 2 1 3|4 4 0 1 3 4|5 2 1 1 3 5",
+// "BdBdCrBdCrDdDdDdEdEdArArArAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 5 0 1 3 3|4 2 2 1 2 4|5 3 3 3 1 5",
+// "BdBdBdDdArArArDdElCdCdCdAr"
+
+"9|1 0 2 2 1 1|2 4 2 1 2 2|3 3 4 2 1 3|4 2 2 1 2 4|5 4 1 2 1 5",
+// "CrCrBdDdArArArAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 4 5 2 1 4|5 2 3 1 3 5",
+// "BdBdCdCdDlCdEuDlBdDlDlEdArArArAr"
+
+"19|1 0 2 2 1 1|2 1 5 3 1 2|3 2 4 3 1 3|4 2 1 1 3 4|5 5 4 1 3 5",
+// "BrEuEuBrEuCrDdDdArArArDuBlDuClEdEdAr"
+
+"13|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 4 2 1 4|5 2 3 1 3 5",
+// "ArArArEuEuDlClDlClBdBdAr"
+
+"15|1 0 2 2 1 1|2 2 0 1 3 2|3 0 5 3 1 3|4 3 2 1 3 4|5 4 5 1 2 5",
+// "BdBdCrEuEuCrCrBdArCrDdArArAr"
+
+"17|1 1 2 2 1 1|2 0 3 3 1 2|3 2 5 1 2 3|4 5 0 1 3 4|5 4 5 3 1 5",
+// "ArArBrBrBrCuCuCuCuBlDdDdElElDdAr"
+
+"12|1 0 2 2 1 1|2 3 1 1 3 2|3 6 0 1 3 3|4 3 4 2 1 4|5 5 4 1 2 5",
+// "ArCdCdCdDlDlBdBdArArAr"
+
+"20|1 1 2 2 1 1|2 5 0 1 3 2|3 4 4 2 1 3|4 3 1 1 3 4|5 2 4 1 3 5",
+// "AlBdClBdBdEuEuEuClClClDdDdEdEdArArArAr"
+
+"15|1 0 2 2 1 1|2 2 0 1 3 2|3 5 2 1 2 3|4 0 3 3 1 4|5 4 2 1 2 5",
+// "CdCdDrEdEdDrDrBdBdBdArArArAr"
+
+"12|1 1 2 2 1 1|2 3 1 1 3 2|3 4 0 1 3 3|4 2 4 2 1 4|5 3 5 2 1 5",
+// "CdCdDlBdErBdArErCdArAr"
+
+"10|1 0 2 2 1 1|2 5 1 1 2 2|3 3 1 1 2 3|4 2 0 2 1 4|5 2 1 1 2 5",
+// "BuCdCdDrEuArArArAr"
+
+"12|1 0 2 2 1 1|2 5 2 1 2 2|3 6 2 1 2 3|4 3 0 1 3 4|5 3 3 2 1 5",
+// "ArBdBdCdErDdDdDdArArAr"
+
+"14|1 1 2 2 1 1|2 5 1 1 3 2|3 4 4 2 1 3|4 4 1 1 2 4|5 3 3 1 3 5",
+// "DuEuEuClBdBdClClEdEdArArAr"
+
+"17|1 1 2 2 1 1|2 4 0 1 3 2|3 4 4 3 1 3|4 2 4 1 2 4|5 3 4 1 3 5",
+// "BdDdEuEuEuClClClBdBdClEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 2 1 1 3 2|3 1 5 2 1 3|4 0 4 3 1 4|5 5 1 1 3 5",
+// "ClDrDrDrBdBdArArArBuBuDlEdEdAr"
+
+"13|1 0 2 2 1 1|2 3 1 1 3 2|3 2 1 1 2 3|4 2 4 3 1 4|5 4 0 1 3 5",
+// "CuArDlDlBdBdArEdEdEdArAr"
+
+"14|1 1 2 2 1 1|2 5 0 1 3 2|3 4 1 1 3 3|4 5 5 2 1 4|5 2 5 2 1 5",
+// "ArBdBdCdDlElDlBdElDlCdArAr"
+
+"19|1 1 2 2 1 1|2 6 0 1 3 2|3 3 0 1 3 3|4 5 4 2 1 4|5 4 4 1 3 5",
+// "BdCdEuEuEuDlBdBdDlDlDlCdCdArEdEdArAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 4 4 2 1 3|4 4 3 3 1 4|5 3 5 2 1 5",
+// "ArArCrDlDlDlBdBdElBdArAr"
+
+"16|1 1 2 2 1 1|2 4 0 1 3 2|3 4 3 3 1 3|4 6 0 1 3 4|5 5 4 2 1 5",
+// "ArClClClBdDdElDdDdElElBdBdArAr"
+
+"13|1 0 2 2 1 1|2 3 0 1 3 2|3 2 4 2 1 3|4 4 1 1 3 4|5 1 4 1 3 5",
+// "ArBdCrCrBdBdArCrDdDdArAr"
+
+"12|1 0 2 2 1 1|2 6 2 1 2 2|3 4 1 1 3 3|4 3 4 3 1 4|5 2 2 1 2 5",
+// "BdDlDlCdCdEuEuArArArAr"
+
+"14|1 1 2 2 1 1|2 6 1 1 3 2|3 3 1 1 3 3|4 5 1 1 3 4|5 5 4 2 1 5",
+// "ElBdBdElDdDdElElCdCdArArAr"
+
+"16|1 0 2 2 1 1|2 5 1 1 3 2|3 4 1 1 3 3|4 5 5 2 1 4|5 2 1 1 3 5",
+// "BdCdDlDlBdDlCdDlDlEdEdArArArAr"
+
+"13|1 0 2 2 1 1|2 5 0 1 3 2|3 3 2 1 3 3|4 4 3 3 1 4|5 1 6 3 1 5",
+// "ArCdArArElCdDlDlBdBdBdAr"
+
+"14|1 0 2 2 1 1|2 6 2 1 3 2|3 3 0 1 3 3|4 4 5 3 1 4|5 5 2 1 3 5",
+// "ArCdCdDlBdDlDlDlCdArArEdAr"
+
+"12|1 0 2 2 1 1|2 6 1 1 3 2|3 3 1 1 3 3|4 3 4 2 1 4|5 5 4 2 1 5",
+// "ArDlDlCdCdArArArElBdBd"
+
+"12|1 0 2 2 1 1|2 6 2 1 2 2|3 4 1 1 3 3|4 3 1 1 3 4|5 2 5 3 1 5",
+// "ArBdCdDdElCdElDdArArAr"
+
+"15|1 1 2 2 1 1|2 3 0 1 3 2|3 5 2 1 3 3|4 5 5 2 1 4|5 4 4 1 3 5",
+// "BdBdEuEuDlDlCdDlDlBdArEdArAr"
+
+"8|1 3 2 2 1 1|2 4 4 3 1 2|3 6 1 1 2 3|4 5 1 1 3 4|5 4 5 2 1 5",
+// "BlBlCuDdElDdAr"
+
+"11|1 0 2 2 1 1|2 5 2 1 2 2|3 5 4 1 3 3|4 4 0 3 1 4|5 3 1 1 2 5",
+// "ArBuDlDlBuEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 6 0 1 3 2|3 5 1 1 3 3|4 5 4 2 1 4|5 4 2 1 3 5",
+// "ArArBdEuDlBdBdDlCdCdDlEdEdArAr"
+
+"20|1 1 2 2 1 1|2 5 0 1 3 2|3 4 5 3 1 3|4 5 4 2 1 4|5 3 4 1 3 5",
+// "BdDlEuEuClClClClEuDlBdBdDlDlEdEdArArAr"
+
+"12|1 0 2 2 1 1|2 4 4 2 1 2|3 4 1 1 3 3|4 3 0 1 3 4|5 5 1 1 2 5",
+// "ArBrCdCdDdDdDdArArEuAr"
+
+"12|1 0 2 2 1 1|2 3 2 1 3 2|3 2 0 1 3 3|4 2 5 2 1 4|5 6 2 1 2 5",
+// "CdCdDrCdArDrBdArArArEd"
+
+"17|1 0 2 2 1 1|2 6 1 1 3 2|3 5 5 2 1 3|4 4 1 1 3 4|5 2 4 1 3 5",
+// "BdClBdClDdEuEuClClClDdEdArArArAr"
+
+"16|1 2 2 2 1 1|2 4 5 3 1 2|3 3 3 1 3 3|4 0 5 1 2 4|5 5 0 1 3 5",
+// "AlCuBlBlBlDuDuBlCdArArEdEdEdAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 3 0 1 3 3|4 3 4 3 1 4|5 3 3 3 1 5",
+// "ArDlDlDlElElBdBdBdElCdCdCdArArAr"
+
+"10|1 0 2 2 1 1|2 3 2 1 2 2|3 3 4 2 1 3|4 6 2 1 3 4|5 4 2 1 2 5",
+// "ArBuBuArClDdEdArAr"
+
+"20|1 0 2 2 1 1|2 2 0 1 3 2|3 1 4 3 1 3|4 4 3 1 2 4|5 5 4 1 3 5",
+// "BdDdDdCrEuEuEuCrBdBdArArArBuBuClEdEdAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 3 2|3 5 1 1 2 3|4 5 0 2 1 4|5 4 2 1 3 5",
+// "ArBdBdArCdCdEdArAr"
+
+"16|1 1 2 2 1 1|2 2 5 3 1 2|3 4 1 1 3 3|4 1 5 1 2 4|5 0 3 3 1 5",
+// "ArCuDuErErDuBlDuDuElCdCdCdArAr"
+
+"19|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 4 4 2 1 4|5 2 4 1 3 5",
+// "BdDlCdCdEuEuEuDlDlBdBdDlEdEdArArArAr"
+
+"18|1 0 2 2 1 1|2 4 0 1 3 2|3 2 3 1 3 3|4 3 4 2 1 4|5 6 0 1 3 5",
+// "BdCuCuDlBdBdDlDlCdCdArArArArEdEdEd"
+
+"16|1 0 2 2 1 1|2 6 1 1 2 2|3 4 0 1 3 3|4 4 5 3 1 4|5 3 0 1 3 5",
+// "ArBuCdCdDlDlDlCdDlEdEdEdArArAr"
+
+"19|1 0 2 2 1 1|2 4 1 1 3 2|3 5 1 1 3 3|4 5 4 2 1 4|5 2 4 1 3 5",
+// "DlDlCdCdEuEuEuDlBdBdDlDlEdEdArArArAr"
+
+"12|1 0 2 2 1 1|2 6 0 1 3 2|3 3 1 1 3 3|4 2 2 1 2 4|5 5 5 2 1 5",
+// "BdBdCdCdDdArArArArElBd"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 2 2 1 3 3|4 5 4 2 1 4|5 0 5 3 1 5",
+// "DlDlBdErErErCdArArArCuElBdAr"
+
+"19|1 0 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 2 3 1 3 4|5 4 4 2 1 5",
+// "BdCdDuDuElCdCdElElBdBdElDdDdArArArAr"
+
+"10|1 1 2 2 1 1|2 3 0 1 3 2|3 4 1 1 2 3|4 5 1 1 2 4|5 6 1 1 2 5",
+// "BdBdBdArCuArDuArEu"
+
+"21|1 0 2 2 1 1|2 2 2 1 3 2|3 1 5 3 1 3|4 4 4 1 2 4|5 4 3 3 1 5",
+// "BuBuElElElDuCrCrDuDuDuErErBdBdBdArArArAr"
+
+"10|1 1 2 2 1 1|2 3 0 1 3 2|3 3 5 2 1 3|4 3 3 2 1 4|5 3 4 2 1 5",
+// "CrDrBdErBdBdArArAr"
+
+"16|1 1 2 2 1 1|2 5 1 1 3 2|3 4 4 2 1 3|4 5 5 2 1 4|5 3 2 1 3 5",
+// "DlDlDlDlEuClBdBdClClEdEdArArAr"
+
+"12|1 0 2 2 1 1|2 3 5 2 1 2|3 3 0 1 3 3|4 1 4 3 1 4|5 0 4 1 3 5",
+// "ArBrCdDrDrDrCdCdArArAr"
+
+"19|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 4 4 1 3 4|5 4 3 3 1 5",
+// "ArArElElBdElDuDuDuClClBdBdClDdDdArAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 3 2|3 2 2 1 3 3|4 6 1 1 2 4|5 1 5 2 1 5",
+// "BdBdDuElCdArArArAr"
+
+"16|1 1 2 2 1 1|2 4 4 3 1 2|3 5 1 1 3 3|4 2 3 1 2 4|5 3 3 1 3 5",
+// "DdDdEuEuBlBlBlBlCdCdEdEdArArAr"
+
+"18|1 0 2 2 1 1|2 4 4 1 3 2|3 5 0 1 3 3|4 4 3 2 1 4|5 5 4 2 1 5",
+// "ArArDlCdDlBuBuBuElElCdCdElBdBdArAr"
+
+"12|1 0 2 2 1 1|2 2 3 2 1 2|3 2 0 1 3 3|4 5 1 1 2 4|5 4 2 1 2 5",
+// "BlBlCdCdCdArArDuEdArAr"
+
+"14|1 0 2 2 1 1|2 4 0 1 3 2|3 6 2 1 2 3|4 2 4 3 1 4|5 3 0 1 3 5",
+// "ArBdCdDlBdBdDlEdEdEdArArAr"
+
+"15|1 0 2 2 1 1|2 3 1 1 3 2|3 5 0 1 3 3|4 2 5 3 1 4|5 5 3 2 1 5",
+// "ArBdDlDlBdArArBdElElCdCdCdAr"
+
+"16|1 0 2 2 1 1|2 2 0 1 3 2|3 6 0 1 3 3|4 5 2 1 2 4|5 0 4 3 1 5",
+// "BdCdCdCdDuDuErErErBdBdArArArAr"
+
+"13|1 0 2 2 1 1|2 6 1 1 2 2|3 4 1 1 3 3|4 3 5 2 1 4|5 2 0 1 3 5",
+// "BuCdDrDrCdEdEdEdArArArAr"
+
+"16|1 0 2 2 1 1|2 6 1 1 3 2|3 5 5 2 1 3|4 3 0 1 3 4|5 4 1 1 3 5",
+// "ArBdClBdClClClDdDdDdArEdEdArAr"
+
+"9|1 2 2 2 1 1|2 5 0 1 3 2|3 4 2 1 2 3|4 3 4 2 1 4|5 6 2 1 3 5",
+// "BdBdBdCuCuArArEd"
+
+"17|1 0 2 2 1 1|2 5 0 1 3 2|3 3 4 1 3 3|4 4 5 2 1 4|5 2 1 1 3 5",
+// "BdBdCuCuDlBdDlDlCdDlEdEdArArArAr"
+
+"9|1 0 2 2 1 1|2 5 1 1 2 2|3 6 2 1 2 3|4 3 0 3 1 4|5 6 4 1 2 5",
+// "ArArArBdBdArCuCu"
+
+"13|1 2 2 2 1 1|2 5 2 1 3 2|3 4 0 1 3 3|4 5 5 2 1 4|5 3 5 2 1 5",
+// "CdCdElDlElDlBdElDlCdArAr"
+
+"17|1 1 2 2 1 1|2 4 5 3 1 2|3 4 0 1 3 3|4 2 5 1 2 4|5 2 3 1 2 5",
+// "AlBlCdCdEuDuEuDuBlBlCdEuArArArAr"
+
+"9|1 0 2 2 1 1|2 3 2 1 2 2|3 5 1 1 2 3|4 2 2 1 3 4|5 1 5 2 1 5",
+// "BdCuElDdArArArAr"
+
+"10|1 1 2 2 1 1|2 5 0 1 3 2|3 3 2 1 2 3|4 4 1 1 2 4|5 2 4 2 1 5",
+// "BdBdBdCuCuArDuArAr"
+
+"10|1 0 2 2 1 1|2 2 2 1 3 2|3 5 2 1 3 3|4 3 1 1 2 4|5 3 5 3 1 5",
+// "BdArDuArArBuElCdAr"
+
+"11|1 1 2 2 1 1|2 4 0 1 3 2|3 5 2 1 2 3|4 5 4 2 1 4|5 5 0 2 1 5",
+// "ArBdBdBdArCuElElCuAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 5 5 2 1 4|5 3 5 2 1 5",
+// "ArArBdBdCdCdElDlElDlCdElDlBdArAr"
+
+"18|1 0 2 2 1 1|2 2 0 1 3 2|3 5 4 2 1 3|4 5 1 1 3 4|5 4 2 1 3 5",
+// "BdEuClClClClClBdBdArArDdDdEdEdArAr"
+
+"14|1 0 2 2 1 1|2 2 0 1 3 2|3 3 2 1 3 3|4 4 0 1 3 4|5 2 5 2 1 5",
+// "BdBdDdDdDdElCdElBdArArArAr"
+
+"15|1 1 2 2 1 1|2 5 0 1 3 2|3 4 5 3 1 3|4 2 5 1 2 4|5 4 3 3 1 5",
+// "ArArClDuDuClDuDuElElBdBdBdAr"
+
+"17|1 0 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 3 4 1 3 4|5 6 0 1 3 5",
+// "ArBdClDuDuClBdClClDdArArArEdEdEd"
+
+"12|1 0 2 2 1 1|2 6 1 1 3 2|3 4 5 3 1 3|4 3 1 1 3 4|5 2 4 2 1 5",
+// "ArBdElDdDdArArArDuClBd"
+
+"12|1 2 2 2 1 1|2 4 4 3 1 2|3 5 0 1 3 3|4 4 2 1 2 4|5 5 3 2 1 5",
+// "BlBlDuDuArElElCdCdCdAr"
+
+"13|1 0 2 2 1 1|2 6 1 1 3 2|3 5 5 2 1 3|4 5 4 2 1 4|5 4 4 1 2 5",
+// "ArArEuClEuDlBdBdEuEuArAr"
+
+"17|1 1 2 2 1 1|2 5 5 2 1 2|3 5 2 1 3 3|4 2 3 1 3 4|5 3 4 1 3 5",
+// "AlBlDuEuEuBlBlBlBlCdDdArEdArArAr"
+
+"16|1 0 2 2 1 1|2 5 2 1 3 2|3 4 1 1 3 3|4 5 5 2 1 4|5 2 4 1 3 5",
+// "CdDlDlBdEuEuDlCdDlDlEdArArArAr"
+
+"11|1 1 2 2 1 1|2 5 4 1 2 2|3 6 0 1 3 3|4 5 2 1 2 4|5 4 1 1 3 5",
+// "ArBdCdCdCdDdEdEdArAr"
+
+"16|1 1 2 2 1 1|2 4 5 2 1 2|3 5 0 1 3 3|4 3 1 1 3 4|5 5 4 2 1 5",
+// "BlBlBlCdElElCdCdElElDdDdArArAr"
+
+"12|1 0 2 2 1 1|2 6 1 1 3 2|3 2 0 1 3 3|4 2 5 3 1 4|5 5 4 2 1 5",
+// "CdCdDrCdArArArArElBdBd"
+
+"10|1 1 2 2 1 1|2 3 0 1 3 2|3 4 1 1 2 3|4 2 5 2 1 4|5 4 0 2 1 5",
+// "BdBdCdCdDlBdArArAr"
+
+"16|1 0 2 2 1 1|2 1 3 3 1 2|3 3 0 1 3 3|4 2 0 1 3 4|5 5 2 1 3 5",
+// "BrEdEdBrBrCdCdCdDdDdDdArArArAr"
+
+"20|1 2 2 2 1 1|2 5 5 2 1 2|3 5 1 1 3 3|4 3 4 1 3 4|5 2 4 1 3 5",
+// "AlAlBlCdDuDuBlCdEuEuBlBlBlDdEdArArArAr"
+
+"12|1 0 2 2 1 1|2 3 1 1 3 2|3 5 2 1 3 3|4 6 1 1 3 4|5 4 1 1 3 5",
+// "ArBdBdArCdDdDdEdEdArAr"
+
+"9|1 0 2 2 1 1|2 4 4 1 3 2|3 4 2 1 2 3|4 2 2 1 2 4|5 3 1 1 2 5",
+// "CuCuDdArEuArArAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 2 2|3 3 0 3 1 3|4 4 1 1 3 4|5 6 1 1 2 5",
+// "ArBdBdArDdDdArArEu"
+
+"13|1 0 2 2 1 1|2 2 0 1 3 2|3 5 0 1 3 3|4 2 3 2 1 4|5 1 4 2 1 5",
+// "CdCdCdDrBdElBdBdArArArAr"
+
+"17|1 0 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 4 3 3 1 4|5 2 1 1 3 5",
+// "DlBdBdBdEdEdArArEdDlDlCdCdCdArAr"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 5 4 2 1 4|5 4 0 1 3 5",
+// "ArBdDlDlCdCdDlDlBdBdArEdEdEdArAr"
+
+"11|1 0 2 2 1 1|2 3 1 1 3 2|3 4 2 1 2 3|4 2 2 1 2 4|5 1 4 3 1 5",
+// "CdDuDuArElBdBdArArAr"
+
+"14|1 0 2 2 1 1|2 2 2 1 2 2|3 6 1 1 3 3|4 5 0 1 3 4|5 4 0 1 3 5",
+// "BdArArCdCdDdDdDdEdEdEdArAr"
+
+"16|1 0 2 2 1 1|2 2 0 1 3 2|3 1 4 3 1 3|4 4 4 1 2 4|5 1 5 3 1 5",
+// "BdDuDuCrCrBdDuDuErErBdArArArAr"
+
+"15|1 0 2 2 1 1|2 2 0 1 3 2|3 3 2 1 2 3|4 1 5 3 1 4|5 0 3 3 1 5",
+// "CuCuDrDrErErErBdBdBdArArArAr"
+
+"18|1 0 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 4 0 1 3 4|5 2 1 1 3 5",
+// "BdBdClBdClClClClDdDdDdEdEdArArArAr"
+
+"13|1 2 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 4 2 1 4|5 4 1 1 3 5",
+// "DlClDlClBdBdDlClEdEdArAr"
+
+"19|1 0 2 2 1 1|2 2 0 1 3 2|3 6 1 1 3 3|4 3 0 1 3 4|5 0 5 3 1 5",
+// "BdBdCdDdDdErErErBdArErDdArArArDuElCd"
+
+"14|1 1 2 2 1 1|2 5 0 1 3 2|3 3 0 1 3 3|4 3 3 2 1 4|5 2 4 3 1 5",
+// "BdBdBdBdDrCdElElCdCdArArAr"
+
+"10|1 0 2 2 1 1|2 5 4 2 1 2|3 6 2 1 2 3|4 3 2 1 3 4|5 5 2 1 2 5",
+// "ArBlCdDdArArEuEuAr"
+
+"14|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 2 1 3|4 6 1 1 2 4|5 3 0 1 3 5",
+// "ArBdBdCrCrBdDuEdEdEdArArAr"
+
+"10|1 0 2 2 1 1|2 3 4 1 3 2|3 3 2 1 2 3|4 3 0 2 1 4|5 5 1 1 2 5",
+// "ArCuDrCuArArEdEdAr"
+
+"12|1 0 2 2 1 1|2 6 1 1 3 2|3 2 0 1 3 3|4 1 4 2 1 4|5 4 2 1 2 5",
+// "BdBdCdDlCdCdArArEdArAr"
+
+"15|1 0 2 2 1 1|2 3 1 1 3 2|3 4 0 1 3 3|4 3 5 3 1 4|5 1 5 1 2 5",
+// "ArBdCdCdDlEuEuDlCdDlBdArArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 3 2|3 3 5 2 1 3|4 6 2 1 3 4|5 2 2 1 3 5",
+// "BdClBdClClDdEdArArArAr"
+
+"9|1 0 2 2 1 1|2 5 2 1 2 2|3 2 2 1 2 3|4 3 4 3 1 4|5 6 1 1 2 5",
+// "BuBuCdArArArArEu"
+
+"13|1 0 2 2 1 1|2 6 2 1 2 2|3 3 1 1 3 3|4 5 0 1 3 4|5 4 1 1 3 5",
+// "ArBdCdCdArDdDdDdEdEdArAr"
+
+"12|1 0 2 2 1 1|2 5 0 1 3 2|3 4 5 2 1 3|4 3 4 1 2 4|5 3 3 2 1 5",
+// "ArArArBdBdElElDuClBdAr"
+
+"14|1 1 2 2 1 1|2 6 1 1 3 2|3 4 4 3 1 3|4 3 0 1 3 4|5 3 5 3 1 5",
+// "DdDdErDdArArArDuDuClBdElBd"
+
+"13|1 0 2 2 1 1|2 3 4 2 1 2|3 4 1 1 3 3|4 5 0 1 3 4|5 2 3 1 2 5",
+// "ArArDdDdDdEdEdBlCdCdArAr"
+
+"14|1 0 2 2 1 1|2 6 1 1 3 2|3 5 2 1 2 3|4 2 1 1 3 4|5 0 4 3 1 5",
+// "BdBdCuCuErErErDdDdArArArAr"
+
+"17|1 0 2 2 1 1|2 5 1 1 3 2|3 4 4 2 1 3|4 2 2 1 3 4|5 3 2 1 3 5",
+// "DuEuClBdBdClClClDdDdArEdEdArArAr"
+
+"17|1 0 2 2 1 1|2 5 1 1 3 2|3 4 4 2 1 3|4 3 2 1 3 4|5 4 5 3 1 5",
+// "ArDuClBdClClDdElElBdElElDdArArAr"
+
+"12|1 0 2 2 1 1|2 5 2 1 2 2|3 6 0 1 3 3|4 5 4 1 2 4|5 3 1 1 3 5",
+// "ArBuBuCdCdCdEdEdArArAr"
+
+"9|1 1 2 2 1 1|2 3 2 1 2 2|3 5 1 1 3 3|4 4 5 2 1 4|5 1 4 3 1 5",
+// "BuBuArArCdDlCdAr"
+
+"21|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 4 3 1 3 4|5 2 4 1 3 5",
+// "DuDuClClBdBdEuEuEuClClClDdDdEdEdArArArAr"
+
+"10|1 0 2 2 1 1|2 4 1 1 2 2|3 3 1 1 3 3|4 2 2 1 2 4|5 2 4 1 2 5",
+// "BuCdCdDuDuArArArAr"
+
+"10|1 0 2 2 1 1|2 5 1 1 2 2|3 6 1 1 2 3|4 4 1 1 2 4|5 5 0 2 1 5",
+// "ArArBdBdCdCdDuArAr"
+
+"11|1 2 2 2 1 1|2 4 0 1 3 2|3 3 5 2 1 3|4 4 4 3 1 4|5 4 3 2 1 5",
+// "ClDlDlDlErBdBdBdArAr"
+
+"15|1 0 2 2 1 1|2 3 1 1 3 2|3 5 1 1 2 3|4 4 0 1 3 4|5 4 5 3 1 5",
+// "ArBdCuDdDdElElElDdElBdArArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 3 2 1 2 3|4 3 4 2 1 4|5 5 1 1 3 5",
+// "BdCuCuArDlBdBdArEdEdAr"
+
+"15|1 0 2 2 1 1|2 2 0 1 3 2|3 1 4 3 1 3|4 5 2 1 2 4|5 6 0 1 3 5",
+// "BdCrCrBdBdArArArDuDuArEdEdEd"
+
+"9|1 3 2 2 1 1|2 5 5 2 1 2|3 5 0 1 3 3|4 3 4 3 1 4|5 2 2 1 3 5",
+// "BlBlCdEuDlCdCdAr"
+
+"16|1 0 2 2 1 1|2 5 1 1 3 2|3 4 5 3 1 3|4 4 4 2 1 4|5 3 1 1 3 5",
+// "ArClClClClDlBdBdDlDlEdEdArArAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 3 2 1 2 3|4 4 5 3 1 4|5 4 4 3 1 5",
+// "ArCuCuArDlDlDlElElElBdBdArAr"
+
+"12|1 2 2 2 1 1|2 5 0 1 3 2|3 3 4 3 1 3|4 2 3 1 3 4|5 6 0 1 3 5",
+// "ArBdDuDuClBdBdArEdEdEd"
+
+"10|1 0 2 2 1 1|2 5 1 1 2 2|3 2 2 1 2 3|4 4 0 2 1 4|5 4 1 1 2 5",
+// "BdBdCdArArDrEuArAr"
+
+"9|1 0 2 2 1 1|2 3 0 2 1 2|3 3 1 1 2 3|4 5 2 1 2 4|5 4 2 1 2 5",
+// "ArBrCuArDdEdArAr"
+
+"15|1 1 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 3 2 1 3 4|5 4 0 1 3 5",
+// "ClDdArDdClBdBdBdClEdEdEdArAr"
+
+"18|1 0 2 2 1 1|2 2 1 1 3 2|3 0 4 3 1 3|4 3 4 1 3 4|5 6 2 1 2 5",
+// "DuDuDuCrCrCrBdBdArCrDdDdArArArEuEu"
+
+"15|1 1 2 2 1 1|2 5 0 1 3 2|3 3 2 1 3 3|4 6 1 1 2 4|5 5 4 2 1 5",
+// "BdCuDuElElBdBdElElCdCdArArAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 2 1 1 3 3|4 6 0 1 3 4|5 3 5 2 1 5",
+// "BdCdDdDdDdElBdElElCdArArArAr"
+
+"12|1 3 2 2 1 1|2 5 5 2 1 2|3 5 0 1 3 3|4 3 4 1 2 4|5 5 3 2 1 5",
+// "BlElElCdCdElElDuBlCdAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 4 5 1 2 4|5 2 0 1 3 5",
+// "BdBdDuDuClBdEdEdEdArArArAr"
+
+"16|1 1 2 2 1 1|2 5 4 2 1 2|3 5 1 1 3 3|4 5 5 2 1 4|5 3 1 1 3 5",
+// "BlBlBlBlCdDlDlCdDlDlEdEdArArAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 2 2|3 6 1 1 3 3|4 3 0 1 3 4|5 3 4 3 1 5",
+// "ArBuCdCdDdElElElDdDdArArAr"
+
+"9|1 0 2 2 1 1|2 5 2 1 2 2|3 6 1 1 2 3|4 3 2 1 2 4|5 4 2 1 2 5",
+// "ArBdCuDdArEdArAr"
+
+"16|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 3 1 3|4 3 2 1 3 4|5 2 3 1 2 5",
+// "ArDuClEdEdClClBdBdClDdDdArArAr"
+
+"11|1 0 2 2 1 1|2 3 0 1 3 2|3 6 4 1 3 3|4 6 2 1 2 4|5 4 2 1 2 5",
+// "ArBdBdBdArDuDuEdArAr"
+
+"20|1 0 2 2 1 1|2 5 1 1 3 2|3 2 0 1 3 3|4 1 3 3 1 4|5 2 4 3 1 5",
+// "BuDrDrCdErCdCdArArArCuCuCuDlBdElBdBdAr"
+
+"22|1 1 2 2 1 1|2 4 1 1 3 2|3 4 5 3 1 3|4 2 4 1 2 4|5 0 3 3 1 5",
+// "AlBuClErErErDuClClDuDuDuArArElElBdBdBdArAr"
+
+"21|1 0 2 2 1 1|2 2 0 1 3 2|3 5 1 1 3 3|4 2 5 3 1 4|5 0 3 3 1 5",
+// "CuDrErErErBdBdBdArArArBuBuBuDlElCdCdCdAr"
+
+"17|1 0 2 2 1 1|2 3 2 1 2 2|3 5 0 1 3 3|4 4 5 3 1 4|5 3 4 1 3 5",
+// "ArBuBuCdCdEuEuDlDlCdDlDlEdArArAr"
+
+"10|1 0 2 2 1 1|2 5 1 1 2 2|3 2 2 1 2 3|4 4 0 2 1 4|5 4 1 1 2 5",
+// "BdBdCdArArDrEuArAr"
+
+"9|1 0 2 2 1 1|2 6 2 1 2 2|3 3 2 1 2 3|4 5 4 2 1 4|5 4 1 1 2 5",
+// "ArBuBuCdArEuArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 3 3|4 4 4 2 1 4|5 6 4 1 3 5",
+// "BdDlDlBdBdDlCdCdArArAr"
+
+"10|1 0 2 2 1 1|2 6 1 1 2 2|3 5 1 1 2 3|4 2 2 1 2 4|5 5 0 2 1 5",
+// "BdBdCdCdDdArArArAr"
+
+"15|1 0 2 2 1 1|2 2 1 1 3 2|3 0 5 3 1 3|4 4 5 1 2 4|5 4 3 1 2 5",
+// "BdCrEuDuEuDuCrCrBdArArEuArAr"
+
+"13|1 1 2 2 1 1|2 3 1 1 3 2|3 3 4 2 1 3|4 3 5 3 1 4|5 4 1 1 3 5",
+// "CrBdCrDlDlDlBdArEdEdArAr"
+
+"12|1 0 2 2 1 1|2 2 2 1 2 2|3 4 0 1 3 3|4 3 3 2 1 4|5 5 1 1 2 5",
+// "BdArArBdDlCdCdCdArEuAr"
+
+"15|1 0 2 2 1 1|2 2 4 2 1 2|3 4 0 1 3 3|4 6 1 1 3 4|5 2 0 1 3 5",
+// "BlBlCdCdCdDdDdEdEdEdArArArAr"
+
+"14|1 1 2 2 1 1|2 4 1 1 3 2|3 6 2 1 3 3|4 3 3 1 3 4|5 4 4 2 1 5",
+// "CdDuDuElElBdBdElDdDdArArAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 3 1 1 3 4|5 2 4 3 1 5",
+// "ArBdClClClElBdBdElDdDdArArAr"
+
+"17|1 1 2 2 1 1|2 5 0 1 3 2|3 3 0 1 3 3|4 4 5 3 1 4|5 4 0 1 3 5",
+// "BdBdCdCdDlDlBdDlDlCdArEdEdEdArAr"
+
+"16|1 1 2 2 1 1|2 4 0 1 3 2|3 5 5 2 1 3|4 5 0 1 3 4|5 3 3 1 3 5",
+// "BdBdClDdDdEuClClBdClDdEdArArAr"
+
+"11|1 0 2 2 1 1|2 6 0 1 3 2|3 2 2 1 2 3|4 2 4 1 2 4|5 4 3 3 1 5",
+// "CuCuArArArArElBdBdBd"
+
+"12|1 0 2 2 1 1|2 3 0 1 3 2|3 6 1 1 2 3|4 2 5 3 1 4|5 2 3 2 1 5",
+// "ArCuDrDrElBdBdBdArArAr"
+
+"15|1 0 2 2 1 1|2 3 0 1 3 2|3 3 5 3 1 3|4 6 1 1 3 4|5 2 1 1 3 5",
+// "BdBdCrBdDdEdEdArArArArBuClDd"
+
+"19|1 0 2 2 1 1|2 4 0 1 3 2|3 2 0 1 3 3|4 5 5 2 1 4|5 5 0 1 3 5",
+// "BdBdCdCdDlDlDlBdDlDlCdArArArEdEdEdAr"
+
+"13|1 1 2 2 1 1|2 3 2 1 3 2|3 3 5 2 1 3|4 5 0 1 3 4|5 5 3 2 1 5",
+// "ClClBdArArBdElElDdDdDdAr"
+
+"12|1 1 2 2 1 1|2 6 0 1 3 2|3 3 2 1 3 3|4 1 5 3 1 4|5 4 0 1 3 5",
+// "BdBdBdDlCdArEdEdEdArAr"
+
+"10|1 1 2 2 1 1|2 5 2 1 2 2|3 4 0 1 3 3|4 4 5 2 1 4|5 6 5 1 2 5",
+// "ArBdCdCdDlDlCdArAr"
+
+"9|1 0 2 2 1 1|2 5 1 1 2 2|3 4 2 1 3 3|4 6 2 1 2 4|5 5 4 2 1 5",
+// "ArArBuCdArArDuDu"
+
+"16|1 1 2 2 1 1|2 3 0 1 3 2|3 4 0 1 3 3|4 3 3 3 1 4|5 3 4 3 1 5",
+// "DlDlCdDlBdElElCdCdElBdBdArArAr"
+
+"11|1 2 2 2 1 1|2 4 0 1 3 2|3 3 3 3 1 3|4 1 2 1 2 4|5 6 1 1 3 5",
+// "ClDuClBdBdBdArArEdEd"
+
+"10|1 1 2 2 1 1|2 3 0 1 3 2|3 5 1 1 2 3|4 3 4 2 1 4|5 5 3 1 2 5",
+// "BdCuDlDlBdBdArArAr"
+
+"10|1 0 2 2 1 1|2 5 2 1 3 2|3 6 1 1 2 3|4 4 1 1 3 4|5 5 0 2 1 5",
+// "ArArBdCdCdDdDdArAr"
+
+"16|1 0 2 2 1 1|2 5 3 1 2 2|3 2 1 1 3 3|4 0 4 3 1 4|5 3 2 1 3 5",
+// "BdBdEuDrDrDrCdCdArDrEdEdArArAr"
+
+"9|1 0 2 2 1 1|2 4 1 1 2 2|3 2 1 1 2 3|4 3 2 1 2 4|5 1 0 2 1 5",
+// "BuCdCdArDdArArAr"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 2 0 1 3 3|4 5 2 1 3 4|5 2 5 2 1 5",
+// "BdBdCdCdDdElBdElCdArArArAr"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 2 0 1 3 4|5 4 5 3 1 5",
+// "ClClBdDdDdDdArArArDuElElBdAr"
+
+"10|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 2 3|4 4 4 2 1 4|5 6 4 1 2 5",
+// "BdCuArDlDlBdBdArAr"
+
+"16|1 0 2 2 1 1|2 3 0 1 3 2|3 2 0 1 3 3|4 1 4 3 1 4|5 5 2 1 2 5",
+// "BdCdDrDrCdCdArDrBdBdArArEuEuAr"
+
+"17|1 0 2 2 1 1|2 5 4 2 1 2|3 5 1 1 3 3|4 3 2 1 3 4|5 4 2 1 3 5",
+// "ArDuEuBlBlBlBlCdCdDdDdArEdEdArAr"
+
+"17|1 1 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 4 0 1 3 4|5 5 3 2 1 5",
+// "BdBdBdArBdDdDdDdArDdElElCdCdCdAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 3 3 2 1 3|4 0 3 3 1 4|5 4 5 3 1 5",
+// "ArArCrCrBdBdElElElBdArAr"
+
+"12|1 2 2 2 1 1|2 3 5 2 1 2|3 5 0 1 3 3|4 5 5 2 1 4|5 1 5 1 2 5",
+// "ArBlCdCdDlEuEuBlDlCdAr"
+
+"23|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 3 4 1 3 4|5 2 4 1 3 5",
+// "BdClDuDuDuClBdBdEuEuEuClClClDdDdEdEdArArArAr"
+
+"10|1 0 2 2 1 1|2 5 2 1 2 2|3 5 4 2 1 3|4 2 1 1 2 4|5 4 1 1 3 5",
+// "BuBuDuArArEdEdArAr"
+
+"10|1 0 2 2 1 1|2 4 0 3 1 2|3 4 1 1 2 3|4 5 2 1 3 4|5 4 4 1 3 5",
+// "ArArBlBlBlCuArDdAr"
+
+"10|1 0 2 2 1 1|2 2 2 1 2 2|3 2 4 2 1 3|4 3 2 1 2 4|5 4 1 1 2 5",
+// "BuBuArClDdArEuArAr"
+
+"10|1 1 2 2 1 1|2 4 1 1 3 2|3 5 2 1 3 3|4 6 1 1 3 4|5 3 1 1 2 5",
+// "BdBdCdDdDdEuArArAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 2 2|3 4 2 1 2 3|4 4 4 2 1 4|5 5 2 1 2 5",
+// "ArBuArCuCuArDlEdAr"
+
+"13|1 0 2 2 1 1|2 5 1 1 2 2|3 3 0 1 3 3|4 6 1 1 3 4|5 4 5 3 1 5",
+// "ArBuCdCdCdArArArCuDdElDd"
+
+"20|1 0 2 2 1 1|2 2 1 1 3 2|3 2 4 3 1 3|4 5 4 1 3 4|5 0 5 3 1 5",
+// "DuDuDuCrBdErErErBdArArArBuBuClDdElDdAr"
+
+"11|1 0 2 2 1 1|2 3 1 1 3 2|3 2 5 3 1 3|4 6 2 1 2 4|5 2 4 2 1 5",
+// "ArCrCrDdElBdBdArArAr"
+
+"21|1 1 2 2 1 1|2 4 1 1 3 2|3 4 5 3 1 3|4 2 4 1 2 4|5 1 3 3 1 5",
+// "AlBuClErErDuClClDuDuDuArArElElBdBdBdArAr"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 5 3 2 1 4|5 4 0 1 3 5",
+// "ArBdBdBdArBdDlDlCdCdCdDlEdEdEdArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 2 5 3 1 3|4 1 3 1 3 4|5 4 3 3 1 5",
+// "ArDuClDuDuElElElBdBdBdArAr"
+
+"11|1 1 2 2 1 1|2 3 4 2 1 2|3 3 1 1 3 3|4 2 5 3 1 4|5 5 2 1 2 5",
+// "BrCdDrDrCdArArEuEuAr"
+
+"18|1 0 2 2 1 1|2 2 0 1 3 2|3 2 4 3 1 3|4 5 0 1 3 4|5 2 3 3 1 5",
+// "CrErBdBdBdArArArBuBuBuClElDdDdDdAr"
+
+"12|1 1 2 2 1 1|2 5 0 1 3 2|3 6 1 1 2 3|4 5 5 2 1 4|5 3 5 1 2 5",
+// "ArArBdBdCuDlEuEuDlBdAr"
+
+"17|1 0 2 2 1 1|2 2 0 1 3 2|3 4 2 1 2 3|4 5 0 1 3 4|5 4 4 3 1 5",
+// "BdBdBdArArCuCuArBuBuDdElElDdDdAr"
+
+"11|1 0 2 2 1 1|2 3 3 3 1 2|3 3 0 1 3 3|4 3 4 2 1 4|5 6 3 1 3 5",
+// "ArDrEdBrCdCdCdArArAr"
+
+"11|1 2 2 2 1 1|2 5 0 1 3 2|3 4 3 3 1 3|4 2 3 2 1 4|5 1 3 1 3 5",
+// "ArEdDlClDlClBdBdBdAr"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 3 4 2 1 3|4 3 3 3 1 4|5 2 2 1 2 5",
+// "ClEuDlDlBdBdBdEuArArArAr"
+
+"11|1 1 2 2 1 1|2 3 2 1 2 2|3 4 0 1 3 3|4 2 5 3 1 4|5 3 4 2 1 5",
+// "BuBuArCdDlElCdCdArAr"
+
+"11|1 0 2 2 1 1|2 2 2 1 2 2|3 4 1 1 2 3|4 3 1 1 3 4|5 2 4 3 1 5",
+// "CuErBdArErDdDdArArAr"
+
+"14|1 0 2 2 1 1|2 6 1 1 3 2|3 3 1 1 3 3|4 3 5 3 1 4|5 4 4 3 1 5",
+// "ArCdDrCdArArArCuCuDlElBdBd"
+
+"17|1 0 2 2 1 1|2 2 1 1 3 2|3 0 5 3 1 3|4 2 4 3 1 4|5 5 1 1 3 5",
+// "CrCrCrDrBdBdArArArBuBuClDlEdEdAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 3 4 2 1 3|4 3 0 1 3 4|5 2 3 3 1 5",
+// "ArCrCrElBdBdBdElDdDdDdArArAr"
+
+"16|1 0 2 2 1 1|2 2 0 1 3 2|3 2 5 3 1 3|4 5 0 1 3 4|5 5 3 2 1 5",
+// "BdBdCrBdArArArBuClElElDdDdDdAr"
+
+"19|1 0 2 2 1 1|2 4 0 1 3 2|3 4 3 3 1 3|4 4 5 3 1 4|5 2 5 1 2 5",
+// "ClDlEuEuDlDlEuEuClClBdBdBdEuArArArAr"
+
+"13|1 2 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 3 5 1 2 4|5 5 5 2 1 5",
+// "ArClClBdClClDuDuElElBdAr"
+
+"17|1 0 2 2 1 1|2 2 2 1 2 2|3 5 0 1 3 3|4 3 0 1 3 4|5 5 4 2 1 5",
+// "BuBuArCdDdElElCdCdElElDdDdArArAr"
+
+"16|1 1 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 3 1 1 3 4|5 5 5 2 1 5",
+// "ClDdElElElElDdArArDdClBdBdBdAr"
+
+"20|1 0 2 2 1 1|2 2 0 1 3 2|3 6 0 1 3 3|4 5 4 1 3 4|5 2 4 3 1 5",
+// "BdCdCdCdDuDuDuErBdBdArArArBuBuElDdDdAr"
+
+"16|1 1 2 2 1 1|2 4 5 3 1 2|3 3 1 1 3 3|4 4 0 1 3 4|5 6 0 1 3 5",
+// "BlBlBlBlCdCdArDdDdDdArArEdEdEd"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 4 5 2 1 4|5 5 1 1 2 5",
+// "ArArBdBdCdCdDlDlBdArEuAr"
+
+"9|1 0 2 2 1 1|2 4 1 1 2 2|3 6 2 1 2 3|4 3 1 1 2 4|5 2 1 1 2 5",
+// "BuCdDuEuArArArAr"
+
+"12|1 1 2 2 1 1|2 5 0 1 3 2|3 3 5 2 1 3|4 3 2 1 3 4|5 1 5 1 2 5",
+// "BdBdBdClEuEuClDdArArAr"
+
+"17|1 1 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 5 5 2 1 4|5 5 4 2 1 5",
+// "BdDlDlDlDlElElCdCdElElBdBdArArAr"
+
+"9|1 0 2 2 1 1|2 3 0 2 1 2|3 6 2 1 3 3|4 3 1 1 2 4|5 5 1 1 2 5",
+// "ArCdDdDdArArEuAr"
+
+"13|1 0 2 2 1 1|2 6 1 1 3 2|3 3 0 1 3 3|4 5 4 2 1 4|5 4 3 1 2 5",
+// "ArCdCdCdArArArEdEdDlBdBd"
+
+"11|1 0 2 2 1 1|2 4 2 1 2 2|3 2 4 3 1 3|4 3 2 1 2 4|5 2 2 1 2 5",
+// "BuBuCrCrDdEdArArArAr"
+
+"10|1 3 2 2 1 1|2 5 3 2 1 2|3 5 0 1 3 3|4 4 4 3 1 4|5 1 4 2 1 5",
+// "BlBlCdDlElDlCdCdAr"
+
+"9|1 0 2 2 1 1|2 4 1 1 2 2|3 5 2 1 2 3|4 6 2 1 3 4|5 2 0 3 1 5",
+// "ArArBdBdArCdArDd"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 6 1 1 3 3|4 4 3 2 1 4|5 5 4 2 1 5",
+// "ArDlDlBdElCdCdElElBdBdArAr"
+
+"10|1 1 2 2 1 1|2 4 0 1 3 2|3 5 2 1 2 3|4 6 2 1 2 4|5 3 4 2 1 5",
+// "ArBdCdDdElBdBdArAr"
+
+"15|1 0 2 2 1 1|2 6 0 1 3 2|3 3 0 1 3 3|4 2 4 3 1 4|5 4 3 3 1 5",
+// "ArCdDlDlCdCdArArArCdElBdBdBd"
+
+"12|1 0 2 2 1 1|2 3 0 1 3 2|3 3 3 2 1 3|4 3 5 3 1 4|5 5 2 1 2 5",
+// "ArClClBdBdDrBdArArEdAr"
+
+"18|1 0 2 2 1 1|2 2 0 1 3 2|3 5 0 1 3 3|4 3 5 3 1 4|5 1 3 3 1 5",
+// "ErErBdBdBdArArArBuBuBuDlElCdCdCdAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 4 1 1 2 3|4 2 0 1 3 4|5 1 3 3 1 5",
+// "BdBdBdCuErErDdDdDdArArArAr"
+
+"10|1 1 2 2 1 1|2 3 5 3 1 2|3 3 0 1 3 3|4 3 3 2 1 4|5 6 1 1 2 5",
+// "BrDrCdCdCdArArArEu"
+
+"13|1 0 2 2 1 1|2 2 2 1 2 2|3 2 4 1 3 3|4 3 0 1 3 4|5 4 0 1 3 5",
+// "BuBuArDdDdDdArEdEdEdArAr"
+
+"10|1 0 2 2 1 1|2 2 0 2 1 2|3 2 2 1 2 3|4 1 4 3 1 4|5 6 1 1 3 5",
+// "BrCuCuArArArArEdEd"
+
+"11|1 0 2 2 1 1|2 4 1 1 2 2|3 6 0 1 3 3|4 3 0 2 1 4|5 2 2 1 2 5",
+// "BdBdCdCdCdEdArArArAr"
+
+"10|1 1 2 2 1 1|2 4 0 1 3 2|3 5 2 1 2 3|4 2 5 3 1 4|5 6 2 1 3 5",
+// "ArBdBdCdDlBdArArEd"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 3 2 1 2 3|4 4 2 1 3 4|5 5 4 2 1 5",
+// "ArBdCuCuArDuElElBdBdElDdDdArAr"
+
+"12|1 1 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 3 4 1 2 4|5 4 2 1 2 5",
+// "ArBdClDdClBdBdClEdArAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 3 2|3 6 2 1 2 3|4 5 4 2 1 4|5 3 2 1 2 5",
+// "ArDlCdDlBdBdEuEuArArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 2 2|3 3 0 1 3 3|4 2 1 1 2 4|5 5 1 1 3 5",
+// "BuCdCdCdDuArArArEdEdAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 4 5 2 1 3|4 3 4 3 1 4|5 6 0 1 3 5",
+// "ArArBdClClDlDlBdBdArArEdEdEd"
+
+"10|1 1 2 2 1 1|2 6 1 1 3 2|3 5 2 1 2 3|4 5 4 2 1 4|5 4 4 1 2 5",
+// "ArArCuCuArEdDlBdBd"
+
+"10|1 1 2 2 1 1|2 4 5 3 1 2|3 4 2 1 3 3|4 3 1 1 2 4|5 3 4 1 2 5",
+// "DuArEuBlBlBlCdArAr"
+
+"21|1 0 2 2 1 1|2 5 4 2 1 2|3 3 0 1 3 3|4 5 0 1 3 4|5 2 4 1 3 5",
+// "BlBlCdDdDdDdEuEuEuBlBlBlCdCdEdEdArArArAr"
+
+"13|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 3 3|4 1 5 3 1 4|5 5 0 1 3 5",
+// "BdBdBdCdDlCdArArEdEdEdAr"
+
+"15|1 0 2 2 1 1|2 5 0 1 3 2|3 5 3 2 1 3|4 6 0 1 3 4|5 4 2 1 2 5",
+// "ArArEdArEdClClBdBdBdArDdDdDd"
+
+"21|1 0 2 2 1 1|2 5 5 2 1 2|3 3 4 1 3 3|4 4 4 3 1 4|5 5 0 1 3 5",
+// "ArBlCuCuBlBlBlCuDlDlDlDlCdCdArArEdEdEdAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 3 2 1 2 3|4 4 5 3 1 4|5 5 0 1 3 5",
+// "ArBdBdCdArArDlBdDlEdEdEdAr"
+
+"11|1 0 2 2 1 1|2 2 0 1 3 2|3 2 4 2 1 3|4 2 3 2 1 4|5 6 1 1 2 5",
+// "CrDrBdBdBdArArArArEu"
+
+"9|1 0 2 2 1 1|2 2 2 1 2 2|3 2 4 2 1 3|4 5 2 1 2 4|5 3 1 1 2 5",
+// "BuBuArDdEuArArAr"
+
+"17|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 4 4 1 3 4|5 3 2 1 2 5",
+// "ArDuDuDuClClBdBdClClDdDdEdArArAr"
+
+"17|1 0 2 2 1 1|2 6 1 1 3 2|3 2 1 1 3 3|4 4 0 1 3 4|5 5 5 2 1 5",
+// "BdCdDdDdElBdElElDdElElCdArArArAr"
+
+"9|1 0 2 2 1 1|2 1 4 3 1 2|3 3 2 1 2 3|4 5 2 1 2 4|5 2 1 1 2 5",
+// "BlCdDdEuArArArAr"
+
+"19|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 3 0 1 3 4|5 4 4 1 3 5",
+// "BdDdEuEuEuClBdBdClClClDdDdArEdEdArAr"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 6 2 1 2 3|4 5 1 1 3 4|5 3 5 3 1 5",
+// "ArBdBdCdDdElDdElElBdArArAr"
+
+"9|1 0 2 2 1 1|2 2 4 1 2 2|3 2 2 1 2 3|4 3 2 1 2 4|5 3 4 1 2 5",
+// "BdCdArDuDuArArAr"
+
+"18|1 0 2 2 1 1|2 4 1 1 3 2|3 5 0 1 3 3|4 2 0 1 3 4|5 5 5 2 1 5",
+// "BdCdCdDdDdElElCdElBdElElDdArArArAr"
+
+"14|1 0 2 2 1 1|2 5 1 1 3 2|3 4 5 3 1 3|4 4 4 2 1 4|5 3 4 1 2 5",
+// "ArEuClClEuDlBdBdEuEuArArAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 2 2|3 2 1 1 2 3|4 5 1 1 2 4|5 1 0 3 1 5",
+// "BdBdCdCdArArArDuAr"
+
+"16|1 1 2 2 1 1|2 5 0 1 3 2|3 4 4 3 1 3|4 3 5 3 1 4|5 3 1 1 3 5",
+// "BdClClBdClClDlBdDlDlEdEdArArAr"
+
+"11|1 0 2 2 1 1|2 5 2 1 2 2|3 3 1 1 2 3|4 6 1 1 2 4|5 4 0 1 3 5",
+// "ArBdCuArDuEdEdEdArAr"
+
+"13|1 0 2 2 1 1|2 3 1 1 3 2|3 6 1 1 2 3|4 2 5 3 1 4|5 5 0 1 3 5",
+// "ArBdCuDlDlBdArArEdEdEdAr"
+
+"12|1 0 2 2 1 1|2 3 0 1 3 2|3 1 5 3 1 3|4 3 4 3 1 4|5 5 2 1 2 5",
+// "ArBdClDrBdBdArArEuEuAr"
+
+"16|1 1 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 3 5 2 1 4|5 4 0 1 3 5",
+// "ArBdBdDlClBdDlClDlClEdEdEdArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 4 4 2 1 3|4 3 0 1 3 4|5 6 4 1 2 5",
+// "BdDdDdDdArEdCrBdBdArAr"
+
+"10|1 0 2 2 1 1|2 3 2 1 2 2|3 4 1 1 2 3|4 3 0 3 1 4|5 3 4 2 1 5",
+// "ArCdErBdArErCdArAr"
+
+"11|1 0 2 2 1 1|2 2 0 3 1 2|3 4 1 1 2 3|4 6 2 1 3 4|5 5 0 1 3 5",
+// "ArArBlCuArDdEdEdEdAr"
+
+"11|1 0 2 2 1 1|2 6 1 1 3 2|3 2 1 1 2 3|4 3 1 1 2 4|5 2 0 3 1 5",
+// "BdBdCdCdArDdDdArArAr"
+
+"13|1 1 2 2 1 1|2 4 0 1 3 2|3 3 4 3 1 3|4 3 2 1 2 4|5 5 1 1 3 5",
+// "BdClClBdBdClDdArArEdEdAr"
+
+"9|1 0 2 2 1 1|2 2 2 1 3 2|3 5 1 1 2 3|4 3 2 1 2 4|5 6 1 1 2 5",
+// "BdArCuDdArArArEu"
+
+"11|1 1 2 2 1 1|2 6 2 1 2 2|3 4 1 1 3 3|4 4 5 3 1 4|5 1 3 1 3 5",
+// "ArBdCdDlDlEuDlCdArAr"
+
+"15|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 4 4 2 1 4|5 2 3 3 1 5",
+// "ArDlCdCdDlDlElElBdBdBdArArAr"
+
+"12|1 0 2 2 1 1|2 5 2 1 3 2|3 4 2 1 3 3|4 6 0 1 3 4|5 4 5 2 1 5",
+// "ArArDdDdDdElBdElCdArAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 3 2 1 3 3|4 4 4 3 1 4|5 5 2 1 2 5",
+// "ArBdCdArArEuEuArCuCuDlBdBd"
+
+"18|1 1 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 5 5 2 1 4|5 3 3 1 3 5",
+// "ClDlEuDlDlDlEuClBdBdClClEdEdArArAr"
+
+"17|1 1 2 2 1 1|2 5 0 1 3 2|3 4 0 1 3 3|4 5 3 2 1 4|5 3 0 1 3 5",
+// "CdCdCdCdDlEdEdEdArArEdDlBdBdBdAr"
+
+"20|1 0 2 2 1 1|2 5 1 1 3 2|3 5 4 2 1 3|4 5 5 2 1 4|5 3 4 1 3 5",
+// "ArClDlEuEuDlDlDlEuClBdBdClClEdEdArArAr"
+
+"13|1 1 2 2 1 1|2 2 4 3 1 2|3 3 0 1 3 3|4 0 2 1 3 4|5 5 0 1 3 5",
+// "BlCdDuBlCdCdArArEdEdEdAr"
+
+"11|1 0 2 2 1 1|2 2 1 1 2 2|3 6 2 1 3 3|4 3 2 1 3 4|5 3 5 3 1 5",
+// "BuArCdElElElDdArArAr"
+
+"18|1 1 2 2 1 1|2 5 0 1 3 2|3 3 3 1 3 3|4 4 4 3 1 4|5 5 3 2 1 5",
+// "CuCuDlDlDlDlCdCdArArCdElElBdBdBdAr"
+
+"10|1 0 2 2 1 1|2 3 1 1 2 2|3 4 2 1 2 3|4 6 2 1 2 4|5 4 4 3 1 5",
+// "ArBuArCuCuArArDuDu"
+
+"20|1 0 2 2 1 1|2 6 0 1 3 2|3 3 0 1 3 3|4 2 0 1 3 4|5 1 4 3 1 5",
+// "BdCdDdErErDdDdArErCdCdArArArCuCuElBdBd"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 6 2 1 3 3|4 4 4 2 1 4|5 2 0 1 3 5",
+// "BdCdDlDlBdBdDlDlEdEdEdArArArAr"
+
+"12|1 0 2 2 1 1|2 3 2 1 2 2|3 5 2 1 3 3|4 4 0 1 3 4|5 4 5 2 1 5",
+// "ArBdArDdDdElCdElDdArAr"
+
+"10|1 0 2 2 1 1|2 5 2 1 2 2|3 4 1 1 2 3|4 2 0 3 1 4|5 3 1 1 2 5",
+// "ArBdCdCdEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 4 3 3 1 2|3 5 0 1 3 3|4 2 0 1 3 4|5 3 2 1 2 5",
+// "DdDdDdArDdEdArArEdBlBlCdCdCdAr"
+
+"10|1 1 2 2 1 1|2 5 1 1 3 2|3 4 5 2 1 3|4 4 2 1 3 4|5 2 4 1 2 5",
+// "ArBdClBdEuClDdArAr"
+
+"11|1 1 2 2 1 1|2 6 1 1 3 2|3 5 5 2 1 3|4 4 2 1 3 4|5 3 4 1 2 5",
+// "ArBdClBdEuClClDdArAr"
+
+"14|1 0 2 2 1 1|2 2 1 1 2 2|3 5 0 1 3 3|4 6 0 1 3 4|5 4 5 3 1 5",
+// "BuArArArCdCdDdDdElDdElCdAr"
+
+"13|1 0 2 2 1 1|2 5 2 1 3 2|3 4 1 1 3 3|4 5 5 2 1 4|5 2 5 2 1 5",
+// "ArArCdDlElDlBdElDlCdArAr"
+
+"11|1 0 2 2 1 1|2 2 2 1 3 2|3 3 1 1 3 3|4 4 1 1 3 4|5 6 1 1 2 5",
+// "BdArCdCdArDdDdArArEu"
+
+"17|1 1 2 2 1 1|2 3 1 1 3 2|3 5 0 1 3 3|4 4 4 3 1 4|5 5 5 2 1 5",
+// "CdDlDlCdDlDlBdElElCdElElBdArArAr"
+
+"12|1 1 2 2 1 1|2 4 3 1 2 2|3 5 3 2 1 3|4 3 2 1 2 4|5 5 0 1 3 5",
+// "BdClDdArArDdClEdEdEdAr"
+
+"11|1 0 2 2 1 1|2 3 2 1 3 2|3 2 0 1 3 3|4 1 4 2 1 4|5 6 1 1 2 5",
+// "BdCdDlCdCdArArArArEu"
+
+"12|1 0 2 2 1 1|2 6 1 1 3 2|3 2 1 1 2 3|4 3 0 1 3 4|5 4 2 1 2 5",
+// "BdBdCuArDdDdDdArEdArAr"
+
+"14|1 0 2 2 1 1|2 5 0 1 3 2|3 3 5 3 1 3|4 4 3 3 1 4|5 2 4 1 2 5",
+// "ArArArDlEuClEuEuDlBdBdBdAr"
+
+"17|1 0 2 2 1 1|2 5 0 1 3 2|3 6 1 1 2 3|4 2 1 1 3 4|5 0 4 3 1 5",
+// "BdCuErErErDdDdArArArDuDuElBdBdAr"
+
+"12|1 1 2 2 1 1|2 4 5 2 1 2|3 6 5 1 2 3|4 4 0 1 3 4|5 4 3 3 1 5",
+// "ArBlBlElElElDdDdDdArAr"
+
+"22|1 0 2 2 1 1|2 2 0 1 3 2|3 2 4 3 1 3|4 1 3 3 1 4|5 5 3 1 3 5",
+// "DrEuEuCrEuDrBdBdBdArArArBuBuBuClDlEdEdEdAr"
+
+"12|1 1 2 2 1 1|2 6 0 1 3 2|3 5 2 1 2 3|4 5 4 1 2 4|5 4 0 1 3 5",
+// "ArBdBdBdCuCuEdEdEdArAr"
+
+"11|1 0 2 2 1 1|2 3 1 1 3 2|3 2 2 1 3 3|4 6 1 1 3 4|5 4 2 1 2 5",
+// "BdBdCdArArDdDdEdArAr"
+
+"12|1 1 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 4 5 1 2 4|5 4 2 1 2 5",
+// "ArBdBdDuEuDuClBdEuArAr"
+
+"12|1 1 2 2 1 1|2 3 0 1 3 2|3 2 3 3 1 3|4 2 4 2 1 4|5 5 1 1 3 5",
+// "ClClBdDlBdBdArArEdEdAr"
+
+"9|1 0 2 2 1 1|2 5 2 1 2 2|3 6 2 1 3 3|4 2 1 1 2 4|5 1 0 2 1 5",
+// "BdCdDdDdArArArAr"
+
+"10|1 0 2 2 1 1|2 3 0 2 1 2|3 4 1 1 2 3|4 3 1 1 2 4|5 2 1 1 2 5",
+// "BrBrCuDuEuArArArAr"
+
+"15|1 0 2 2 1 1|2 6 0 1 3 2|3 5 0 1 3 3|4 5 3 2 1 4|5 5 5 2 1 5",
+// "ArArArDlBdBdDlCdCdElBdElCdAr"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 2 1 1 3 3|4 5 1 1 3 4|5 5 4 2 1 5",
+// "BdElElDdDdElElBdBdElCdCdArArArAr"
+
+"15|1 0 2 2 1 1|2 3 1 1 3 2|3 3 4 3 1 3|4 5 0 1 3 4|5 2 3 1 2 5",
+// "ArDdEdEdClClClBdBdArArDdDdAr"
+
+"16|1 0 2 2 1 1|2 3 0 1 3 2|3 4 0 1 3 3|4 3 4 2 1 4|5 3 5 3 1 5",
+// "ArBdCdDrBdDrCdElElCdElBdArArAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 2 1 1 3 3|4 4 3 3 1 4|5 0 6 3 1 5",
+// "CdCdArArDlErErErCdDlDlBdBdBdArAr"
+
+"16|1 0 2 2 1 1|2 2 1 1 3 2|3 0 4 3 1 3|4 5 3 1 2 4|5 3 0 1 3 5",
+// "CrCrDdDdCrBdBdArCrEdEdEdArArAr"
+
+"15|1 1 2 2 1 1|2 6 0 1 3 2|3 5 0 1 3 3|4 3 1 1 3 4|5 3 5 3 1 5",
+// "BdBdBdCdCdDdElCdElElDdArArAr"
+
+"13|1 2 2 2 1 1|2 4 1 1 3 2|3 6 0 1 3 3|4 4 5 3 1 4|5 2 5 1 2 5",
+// "BdCdCdDlCdEuEuDlDlBdArAr"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 2 4 3 1 3|4 2 1 1 3 4|5 6 1 1 3 5",
+// "CrDdDdArArArDuDuClBdBdArEdEd"
+
+"11|1 0 2 2 1 1|2 2 2 1 3 2|3 4 2 1 2 3|4 6 0 1 3 4|5 3 1 1 2 5",
+// "BdArCdDdDdDdEuArArAr"
+
+"12|1 0 2 2 1 1|2 3 0 1 3 2|3 5 1 1 2 3|4 5 0 2 1 4|5 3 4 2 1 5",
+// "ArBdCdCdElElBdBdArArAr"
+
+"16|1 0 2 2 1 1|2 2 1 1 3 2|3 6 1 1 3 3|4 5 1 1 3 4|5 1 4 3 1 5",
+// "CdCdErErBdBdArArArBuBuElDdDdAr"
+
+"15|1 0 2 2 1 1|2 6 0 1 3 2|3 3 0 1 3 3|4 1 3 3 1 4|5 3 5 3 1 5",
+// "ArBdBdBdDlCdCdElElElCdArArAr"
+
+"13|1 0 2 2 1 1|2 5 0 1 3 2|3 4 5 3 1 3|4 2 3 1 3 4|5 3 5 1 2 5",
+// "ArArArBdBdDuEuEuClClBdAr"
+
+"9|1 0 2 2 1 1|2 2 5 2 1 2|3 3 2 1 3 3|4 1 4 1 2 4|5 6 1 1 2 5",
+// "ArBrBrCdArArArEu"
+
+"11|1 0 2 2 1 1|2 3 4 2 1 2|3 2 1 1 2 3|4 4 2 1 2 4|5 6 0 1 3 5",
+// "BlCuArArDdArArEdEdEd"
+
+"11|1 1 2 2 1 1|2 5 0 1 3 2|3 3 5 3 1 3|4 4 4 3 1 4|5 4 1 1 2 5",
+// "ArBdClDlDlBdBdEuArAr"
+
+"19|1 0 2 2 1 1|2 5 0 1 3 2|3 3 4 2 1 3|4 3 0 1 3 4|5 2 4 1 3 5",
+// "BdBdBdDdEuEuEuClClClDdDdEdEdArArArAr"
+
+"15|1 0 2 2 1 1|2 6 1 1 3 2|3 5 5 2 1 3|4 4 4 1 3 4|5 2 5 2 1 5",
+// "ArArBdDuDuClBdElClElClDdArAr"
+
+"12|1 0 2 2 1 1|2 3 1 1 3 2|3 6 4 1 3 3|4 4 1 1 3 4|5 4 5 2 1 5",
+// "ArBdDdElElDdElBdArArAr"
+
+"23|1 0 2 2 1 1|2 5 1 1 3 2|3 2 0 1 3 3|4 0 5 3 1 4|5 0 3 3 1 5",
+// "BuDrDrDrErErErCdCdCdArArArCuCuCuDlElBdBdBdAr"
+
+"15|1 0 2 2 1 1|2 5 0 1 3 2|3 4 0 1 3 3|4 2 1 1 2 4|5 4 5 3 1 5",
+// "BdBdCdCdDuArArElElBdElCdArAr"
+
+"16|1 0 2 2 1 1|2 2 0 1 3 2|3 5 2 1 2 3|4 0 3 3 1 4|5 3 1 1 3 5",
+// "CdCdEdEdEdDrDrDrBdBdBdArArArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 2 1 3|4 4 5 2 1 4|5 6 2 1 2 5",
+// "ArArCrBdDrBdArArEuEu"
+
+"11|1 0 2 2 1 1|2 5 2 1 2 2|3 4 2 1 2 3|4 3 2 1 2 4|5 3 4 3 1 5",
+// "ArBuBuCuCuDuDuArArAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 3 2|3 2 0 1 3 3|4 3 5 2 1 4|5 2 4 2 1 5",
+// "BdCdDrDrBdElElCdCdArArArAr"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 6 1 1 2 3|4 2 0 1 3 4|5 2 3 2 1 5",
+// "CuErDdDdDdArErBdBdBdArArAr"
+
+"13|1 1 2 2 1 1|2 3 0 1 3 2|3 2 5 3 1 3|4 6 1 1 3 4|5 4 1 1 3 5",
+// "BdBdClClBdArDdDdEdEdArAr"
+
+"12|1 0 2 2 1 1|2 4 2 1 2 2|3 3 2 1 2 3|4 6 0 1 3 4|5 3 4 3 1 5",
+// "ArBuBuCuCuArArArDdDdDd"
+
+"16|1 0 2 2 1 1|2 4 5 3 1 2|3 4 0 1 3 3|4 1 5 1 2 4|5 2 3 3 1 5",
+// "ArArBlBlDuDuBlDuDuElCdCdCdArAr"
+
+"15|1 0 2 2 1 1|2 3 2 1 3 2|3 2 0 1 3 3|4 6 0 1 3 4|5 4 0 1 3 5",
+// "BdCdCdCdArArDdDdDdEdEdEdArAr"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 3 1 1 2 3|4 5 4 2 1 4|5 4 1 1 2 5",
+// "BdCuArDlBdBdEuArAr"
+
+"14|1 0 2 2 1 1|2 5 5 2 1 2|3 6 1 1 3 3|4 4 5 1 2 4|5 5 0 1 3 5",
+// "ArArArCdDuDuBlBlCdEdEdEdAr"
+
+"17|1 1 2 2 1 1|2 5 5 2 1 2|3 4 0 1 3 3|4 6 0 1 3 4|5 3 0 1 3 5",
+// "BlBlBlBlCdCdCdDdDdDdEdEdEdArArAr"
+
+"11|1 1 2 2 1 1|2 2 4 3 1 2|3 3 1 1 3 3|4 2 5 2 1 4|5 4 1 1 3 5",
+// "BlBlCdDlCdArEdEdArAr"
+
+"12|1 1 2 2 1 1|2 2 5 3 1 2|3 3 1 1 3 3|4 6 1 1 3 4|5 1 5 1 2 5",
+// "BrBrCdCdArArArCuBlDdDd"
+
+"10|1 0 2 2 1 1|2 4 1 1 3 2|3 3 1 1 2 3|4 4 5 2 1 4|5 5 1 1 2 5",
+// "ArBdCuArDrBdArEuAr"
+
+"11|1 0 2 2 1 1|2 2 0 1 3 2|3 5 2 1 2 3|4 4 4 2 1 4|5 3 2 1 3 5",
+// "BdBdBdArCuCuEdArArAr"
+
+"14|1 0 2 2 1 1|2 3 1 1 3 2|3 5 2 1 3 3|4 2 2 1 3 4|5 5 5 2 1 5",
+// "BdElElCdElElBdElDdArArArAr"
+
+"14|1 1 2 2 1 1|2 4 0 1 3 2|3 3 0 1 3 3|4 5 1 1 2 4|5 3 5 3 1 5",
+// "BdBdCdCdDuElElBdElCdArArAr"
+
+"12|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 5 0 2 1 4|5 6 1 1 2 5",
+// "ArArBdBdClClBdArArDlEu"
+
+"13|1 1 2 2 1 1|2 4 0 1 3 2|3 3 4 3 1 3|4 3 5 3 1 4|5 6 1 1 3 5",
+// "ArBdClClBdDlDlBdArArEdEd"
+
+"14|1 1 2 2 1 1|2 5 1 1 3 2|3 4 4 2 1 3|4 4 0 1 3 4|5 5 5 2 1 5",
+// "ArClBdClDdDdElElBdElDdArAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 2 2|3 3 1 1 3 3|4 2 1 1 2 4|5 6 0 1 3 5",
+// "BuCdCdDuArArArArEdEdEd"
+
+"19|1 0 2 2 1 1|2 2 0 1 3 2|3 0 4 3 1 3|4 5 2 1 3 4|5 6 1 1 3 5",
+// "BdCrCrDuCrBdBdArArArBuBuClDdDdArEdEd"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 2 4 3 1 3|4 5 0 1 3 4|5 5 5 2 1 5",
+// "ArBdClClBdDdDdElElDdElElBdArArAr"
+
+"19|1 0 2 2 1 1|2 5 4 2 1 2|3 5 0 1 3 3|4 4 1 1 3 4|5 2 3 1 3 5",
+// "BlBlCdCdCdEuEuBlBlBlDdDdEdEdArArArAr"
+
+"16|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 5 5 2 1 4|5 4 4 1 2 5",
+// "ArArArBdEdClClBdClEuEuDlDlBdAr"
+
+"9|1 0 2 2 1 1|2 3 2 1 2 2|3 4 1 1 2 3|4 3 0 2 1 4|5 2 2 1 2 5",
+// "BdCdCdEdArArArAr"
+
+"17|1 2 2 2 1 1|2 4 0 1 3 2|3 4 4 2 1 3|4 3 3 1 3 4|5 6 1 1 3 5",
+// "AlBdDuDuClClBdBdClDdDdArArArEdEd"
+
+"10|1 1 2 2 1 1|2 6 0 1 3 2|3 3 1 1 2 3|4 2 0 3 1 4|5 3 3 1 3 5",
+// "BdBdBdDrDrCuArArAr"
+
+"16|1 0 2 2 1 1|2 5 1 1 3 2|3 2 0 1 3 3|4 1 3 3 1 4|5 4 1 1 3 5",
+// "BdBdBdEdEdEdDrDrCdCdCdArArArAr"
+
+"18|1 0 2 2 1 1|2 1 4 3 1 2|3 2 1 1 3 3|4 4 3 1 2 4|5 5 3 1 3 5",
+// "DdDdBrEuEuBrCdCdArArArCuCuBlEdEdAr"
+
+"15|1 2 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 5 5 2 1 4|5 3 4 1 2 5",
+// "ArBdClDlEdClBdClClEuEuDlBdAr"
+
+"11|1 1 2 2 1 1|2 5 1 1 3 2|3 4 4 3 1 3|4 1 4 2 1 4|5 0 3 1 3 5",
+// "ArArClEuEuDlClBdBdAr"
+
+"16|1 1 2 2 1 1|2 3 0 1 3 2|3 5 1 1 3 3|4 5 4 2 1 4|5 4 2 1 3 5",
+// "BdEuDlDlCdCdDlDlBdBdArEdEdArAr"
+
+"15|1 0 2 2 1 1|2 3 2 1 2 2|3 5 0 1 3 3|4 6 0 1 3 4|5 4 3 3 1 5",
+// "ArBdArArBdElDdDdDdElCdCdCdAr"
+
+"12|1 0 2 2 1 1|2 5 1 1 3 2|3 4 2 1 3 3|4 6 0 1 3 4|5 3 5 2 1 5",
+// "ArArBdBdDdDdDdElCdArAr"
+
+"13|1 2 2 2 1 1|2 5 0 1 3 2|3 4 4 2 1 3|4 5 3 2 1 4|5 4 1 1 3 5",
+// "ClClEdEdArEdDlDlBdBdBdAr"
+
+"14|1 1 2 2 1 1|2 4 1 1 3 2|3 3 1 1 3 3|4 5 1 1 3 4|5 5 4 2 1 5",
+// "ElElDdDdElBdBdElCdCdArArAr"
+
+"10|1 1 2 2 1 1|2 5 5 2 1 2|3 5 2 1 3 3|4 3 1 1 2 4|5 3 5 1 2 5",
+// "BlDuArArEuEuBlCdAr"
+
+"11|1 0 2 2 1 1|2 4 2 1 2 2|3 2 2 1 2 3|4 0 4 3 1 4|5 3 0 1 3 5",
+// "BdCuCuArEdEdEdArArAr"
+
+"11|1 0 2 2 1 1|2 5 1 1 3 2|3 3 5 3 1 3|4 2 2 1 3 4|5 3 1 1 2 5",
+// "BdDdArEuArArDuClBdAr"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 6 0 1 3 3|4 4 5 3 1 4|5 1 5 1 2 5",
+// "ArArBdBdCdCdDlCdDlEuEuDlBdArAr"
+
+"11|1 2 2 2 1 1|2 4 0 1 3 2|3 2 5 3 1 3|4 1 5 1 2 4|5 1 3 1 2 5",
+// "BdBdEuDuEuDuClBdArAr"
+
+"12|1 0 2 2 1 1|2 5 0 1 3 2|3 3 1 1 2 3|4 2 1 1 2 4|5 2 0 2 1 5",
+// "BdBdBdCdCdDdDdArArArAr"
+
+"12|1 0 2 2 1 1|2 6 0 1 3 2|3 5 2 1 2 3|4 3 1 1 3 4|5 5 4 1 3 5",
+// "ArBdBdBdCuCuDdDdArArAr"
+
+"16|1 0 2 2 1 1|2 5 2 1 3 2|3 2 1 1 3 3|4 5 5 2 1 4|5 4 0 1 3 5",
+// "CdDlDlBdDlDlDlCdArArEdEdEdArAr"
+
+"19|1 2 2 2 1 1|2 4 0 1 3 2|3 5 1 1 3 3|4 5 5 2 1 4|5 2 3 1 3 5",
+// "AlAlBdBdCdDlDlCdEuDlBdDlDlEdArArArAr"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 4 3 2 1 3|4 2 0 1 3 4|5 6 0 1 3 5",
+// "DdDdDdArArEdEdEdEdCrBdBdBdArAr"
+
+"12|1 0 2 2 1 1|2 3 1 1 3 2|3 2 4 3 1 3|4 6 2 1 3 4|5 2 5 3 1 5",
+// "ArClClBdDdElElBdArArAr"
+
+"12|1 0 2 2 1 1|2 4 1 1 2 2|3 2 0 1 3 3|4 4 0 3 1 4|5 5 1 1 2 5",
+// "BdBdCdCdCdArArArEdEdAr"
+
+"13|1 0 2 2 1 1|2 6 1 1 3 2|3 5 1 1 2 3|4 2 1 1 3 4|5 3 0 1 3 5",
+// "BdBdCuDdDdArEdEdEdArArAr"
+
+"12|1 0 2 2 1 1|2 6 2 1 3 2|3 5 5 2 1 3|4 4 5 1 2 4|5 4 3 1 2 5",
+// "ArArEuDuEuDuClBdEuArAr"
+
+"13|1 0 2 2 1 1|2 5 1 1 3 2|3 2 3 2 1 3|4 3 0 1 3 4|5 0 3 2 1 5",
+// "ArBdBdBdCrCrDdDdDdArArAr"
+
+"13|1 0 2 2 1 1|2 6 1 1 3 2|3 5 1 1 2 3|4 3 0 1 3 4|5 4 1 1 3 5",
+// "ArBdBdCuDdDdDdArEdEdArAr"
+
+"18|1 0 2 2 1 1|2 3 0 1 3 2|3 3 4 2 1 3|4 5 0 1 3 4|5 2 3 1 3 5",
+// "BdDdDdDdEuEuClClBdBdClEdEdArArArAr"
+
+"18|1 1 2 2 1 1|2 5 0 1 3 2|3 4 5 2 1 3|4 3 3 1 3 4|5 5 4 2 1 5",
+// "BdDuClClClDuElElBdBdElElDdDdArArAr"
+
+"9|1 0 2 2 1 1|2 4 0 3 1 2|3 6 1 1 2 3|4 4 2 1 2 4|5 3 2 1 2 5",
+// "ArBlCuDdEdArArAr"
+
+"15|1 1 2 2 1 1|2 3 0 1 3 2|3 5 1 1 2 3|4 4 0 1 3 4|5 4 4 3 1 5",
+// "BdCuDdElElElDdDdElBdBdArArAr"
+
+"9|1 2 2 2 1 1|2 4 0 1 3 2|3 5 1 1 2 3|4 4 5 2 1 4|5 5 0 2 1 5",
+// "BdBdCdCdDrBdArAr"
+
+"11|1 1 2 2 1 1|2 6 0 1 3 2|3 4 2 1 2 3|4 3 1 1 2 4|5 5 3 2 1 5",
+// "CdCdDuArArArElBdBdBd"
+
+"18|1 0 2 2 1 1|2 5 1 1 3 2|3 4 4 3 1 3|4 3 3 1 3 4|5 6 0 1 3 5",
+// "ArDuDuClClBdBdClClDdDdArArArEdEdEd"
+
+"10|1 0 2 2 1 1|2 4 2 1 3 2|3 3 5 3 1 3|4 5 2 1 3 4|5 6 2 1 3 5",
+// "ArArClClBdArDdArEd"
+
+"15|1 0 2 2 1 1|2 2 2 1 2 2|3 3 1 1 3 3|4 3 4 3 1 4|5 4 0 1 3 5",
+// "BuBuArDlDlDlCdCdArEdEdEdArAr"
+
+"14|1 1 2 2 1 1|2 6 0 1 3 2|3 4 1 1 3 3|4 5 4 2 1 4|5 5 3 2 1 5",
+// "ArDlDlDlCdCdArArCdElBdBdBd"
+
+"14|1 0 2 2 1 1|2 4 1 1 3 2|3 4 5 3 1 3|4 3 2 1 2 4|5 3 5 1 2 5",
+// "ArBdDuDuArEuEuClClClBdArAr"
+
+"12|1 0 2 2 1 1|2 3 4 2 1 2|3 3 0 1 3 3|4 6 2 1 2 4|5 4 2 1 2 5",
+// "ArBrCdCdCdArDdEuEuArAr"
+
+"9|1 2 2 2 1 1|2 6 0 1 3 2|3 4 1 1 2 3|4 5 4 2 1 4|5 5 5 2 1 5",
+// "BdCuArArDlBdElBd"
+
+"17|1 0 2 2 1 1|2 2 1 1 3 2|3 2 4 3 1 3|4 5 3 1 3 4|5 2 5 3 1 5",
+// "DuDuCrBdErBdArArArBuBuClDdElDdAr"
+
+"16|1 0 2 2 1 1|2 6 1 1 3 2|3 4 0 1 3 3|4 4 4 3 1 4|5 3 1 1 3 5",
+// "ArCdDlBdBdDlDlCdCdDlEdEdArArAr"
+
+"16|1 0 2 2 1 1|2 2 0 1 3 2|3 4 2 1 2 3|4 5 1 1 3 4|5 0 5 3 1 5",
+// "BdBdCdDdErErErBdArArArBuElDdAr"
+
+"10|1 1 2 2 1 1|2 4 1 1 3 2|3 3 5 2 1 3|4 2 3 1 3 4|5 3 4 2 1 5",
+// "ArCrCrErErBdBdArAr"
+
+"13|1 1 2 2 1 1|2 5 0 1 3 2|3 6 1 1 3 3|4 4 4 3 1 4|5 3 2 1 2 5",
+// "BdDlCdCdDlBdBdEuEuArArAr"
+
+"10|1 0 2 2 1 1|2 3 2 1 2 2|3 6 2 1 3 3|4 4 1 1 3 4|5 5 2 1 3 5",
+// "ArBdArCdDdDdArEdAr"
+
+"9|1 1 2 2 1 1|2 4 4 3 1 2|3 6 2 1 2 3|4 4 2 1 2 4|5 4 0 3 1 5",
+// "ArBlBlBlCdDdArAr"
+
+"11|1 1 2 2 1 1|2 4 0 1 3 2|3 5 2 1 2 3|4 3 4 2 1 4|5 3 2 1 2 5",
+// "BdCdDlBdBdDlEdArArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 3 2|3 2 2 1 2 3|4 1 4 3 1 4|5 6 1 1 3 5",
+// "BdBdCuCuArArArArEdEd"
+
+"12|1 0 2 2 1 1|2 5 2 1 3 2|3 3 0 1 3 3|4 2 2 1 2 4|5 2 4 2 1 5",
+// "BdCdDuDuArElCdCdArArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 2 2|3 6 2 1 2 3|4 2 0 1 3 4|5 2 3 2 1 5",
+// "BuCdErDdDdDdArArArAr"
+
+"20|1 0 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 5 4 2 1 4|5 3 4 1 3 5",
+// "ArBdCdDlBdBdEuEuEuDlDlCdCdDlEdEdArArAr"
+
+"13|1 0 2 2 1 1|2 3 2 1 2 2|3 2 2 1 3 3|4 6 0 1 3 4|5 5 0 1 3 5",
+// "BdCdArArArDdDdDdEdEdEdAr"
+
+"14|1 1 2 2 1 1|2 4 1 1 3 2|3 1 4 1 3 3|4 4 4 3 1 4|5 0 3 2 1 5",
+// "ArDlDlErErCuCuCuDlBdBdArAr"
+
+"17|1 0 2 2 1 1|2 4 1 1 3 2|3 4 4 3 1 3|4 4 5 3 1 4|5 2 4 1 2 5",
+// "ClDlEuDlDlEuClClBdBdEuEuArArArAr"
+
+"15|1 0 2 2 1 1|2 4 0 1 3 2|3 3 5 3 1 3|4 2 4 3 1 4|5 3 1 1 3 5",
+// "ArBdClClClDlBdBdDlEdEdArArAr"
+
+"9|1 1 2 2 1 1|2 5 0 2 1 2|3 6 1 1 2 3|4 3 1 1 2 4|5 5 1 1 2 5",
+// "BlCuDuArArEdEdAr"
+
+"16|1 2 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 5 5 2 1 4|5 4 3 1 3 5",
+// "BdEuDlDlDlEuClBdBdClClEdEdArAr"
+
+"21|1 0 2 2 1 1|2 5 1 1 3 2|3 3 4 1 3 3|4 5 4 2 1 4|5 4 4 1 3 5",
+// "ArCuCuCuEuEuEuDlDlBdBdDlDlCdCdArEdEdArAr"
+
+"13|1 0 2 2 1 1|2 6 2 1 2 2|3 2 0 1 3 3|4 1 3 3 1 4|5 5 2 1 2 5",
+// "BdDrEdEdDrCdCdCdArArArAr"
+
+"14|1 0 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 3 0 1 3 4|5 3 4 2 1 5",
+// "ArBdDdElClBdBdElDdDdArArAr"
+
+"16|1 1 2 2 1 1|2 4 0 1 3 2|3 4 4 3 1 3|4 1 3 1 3 4|5 4 3 3 1 5",
+// "ArClClDuDuClDuElElElBdBdBdArAr"
+
+"16|1 1 2 2 1 1|2 5 0 1 3 2|3 4 0 1 3 3|4 4 3 3 1 4|5 5 5 2 1 5",
+// "ArDlDlBdBdDlCdCdElElBdElCdArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 2 2|3 3 0 2 1 3|4 2 1 1 3 4|5 3 1 1 2 5",
+// "BdBdCrDdDdArEuArArAr"
+
+"19|1 0 2 2 1 1|2 4 1 1 3 2|3 5 0 1 3 3|4 2 3 1 3 4|5 5 4 2 1 5",
+// "CdDuDuElElCdCdElBdBdElElDdDdArArArAr"
+
+"9|1 0 2 2 1 1|2 1 0 2 1 2|3 6 2 1 2 3|4 2 1 1 2 4|5 5 2 1 2 5",
+// "BlCdDuArArArEdAr"
+
+"12|1 0 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 3 1 1 2 4|5 5 2 1 2 5",
+// "ArBdClBdBdClDuArArEdAr"
+
+"16|1 1 2 2 1 1|2 6 0 1 3 2|3 4 0 1 3 3|4 5 5 2 1 4|5 3 1 1 3 5",
+// "BdBdCdCdDlBdDlDlCdDlEdEdArArAr"
+
+"13|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 4 4 1 2 4|5 5 5 2 1 5",
+// "ArBdDuDuClBdDuDuArArElBd"
+
+"20|1 1 2 2 1 1|2 4 4 2 1 2|3 5 1 1 3 3|4 3 2 1 3 4|5 2 4 1 3 5",
+// "AlDuBlCdCdEuEuEuBlBlBlDdDdEdEdArArArAr"
+
+"15|1 0 2 2 1 1|2 3 2 1 2 2|3 5 0 1 3 3|4 6 0 1 3 4|5 5 3 2 1 5",
+// "ArBdArArBdElDdDdDdElCdCdCdAr"
+
+"13|1 0 2 2 1 1|2 4 5 3 1 2|3 6 2 1 3 3|4 4 0 1 3 4|5 3 4 2 1 5",
+// "ArArBlBlBlCdDdElDdDdArAr"
+
+"18|1 1 2 2 1 1|2 5 5 2 1 2|3 5 0 1 3 3|4 4 4 3 1 4|5 3 0 1 3 5",
+// "BlBlBlBlCdDlDlCdCdDlDlEdEdEdArArAr"
+
+"10|1 0 2 2 1 1|2 4 2 1 2 2|3 5 1 1 2 3|4 6 1 1 3 4|5 4 4 2 1 5",
+// "ArArBuBuArCuArDdDd"
+
+"13|1 0 2 2 1 1|2 4 0 1 3 2|3 3 1 1 3 3|4 2 1 1 2 4|5 3 4 2 1 5",
+// "BdDuArErCdCdArErBdBdArAr"
+
+"14|1 1 2 2 1 1|2 3 1 1 3 2|3 6 0 1 3 3|4 3 4 3 1 4|5 5 1 1 3 5",
+// "CdCdCdDlDlDlBdBdArArEdEdAr"
+
+"13|1 0 2 2 1 1|2 2 0 1 3 2|3 3 1 1 2 3|4 6 1 1 3 4|5 1 4 3 1 5",
+// "BdCuDdDdErErBdBdArArArAr"
+
+"15|1 1 2 2 1 1|2 6 0 1 3 2|3 5 0 1 3 3|4 5 4 2 1 4|5 4 1 1 3 5",
+// "ArBdCdDlBdBdDlCdCdDlEdEdArAr"
+
+"7|1 1 2 2 1 1|2 6 0 1 3 2",
+// "ArArArBdBdBd"
+
+"16|1 1 2 2 1 1|2 3 0 1 3 2|3 5 0 1 3 3|4 4 4 2 1 4|5 5 3 2 1 5",
+// "BdDlDlDlBdBdArArBdElElCdCdCdAr"
+
+"10|1 1 2 2 1 1|2 4 5 3 1 2|3 5 2 1 3 3|4 4 1 1 2 4|5 2 5 1 2 5",
+// "ArBlDuArEuEuBlCdAr"
+
+"16|1 0 2 2 1 1|2 2 1 1 3 2|3 5 0 1 3 3|4 5 5 2 1 4|5 2 4 3 1 5",
+// "CdDlDlErBdBdArArArBuBuElCdCdAr"
+
+"7|1 0 2 2 1 1|2 3 1 1 2 2|3 2 0 2 1 3",
+// "ArBdBdArArAr"
+
+"21|1 0 2 2 1 1|2 2 2 1 3 2|3 5 4 2 1 3|4 4 4 1 3 4|5 6 0 1 3 5",
+// "BuDuDuDuClClClClClBdBdArArDdDdArArEdEdEd"
+
+"16|1 0 2 2 1 1|2 4 1 1 3 2|3 3 4 2 1 3|4 2 2 1 3 4|5 6 0 1 3 5",
+// "DuClBdBdClClDdDdArArArArEdEdEd"
+
+"14|1 0 2 2 1 1|2 3 0 1 3 2|3 4 1 1 3 3|4 2 4 3 1 4|5 1 3 1 2 5",
+// "ArBdEdEdDlCdCdDlBdBdArArAr"
+
+"17|1 0 2 2 1 1|2 6 1 1 3 2|3 2 0 1 3 3|4 4 1 1 3 4|5 5 5 2 1 5",
+// "BdCdCdDdElBdElElDdElElCdArArArAr"
+
+"19|1 1 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 4 4 1 3 4|5 3 0 1 3 5",
+// "BdDuDuDuClClBdBdClClDdDdEdEdEdArArAr"
+
+"13|1 0 2 2 1 1|2 4 1 1 2 2|3 3 0 1 3 3|4 6 0 1 3 4|5 3 4 2 1 5",
+// "ArBuCdDdDdDdErCdCdArArAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 3 5 2 1 3|4 2 1 1 3 4|5 6 0 1 3 5",
+// "BdClBdClClDdDdArArArArEdEdEd"
+
+"17|1 0 2 2 1 1|2 4 2 1 2 2|3 2 0 1 3 3|4 5 0 1 3 4|5 4 4 3 1 5",
+// "BuBuCdCdCdArArArCuCuDdElElDdDdAr"
+
+"14|1 0 2 2 1 1|2 2 1 1 3 2|3 1 5 3 1 3|4 6 5 1 2 4|5 3 1 1 3 5",
+// "BdCrCrBdArDuDuCrEdEdArArAr"
+
+"10|1 0 2 2 1 1|2 2 0 2 1 2|3 2 1 1 2 3|4 6 1 1 2 4|5 3 1 1 2 5",
+// "BrBrCuArDuEuArArAr"
+
+"11|1 0 2 2 1 1|2 5 2 1 2 2|3 2 1 1 2 3|4 3 2 1 3 4|5 4 0 1 3 5",
+// "BdCuArDdArEdEdEdArAr"
+
+"9|1 2 2 2 1 1|2 6 0 1 3 2|3 5 1 1 2 3|4 4 1 1 2 4|5 5 5 2 1 5",
+// "BdBdCuDuArArElBd"
+
+"16|1 0 2 2 1 1|2 4 5 3 1 2|3 4 0 1 3 3|4 5 0 1 3 4|5 4 3 2 1 5",
+// "ArArBlBlBlElDdDdDdElCdCdCdArAr"
+
+"14|1 0 2 2 1 1|2 4 1 1 3 2|3 5 2 1 2 3|4 3 0 1 3 4|5 3 5 3 1 5",
+// "ArBdCdDdDdElElBdElDdArArAr"
+
+"15|1 0 2 2 1 1|2 6 0 1 3 2|3 4 4 3 1 3|4 3 1 1 3 4|5 4 2 1 2 5",
+// "ArBdClBdBdClClClDdDdArEdArAr"
+
+"19|1 0 2 2 1 1|2 2 1 1 3 2|3 1 4 3 1 3|4 5 3 1 3 4|5 1 5 3 1 5",
+// "CrDuDuCrBdErErBdArArArBuBuClDdElDdAr"
+
+"13|1 0 2 2 1 1|2 2 0 1 3 2|3 2 5 2 1 3|4 4 1 1 3 4|5 1 3 1 3 5",
+// "BdBdCrBdArArCrCrDdDdArAr"
+
+"15|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 4 0 1 3 4|5 2 3 1 2 5",
+// "ArBdClBdBdClDdEdEdClDdDdArAr"
+
+"13|1 1 2 2 1 1|2 6 0 1 3 2|3 5 4 2 1 3|4 5 2 1 2 4|5 4 1 1 3 5",
+// "ArBdClBdBdClClDdEdEdArAr"
+
+"12|1 0 2 2 1 1|2 3 2 1 3 2|3 5 2 1 3 3|4 4 5 2 1 4|5 2 5 1 2 5",
+// "ArDlCdEuEuDlDlBdArArAr"
+
+"12|1 1 2 2 1 1|2 4 0 1 3 2|3 3 1 1 2 3|4 3 5 2 1 4|5 4 4 3 1 5",
+// "BdCuArDlElElElBdBdArAr"
+
+"17|1 0 2 2 1 1|2 2 0 1 3 2|3 3 2 1 2 3|4 0 3 3 1 4|5 4 0 1 3 5",
+// "CdCdDrEdEdEdEdDrDrBdBdBdArArArAr"
+
+"10|1 1 2 2 1 1|2 6 1 1 2 2|3 3 0 1 3 3|4 2 3 2 1 4|5 2 4 2 1 5",
+// "BuDlCdElCdCdArArAr"
+
+"17|1 1 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 3 0 1 3 4|5 4 0 1 3 5",
+// "BdBdClBdClClClDdDdDdArEdEdEdArAr"
+
+"13|1 0 2 2 1 1|2 5 0 1 3 2|3 4 1 1 2 3|4 5 4 2 1 4|5 2 1 1 3 5",
+// "BdCuDlDlBdBdEdEdArArArAr"
+
+"12|1 0 2 2 1 1|2 2 0 1 3 2|3 4 2 1 3 3|4 5 1 1 2 4|5 3 1 1 3 5",
+// "BdBdBdArCdDuEdEdArArAr"
+
+"19|1 0 2 2 1 1|2 4 0 1 3 2|3 2 0 1 3 3|4 6 0 1 3 4|5 5 4 2 1 5",
+// "BdCdDdElDdDdElElBdBdElElCdCdArArArAr"
+
+"17|1 0 2 2 1 1|2 2 0 1 3 2|3 6 0 1 3 3|4 0 5 3 1 4|5 5 2 1 3 5",
+// "BdBdCdCdCdDrDrDrBdArArArBuDlEdAr"
+
+"10|1 0 2 2 1 1|2 4 2 1 2 2|3 3 2 1 2 3|4 4 4 1 3 4|5 6 1 1 3 5",
+// "ArBuBuCdArArArEdEd"
+
+"10|1 0 2 2 1 1|2 1 4 2 1 2|3 6 2 1 2 3|4 2 2 1 2 4|5 3 1 1 3 5",
+// "BlCdDdArEdEdArArAr"
+
+"11|1 1 2 2 1 1|2 3 0 1 3 2|3 5 2 1 2 3|4 2 5 2 1 4|5 2 3 3 1 5",
+// "CdDlElElBdBdBdArArAr"
+
+"11|1 0 2 2 1 1|2 4 1 1 3 2|3 3 2 1 2 3|4 2 1 1 2 4|5 3 4 2 1 5",
+// "CuCuDuArArElBdBdArAr"
+
+"13|1 0 2 2 1 1|2 4 2 1 2 2|3 2 0 1 3 3|4 3 0 3 1 4|5 1 4 3 1 5",
+// "BdBdBdCdErErCdCdArArArAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 2 2|3 6 0 1 3 3|4 4 4 3 1 4|5 3 0 1 3 5",
+// "ArBuCdEdEdEdArArArEuEuDlCdCd"
+
+"18|1 1 2 2 1 1|2 4 0 1 3 2|3 2 5 1 2 3|4 3 5 3 1 4|5 3 4 3 1 5",
+// "AlBdCuCuCuCuCuArArDlDlElElBdBdArAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 3 2|3 3 1 1 3 3|4 4 5 2 1 4|5 6 0 1 3 5",
+// "ArBdCdDlDlBdDlCdArArArEdEdEd"
+
+"9|1 0 2 2 1 1|2 2 2 1 2 2|3 4 1 1 2 3|4 1 4 3 1 4|5 2 1 2 1 5",
+// "CuDrDrBdArArArAr"
+
+"17|1 0 2 2 1 1|2 4 0 1 3 2|3 5 0 1 3 3|4 6 0 1 3 4|5 4 3 3 1 5",
+// "ArArElDdDdDdElCdCdCdElBdBdBdArAr"
+
+"17|1 0 2 2 1 1|2 5 0 1 3 2|3 5 5 2 1 3|4 2 5 1 2 4|5 3 0 1 3 5",
+// "ArBdBdClClBdDuDuClClEdEdEdArArAr"
+
+"11|1 1 2 2 1 1|2 4 2 1 2 2|3 6 1 1 3 3|4 5 5 2 1 4|5 4 5 1 2 5",
+// "ArBuBuArArCdEuEuDlCd"
+
+"13|1 2 2 2 1 1|2 3 4 3 1 2|3 4 0 1 3 3|4 5 0 1 3 4|5 3 3 3 1 5",
+// "BlBlElDdDdDdElCdCdCdArAr"
+
+"11|1 0 2 2 1 1|2 5 0 1 3 2|3 2 2 1 2 3|4 4 3 2 1 4|5 1 4 2 1 5",
+// "CuCuArArArDlBdBdBdAr"
+
+"11|1 2 2 2 1 1|2 4 3 1 3 2|3 6 1 1 3 3|4 5 5 2 1 4|5 5 1 1 2 5",
+// "BuCdDlCdDlDlBdArEuAr"
+
+"20|1 0 2 2 1 1|2 4 1 1 3 2|3 4 5 3 1 3|4 3 4 1 3 4|5 4 4 3 1 5",
+// "ArDuDuClClClClDuElElElBdBdElDdDdArArAr"
+
+"10|1 0 2 2 1 1|2 6 1 1 3 2|3 3 1 1 2 3|4 2 2 1 2 4|5 1 4 2 1 5",
+// "BdBdCuDuDuArArArAr"
+
+"15|1 0 2 2 1 1|2 5 1 1 3 2|3 4 1 1 2 3|4 4 4 3 1 4|5 2 0 1 3 5",
+// "CuDlEdEdEdArArArEuEuDlBdBdAr"
+
+"16|1 0 2 2 1 1|2 4 0 1 3 2|3 3 4 3 1 3|4 5 0 1 3 4|5 5 5 2 1 5",
+// "ArArBdClClBdDdDdElElDdElBdArAr"
+
+"12|1 1 2 2 1 1|2 3 0 1 3 2|3 3 4 3 1 3|4 6 4 1 3 4|5 1 3 1 2 5",
+// "BdClEdEdClClBdBdArArAr"
+
+"18|1 0 2 2 1 1|2 5 0 1 3 2|3 5 4 2 1 3|4 3 2 1 3 4|5 4 0 1 3 5",
+// "ArBdClDuClBdBdClClDdDdArEdEdEdArAr"
+
+"17|1 1 2 2 1 1|2 5 0 1 3 2|3 4 4 2 1 3|4 4 5 2 1 4|5 3 3 1 3 5",
+// "BdEuDlDlDlEuClBdBdClClEdEdArArAr"
+
+"18|1 0 2 2 1 1|2 6 0 1 3 2|3 5 5 2 1 3|4 5 4 2 1 4|5 4 3 1 3 5",
+// "ArArBdEuClClClEuDlBdBdDlDlEdEdArAr"
+
+"12|1 1 2 2 1 1|2 3 0 1 3 2|3 2 5 3 1 3|4 3 4 2 1 4|5 4 2 1 2 5",
+// "BdCrCrDrBdBdArDrEdArAr"
+
+"13|1 0 2 2 1 1|2 2 0 1 3 2|3 6 0 1 3 3|4 5 2 1 2 4|5 4 4 2 1 5",
+// "BdBdBdArArArCdCdCdDuDuAr"
+
+"15|1 0 2 2 1 1|2 4 1 1 2 2|3 3 5 3 1 3|4 3 0 1 3 4|5 6 0 1 3 5",
+// "ArBuCrDdDdDdArArArDuClEdEdEd"
+
+"14|1 1 2 2 1 1|2 6 0 1 3 2|3 4 2 1 2 3|4 5 4 2 1 4|5 5 0 1 3 5",
+// "ArBdCuCuArDlBdBdDlEdEdEdAr"
+
+"9|1 0 2 2 1 1|2 4 2 1 2 2|3 2 4 1 2 3|4 2 2 1 2 4|5 6 2 1 2 5",
+// "BdCdDdArArArArEd"
+
+"9|1 0 2 2 1 1|2 2 2 1 3 2|3 4 2 1 2 3|4 5 1 1 2 4|5 6 2 1 2 5",
+// "BdArArCdArDuArEd"
+
+"13|1 0 2 2 1 1|2 5 1 1 3 2|3 5 5 2 1 3|4 3 5 1 2 4|5 3 3 2 1 5",
+// "ArArArBdClDuElElDuClBdAr"
+
+"10|1 0 2 2 1 1|2 2 1 1 2 2|3 2 0 2 1 3|4 3 1 1 2 4|5 4 1 1 2 5",
+// "BdBdArClDuArEuArAr"
+
+"10|1 2 2 2 1 1|2 6 1 1 3 2|3 4 1 1 3 3|4 3 4 2 1 4|5 2 3 1 2 5",
+// "BdBdEdEdDlCdCdArAr"
+
+"16|1 0 2 2 1 1|2 2 1 1 3 2|3 6 1 1 3 3|4 5 4 2 1 4|5 4 1 1 3 5",
+// "DlCdCdDlDlDlDlBdBdArArEdEdArAr"
+
+"12|1 0 2 2 1 1|2 3 1 1 2 2|3 6 0 1 3 3|4 2 0 3 1 4|5 2 1 1 2 5",
+// "BdBdCdCdCdDrEuArArArAr"
+
+"17|1 0 2 2 1 1|2 3 0 1 3 2|3 1 5 3 1 3|4 6 1 1 3 4|5 2 1 1 3 5",
+// "BdBdCrCrCrBdDdEdEdArArArArBuClDd"
+
+"14|1 2 2 2 1 1|2 5 5 2 1 2|3 6 1 1 3 3|4 4 0 1 3 4|5 5 0 1 3 5",
+// "BlBlBlCdCdDdDdDdArEdEdEdAr"
+
+"19|1 0 2 2 1 1|2 3 0 1 3 2|3 2 1 1 3 3|4 6 4 1 3 4|5 3 4 3 1 5",
+// "BdCdCdArDuDuDuErBdBdArArArBuBuElDdDd"
+
+"14|1 0 2 2 1 1|2 2 0 1 3 2|3 0 5 3 1 3|4 3 5 1 2 4|5 5 4 1 2 5",
+// "BdBdDuDuCrCrEuCrBdArArArAr"
+
+"9|1 0 2 2 1 1|2 2 1 1 2 2|3 3 1 1 2 3|4 5 2 1 2 4|5 4 4 2 1 5",
+// "BuArCuArArDuDuAr"
+
